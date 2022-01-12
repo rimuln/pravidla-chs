@@ -25,8 +25,9 @@ může:: představuje volitelnou záležitost
 [[cesky-pohar]]Český pohár:: označuje nejvyšší úroveň série závodů schválených ČHS včetně <<#mistrovstvi,Mistrovství>> v disciplínách Boulder, Obtížnost a Rychlost, která je otevřená závodníkům:
 +
 --
- .. ve věku 16 let a více v roce poháru
- .. ve věku 19 let a méně v roce poháru
+ .. ve věku 16 let a více v roce poháru je relevantní název „Český pohár“
+ .. ve věku 14 až 19 let  v roce poháru je relevantní název „Český pohár mládeže“
+ .. ve věku 13 let a méně v roce poháru je relevantní název „Český pohár U14“
 --
 + 
 v každém případě musí být uvedeno v kalendáři závodu publikovaném ČHS.

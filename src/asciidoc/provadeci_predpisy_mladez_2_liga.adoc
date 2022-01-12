@@ -31,8 +31,8 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [.center]
 |===
 ^.|Disciplína ^.| Výše dotace 
-^.|Obtížnost  ^.| 10 000 Kč 
-^.|Boulder    ^.| 10 000 Kč 
+^.|Obtížnost  ^.| 15 000 Kč 
+^.|Boulder    ^.| 15 000 Kč 
 ^.|Kombinace  ^.| 15 000 Kč 
 |===
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
@@ -87,11 +87,9 @@ Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodob
 
 . Pro všechny závody platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>>.
 
-. Při předběžné registraci na stránkách sportovního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
-
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
-. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností.
+. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností a nemají v České republice trvalý nebo dlouhodobý pobyt.
 
 . Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 14 let je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda v systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
 +
@@ -107,7 +105,6 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 . Hlavní stavěč musí mít licenci
 .. Hlavní stavěč ČHS
 .. Stavěč ČHS
-.. Stavěč - Aspirant
 +
 Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/362/061702.pdf[seznamu rozhodčích] na webu ČHS.
 +

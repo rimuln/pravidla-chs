@@ -34,7 +34,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
                              ^| *na místě*         ^| 600 Kč            
 |===
 
-. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých. 
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U18 a U20 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých. 
  
 . Dodatečná registrace v den závodu není možná.
 
@@ -78,9 +78,9 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 . KSL deleguje pro závody nejvyšších soutěží a 1. ligy delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Hlavním rozhodčím smí být pouze držitel licence Hlavní rozhodčí ČHS.
 
-. Hlavního stavěče závodu v lezení na obtížnost a boulderu navrhuje pořadatel na základě seznamu držitelů příslušných stavěčských licencí, jeho nasazení pro daný závod musí být schváleno KSL. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) nebo úrovně 2. (Stavěč ČHS), případně mezinárodní licence IFSC, pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. Pro ČP do 14 let je využití stavěče s národní nebo mezinárodní licencí doporučené.
+. Hlavního stavěče závodu v lezení na obtížnost a boulderu navrhuje KSL na základě seznamu držitelů příslušných stavěčských licencí. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) případně mezinárodní licence IFSC. Pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. Pro ČP do 14 let je využití stavěče s národní nebo mezinárodní licencí doporučené.
 
-. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem. Minimální cena za stavění závodních cest u závodů nejvyšších soutěží a 1. ligy týmem vedeným licencovaným stavěčem je 10 000,- Kč za jednodenní závod a 12 000,- za závod dvoudenní. 
+. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem. 
 
 == Poskytování informací o závodě 
 
@@ -99,7 +99,7 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2022“>>, který je přílohou Pravidel sportovního lezení ČHS.
 
 === Obtížnost
-. Závody nejvyšších soutěží kategorií B, A, J se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>) /.
+. Závody nejvyšších soutěží kategorií U16, U18, U20 se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>).
 
 === Boulder
 . Pro kvalifikace se doporučuje lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace, podmínek izolace>>, finálový formát je plně na rozhodnutí pořadatele.
@@ -108,8 +108,8 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 
 === Rychlost
 . Závody na rychlost nejvyšších soutěží i 1. ligy se konají v jednom dni. 
-. V případě dohody s KSL lze uspořádat závod ČPM v lezení na rychlost zvlášť pro starší kategorie (B, A, J) na standardní cestě a zvlášť (i v jiném termínu) závod ČP do 14 let pro mladší kategorie.
-. Pokud je závod na rychlost kategorií A a J propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
+. V případě dohody s KSL lze uspořádat závod ČPM v lezení na rychlost zvlášť pro kategorie U16, U18, U20 na standardní cestě a zvlášť (i v jiném termínu) závod ČP do 14 let pro kategorie U10, U12, U14.
+. Pokud je závod na rychlost kategorií U18 a U20 propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
 
 === Závody se zahraniční účastí 
 . V případě, že se závody uskuteční se zahraniční účastí a budou vyhlášeny v <<pravidla_sl.adoc#open-format,Open formátu>>, nesmí zahraniční účastníci ovlivnit počty postupujících českých závodníků. Celkový počet postupujících bude pro každé kolo navýšen o postupující zahraniční účastníky. Toto ustanovení platí pro všechny kategorie a disciplíny s výjimkou závodů na rychlost – zde je počet postupujících dán pravidly a postupovým klíčem.

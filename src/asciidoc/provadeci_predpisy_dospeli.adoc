@@ -29,11 +29,11 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [cols=",,",options="header"]
 [.center]
 |===
-         |                     ^| *Platba*         ^| *Startovné* 
-   .2+^.^| *držitel licence*   ^| *předem na účet* ^| 350 Kč
-                               ^| *na místě*       ^| 500 Kč
-   .2+^.^| *zahraniční*        ^| *předem na účet* ^| 500 Kč
-                               ^| *na místě*       ^| 750 Kč
+         |                      ^| *Platba*         ^| *Startovné* 
+   .2+^.^| *držitel registrace* ^| *předem na účet* ^| 350 Kč
+                                ^| *na místě*       ^| 500 Kč
+   .2+^.^| *zahraniční*         ^| *předem na účet* ^| 500 Kč
+                                ^| *na místě*       ^| 750 Kč
 |===
 +
 Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
@@ -69,7 +69,7 @@ Nominační závody musí být pořádány v open formátu.
 
 . KSL deleguje pro závody nejvyšších soutěží a 1. ligy delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Hlavním rozhodčím smí být pouze držitel licence Hlavní rozhodčí ČHS.
 
-. Hlavního stavěče závodu v lezení na obtížnost a boulderu navrhuje pořadatel na základě seznamu držitelů příslušných stavěčských licencí, jeho nasazení pro daný závod musí být schváleno KSL. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) nebo úrovně 2. (Stavěč ČHS), případně mezinárodní licence IFSC, pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. 
+. Hlavního stavěče závodu v lezení na obtížnost a boulderu navrhuje KSL na základě seznamu držitelů příslušných stavěčských licencí. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) případně mezinárodní licence IFSC. Pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. 
 
 . Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem.
 
