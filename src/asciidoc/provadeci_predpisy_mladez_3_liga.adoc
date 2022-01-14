@@ -50,7 +50,7 @@ Podmínky registrace si stanovuje pořadatel.
 == Závodníci 
 
 . Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a cizince kteří mají v České republice trvalý nebo dlouhodobý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
-. Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky.
+. Pro zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky.
 
 . Závodů se nesmí účastnit závodníci, kteří: 
 .. se v roce 2021 umístili v Českém poháru na 1. až 3. místě 
@@ -73,9 +73,9 @@ Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodob
 
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
-. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností  a nemají v České republice trvalý nebo dlouhodobý pobyt.
+. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností  a které nemají v České republice trvalý nebo dlouhodobý pobyt.
 
-. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění. Pro závody mládeže je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce jsou součástí programu pro zpracování výsledků a aktuální seznam zdravotních prohlídek je k dispozici v kalendáři závodů jako součást systému předregistrací. Osoba, která doprovází a zastupuje nezletilého závodníka, je zodpovědná, že daný závodník je zdravotně způsobilý a na požádání je schopen toto doložit.
+. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 14 let je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda v systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
 +
 Zdravotní prohlídka bude požadována i po zahraničních závodnících. 
 

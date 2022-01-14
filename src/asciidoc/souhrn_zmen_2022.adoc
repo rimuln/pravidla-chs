@@ -37,6 +37,8 @@ V Boulderu si závodníci kvalifikační skupinu nebudou volit. Bude jim přiřa
 
 V Boulderu sekce <<pravidla_sl.adoc#zacatek-a-konec-pokusu-boulder,Začátek a konec pokusu>>, <<pravidla_sl.adoc#hodnoceni,Hodnocení>> a <<pravidla_sl.adoc#poradi-po-kazdem-kole-boulder,Pořadí po každém kole>> přestrukturována
 
+V 1. lize mládeže i dospělých je povinnost mít platnou závodní registraci.
+
 V 2. lize mládeže nesmí startovat zahraniční závodníci bez trvalého nebo dlouhodobého pobytu v ČR. Pokud cizinec žije v České republice, závodů se účastnit může za stejných podmínek jako čeští závodníci. Tj. členství v ČHS, závodní registrace, získávání bodů do žebříčku, omezení startů mezi ligami.
 
 V 2. lize mládeže je povinnost mít platnou závodní registraci.
@@ -49,4 +51,4 @@ V 3. lize mládeže nesmí startovat zahraniční závodníci bez trvalého nebo
 
 V 3. lize mládeže není povinnost mít platnou závodní registraci.
 
-V 3. lize mládeže je povinnost použít svazovou předregistrační systém. Pořadatel si z něj bude moci vyexportovat předregistrované závodníky.
+V 3. lize mládeže je povinnost použít svazový předregistrační systém. Pořadatel si z něj bude moci vyexportovat předregistrované závodníky.
