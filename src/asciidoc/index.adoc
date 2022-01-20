@@ -1,7 +1,9 @@
 :lang: cs
 include::../../locale/_attributes.adoc[]
 
-= Pravidla a prováděcí předpisy sportovního lezení pro rok 2022
+= Pravidla a prováděcí předpisy sportovního lezení
+
+== Aktuální rok
 
 <<souhrn_zmen_2022.adoc#,Souhrn změn v pravidlech a prováděcích předpisech pro rok 2022>> [link:souhrn_zmen_2022.pdf[PDF verze]]
 
@@ -20,3 +22,7 @@ include::../../locale/_attributes.adoc[]
 <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky z pravidel sportovního lezení pro 2. ligu mládeže>> [link:vyjimky_z_pravidel_pro_2_liga_mladez.pdf[PDF verze]]
 
 Stáhnout vše: link:pravidla-pdf.zip[PDF], link:pravidla-html.zip[HTML]
+
+== Předchozí roky
+
+- link:2021[Pravidla a prováděcí předpisy pro rok 2021]
