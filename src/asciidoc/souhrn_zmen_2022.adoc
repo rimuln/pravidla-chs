@@ -35,6 +35,8 @@ Zaveden do pravidel asistenční pes.
 
 V Boulderu si závodníci kvalifikační skupinu nebudou volit. Bude jim přiřazena na základě umístění v rankingu.
 
+ČPMl a ČP U14 na obtížnost má sjednocený počet závodů s rychlostí a bouldry.
+
 V Boulderu sekce <<pravidla_sl.adoc#zacatek-a-konec-pokusu-boulder,Začátek a konec pokusu>>, <<pravidla_sl.adoc#hodnoceni,Hodnocení>> a <<pravidla_sl.adoc#poradi-po-kazdem-kole-boulder,Pořadí po každém kole>> přestrukturována
 
 V 1. lize mládeže i dospělých je povinnost mít platnou závodní registraci.
