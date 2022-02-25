@@ -4,4 +4,107 @@
 [#obecne-boulder_obtiznost]
 === OBECNĚ
 
-. Pravidla budou o tuto kapitolu aktualizovány po zveřejnění finální verze mezinárodních pravidel
+. Tuto část je třeba číst ve spojitosti s částí <<#obtiznost>> (Obtížnost) a <<#boulder>> (Boulder) těchto pravidel. V případě konfliktu mezi články a ustanoveními jednotlivých disciplín a ustanoveními v části <<#boulder_obtiznost>> (Boulder & Obtížnost) mají ustanovení v v části <<#boulder_obtiznost>> (Boulder & Obtížnost) přednost.
+
+. Soutěže v kombinaci Boulder & Obtížnost musí obsahovat mužské i ženské kategorie a pro každou kategorii
+.. musí být organizovány s:
+... volitelné kvalifikační kolo
+... semifinále
+... finále, a
+.. kombinovat v rámci každého kola:
+... fázi kola Boulder skládající se z 4 boulderů následována 
+... fázi kola Obtížnost skládající se z 1 cesty
++
+Ve zvláštních případech může Hlavní rozhodčí zrušit maximálně 1 boulder v jakémkoliv kole. Zrušení jakékoliv fáze kola bude mít za následek zrušení celého kola, ve kterém se daná fáze kola měla konat.
+
+. Boulderu a cesty na obtížnost musí být postaveny tak aby splňovaly požadavky  v bodech <<#navrh-cest-obtiznost>> a <<#navrh-boulderu>> těchto pravidel s následujícími změnami
+.. Bod <<#navrh-cest-obtiznost>> se mění a přeformulovává takto:
+... Každá cesta musí být postavena tak aby:
+.... neměla méně než 30 bodovaných chytů
+.... se omezilo riziko zranění při pádu soutěžícího nebo jakékoliv třetí osoby. Nebo překážela jinému soutěžícímu.
+.... neobsahovala skoky směrem dolů
+.. Bod <<#navrh-boulderu>> se mění a přeformulovává takto:
+... Každý boulder má jednoznačně označené následující pozice
+.... startovní pozici (nástup), odkud se pokus hodnotí jako úspěšně započatý. Nástup se skládá z chytu/chytů pro obě ruce a pro obě nohy. Jako startovní chyt nesmí být označeno prázdné místo nebo neohraničená plocha stěny.
+.... dva bonusové chyty (tzv. zóny). Umístění těchto chytů záleží na uvážení Hlavního stavěče. Chyty musí být umístěny tak aby rozdělily soutěžící s rozdílnou výkonností
+.... Konec boulderu (top), kterým je označen koncový chyt.
+
+. Časomíra musí v každém kole ukazovat 
+.. zbývající lezecký čas pro každého soutěžícího během jeho pokusu na jakékoliv cestě.
+.. zbývající lezecký čas a čas na přípravu v disciplíně Boulder
+.. musí být viditelná pro všechny soutěžící v soutěžním prostoru a v každé přechodové zóně
+.. zobrazovat zbývající čas zaokrouhlený na celé sekundy
+.. poskytovat zvukový signál
+... na začátku a konci lezeckého času
+... když zbývá minuta do konce lezeckého času
+... odpočet posledních 5 sekund na konci každého času
+
+[[startovni-poradi-boulder-a-obtiznost]]
+=== Startovní pořadí a kvóty
+
+. Kvóta pro každé kolo v soutěžích Boulder & Obtížnost je
+.. 20 pro semifinálové kolo
+.. 8 pro finálové kolo
++
+Kvóta pro semifinálové a finálové kola musí být, kde to je relevantní, naplněna nejlépe hodnocenými soutěžícími z předchozího dokončeného kola. Pokud je kvóta překročená z důvodu shody, pak postupují všichni soutěžící s touto shodou.
+
+. Startovní pořadí
+.. Kvalifikační kolo
+... pokud jsou soutěžící kvalifikování do soutěže skrz kvalifikační systém skládající se z více soutěží, pak startují v sestupném pořadí dle listiny vygenerované tímto kvalifikačním systémem. (např. nejlepší startuje poslední); nebo
+... v náhodném pořadí
+.. Semifinálové kolo
+... pokud soutěž obsahuje kvalifikační kolo, pak v sestupném pořadí podle umístění v daném kole. např. nejlepší soutěžící poslední; nebo jinak
+... pokud jsou soutěžící kvalifikování do soutěže skrz kvalifikační systém skládající se z více soutěží, pak startují v sestupném pořadí dle listiny vygenerované tímto kvalifikačním systémem. (např. nejlepší startuje poslední)
+.. Finálové kolo
+...v opačném pořadí než se umístili v semifinálovém kole
++
+V každém případě je startovní pořadí stejné jak pro Boulder, tak i pro Obtížnost v daném kole a zveřejněné jako Oficiální startovní listina
+
+[[prubeh-souteze-boulder-a-obtiznost]]
+=== Průběh soutěže
+
+. Každá Boulder fáze kola během soutěže bude řízena v soulad s následujícími ustanoveními, které mají přednost před analogickými body pravidel jednotlivých disciplín
+
+. Každá fáze kola v soutěži probíhá za dodržení <<#podminky-izolace,podmínek izolace>>. Soutěžící, kteří jsou schopní se účastnit:
+.. v jakékoliv fázi Kvalifikačního nebo Semifinálového kola, se musí soutěžící ohlásit v <<#izolacni-zona,Izolační zóně>> nejpozději 30min před plánovaným startem příslušné fázi kola a splňovat <<#podminky-izolace,podmínky izolace>> do dokončení všech jeho pokusů v příslušné fázi kola (plus jakéhokoliv časového limitu pro podání protestu na jeho pokusy)
+.. ve Finálovém kole se soutěžící musí ohlásit v <<#izolacni-zona,Izolační zóně>> nejpozději 30min před plánovaným startem příslušného kola a splňovat <<#podminky-izolace,podmínky izolace>> do dokončení všech jeho pokusů v obou částech kola.
+
++
+Soutěžící, kteří nejsou přítomni v <<#izolacni-zona,Izolační zóně>> v čase uzavření Izolace nebudou oprávnění startovat v jakékoliv relevantní fázi kola nebo kola a budou hodnoceni <<#dns,DNS>>. <<#clen-tymu,Členové týmu>> kteří opustí <<#izolacni-zona,Izolační zónu>> po uzavření izolace se nesmí do vrátit dokud neskončí aktuální fáze kola/kolo (a vždy před startem jakékoliv následující fázi kola).
+
+. Kdy:
+.. s ohledem na kvalifikační nebo semifinálové kolo po sobě jdoucí fáze konající se ve stejný den, pak musí být pauza minimálně dvě hodiny mezi časem, kdy poslední soutěžící dokončil pokus v první fázi kola a naplánovaným startem další fáze kola.
+.. s ohledem na finálové kolo bude zde minimální pauza 20 minut mezi časem, kdy poslední soutěžící dokončil pokus v první fázi kola a naplánovaným startem další fáze kola (včetně společné prohlídky nebo představení závodníků).
+
+. Představení závodníků účastnících se finálového kola:
+.. musí proběhnout před startem fáze kola pro disciplínu Boulder
+.. může proběhnout před startem fáze kola pro disciplínu Obtížnost
+
+. Během každé fáze kola pro disciplínu Boulder v soutěží, každý soutěžící účastnící se této fáze:
+.. bude nastupovat na své pokusy v každém boulderu v pořadí definovaném oficiální startovní listinou. Není dovoleno změnit časový plán, pokud soutěžící nebude moci odstartovat v daném čase.
+.. bude pokusovat každý boulder příslušného kurzu v předepsaném pořadí. Soutěžící nesmí pokračovat na další boulder, pokud na předchozím boulderu v daném pořadí nemohl odstartovat.
+.. bude mít čas na odpočinek rovnající se délce 1 nebo 3 rotačních period mezi svými pokusy na každém následujícím boulderu. Volba příslušné délky odpočinku musí být uvedena na oficiální nástěnce před zahájením soutěže.
+.. na konci lezeckého intervalu soutěžící, který lezl, musí ukončit lezení a odebrat se do vyhrazené <<#tranzitni-zona,Tranzitní zóny>>. Tato <<#tranzitni-zona,Tranzitní zóna>> musí být umístěna tak aby soutěžící nemohl sledovat žádný boulder, který ještě nelezl.
+.. na začátku lezeckého intervalu soutěžící, který odpočíval, může zahájit své pokusy na dalším boulderu nebo pokud dokončil celý kurz boulderů, pak opustí <<#soutezni-prostor, Soutěžní prostor>>.
+.. Hlavní rozhodčí nebo jím pověřená osoba musí zajistít any soutěžící nebyl propuštěn z  <<#tranzitni-zona,Tranzitní zóny>> před koncem rotační periody následující po dokončení celého kurzu.
+
+[[prohlidna-boulder-obtiznost]]
+=== Prohlídka
+
+. Soutěžící mohou sledovat bouldery a cesty v jakékoliv fázi kola z jakékoliv veřejné oblasti v libovolném čase předtím než se ohlásí v <<#izolacni-zona,Izolační zóně>> s výjimkou času, kdy jsou bouldery nebo cesty stavěny či zkoušeny. Následně:
+.. ve finálovém kole pro fázi Boulder (a volitelně pro Semifinálové kolo) bude společná dvouminutová prohlídka pro každý boulder. Společná prohlídka nebude pro žádné další kolo. a
+.. před každou fázi kola v Obtížnosti bude společná prohlídka v délce 6 minut.
++
+a v každém případě
++
+.. během společné prohlídky soutěžící mohou:
+... dotýkat se (jen) prvních chytů na cestě aniž by opustili zem
+... používat dalekohled k prohlídce cesty
+... dělat si rukou nákresy a poznámky na papír
++ ale nesmí použít žádné záznamové zařízení
+.. na konci jakékoliv společné prohlídky se soutěžící vrátí do <<#izolacni-zona,Izolační zóny>> nebo <<#tranzitni-zona,Tranzitní zóny>> podle pokynů hlavního rozhodčího.
+
+[[prubeh-lezeni-boulder-obtiznost]]
+=== Průběh lezení
+
+. 
