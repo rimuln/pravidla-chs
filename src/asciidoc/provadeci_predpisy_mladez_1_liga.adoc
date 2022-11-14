@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy ve sportovním lezení dětí a mládeže pro rok 2022
+= Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy ve sportovním lezení dětí a mládeže pro rok 2023
 Český horolezecký svaz
-v1.2, 1.1.2022
+v1.3, 1.1.2023
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -42,17 +42,17 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . V izolační zóně musí být k dispozici další minerální voda. 
 . V izolační zóně před finále musí být na závodech možnost rozcvičení, rozlezení a přístup k toaletám.
 
-== Typy závodů mládeže pro rok 2022 
+== Typy závodů mládeže pro rok 2023 
 Obtížnost::
-. seriál závodů Českého poháru mládeže v lezení na obtížnost 2022 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru mládeže v lezení na obtížnost 2023 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
 . závody Českého poháru do 14 let – max. 7 závodů pro mladší věkové kategorie, jeho součástí je Mistrovství ČR mládeže do 14 let, pro kategorie U10, U12 a U14
 
 Rychlost::
-. seriál závodů Českého poháru mládeže 2022 - max. 5 závodů včetně Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru mládeže 2023 - max. 5 závodů včetně Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
 . seriál závodů Českého poháru do 14 let - max. 5 závodů včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
 
 Boulder::
-. seriál závodů Českého poháru mládeže 2022 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru mládeže 2023 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
 . seriál závodů Českého poháru do 14 let – max. 5 závody včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
 
 Všechny závody 1. ligy ve všech disciplínách a MČR jsou pořádány v mezinárodním formátu. 
@@ -94,9 +94,9 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2022>>.
+Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2023>>.
 
-Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2022“>>, který je přílohou Pravidel sportovního lezení ČHS.
+Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2023“>>, který je přílohou Pravidel sportovního lezení ČHS.
 
 === Obtížnost
 . Závody nejvyšších soutěží kategorií U16, U18, U20 se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>).
@@ -186,5 +186,5 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2022 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2022>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 14 let ve sportovním lezení pro rok 2022>>.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2023 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2023>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 14 let ve sportovním lezení pro rok 2023>>.

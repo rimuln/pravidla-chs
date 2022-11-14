@@ -1,0 +1,23 @@
+:lang: cs
+include::../../locale/_attributes.adoc[]
+:title-page:
+:imagesdir: ./images
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:stem: latexmath
+:xrefstyle: short
+:toc: left
+:toclevels: 2
+= Souhrn změn v pravidlech a prováděcích předpisech pro rok 2023
+Český horolezecký svaz
+v1.3, 1.1.2023
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
+
+ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
+
+
+V 3. lize mládeže se ruší striktní zákaz startu a vrací se opět doporučující charakter startování.
+
+V 3. lize mládeže pořadatel zažádá minimálně 2 měsíce před konáním soutěže o zařazezení do kalendáře závodů
