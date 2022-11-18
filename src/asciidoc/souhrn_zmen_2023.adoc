@@ -20,4 +20,18 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 V 3. lize mládeže se ruší striktní zákaz startu a vrací se opět doporučující charakter startování.
 
-V 3. lize mládeže pořadatel zažádá minimálně 2 měsíce před konáním soutěže o zařazezení do kalendáře závodů
+V 3. lize mládeže pořadatel zažádá minimálně 2 měsíce před konáním soutěže o zařazení do kalendáře závodů
+
+V 2. lize mládeže úprava výše startovného
+
+V 2. lize mládeže definování podmínek vrácení částek startovného
+
+V 2. lize mládeže omezení startu jen na základě umístění v ČPML a na MČR mládeže v předcházejícím roce
+
+V 2. lize mládeže zrušena kategorie U8 mohou závodit v rámci U10. 
+
+V 2. lize mládeže zrušena kategorie U20
+
+V 2. lize mládeže U16 a U18 povinná
+
+V 2. lize mládeže  pouze 1 oblast: Česko
