@@ -21,6 +21,8 @@ include::../../locale/_attributes.adoc[]
 
 <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky z pravidel sportovního lezení pro 2. ligu mládeže>> [link:vyjimky_z_pravidel_pro_2_liga_mladez.pdf[PDF verze]]
 
+<<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimky z pravidel sportovního lezení pro 3. ligu mládeže>> [link:vyjimky_z_pravidel_pro_3_liga_mladez.pdf[PDF verze]]
+
 Stáhnout vše: link:pravidla-pdf.zip[PDF], link:pravidla-html.zip[HTML]
 
 == Předchozí roky
