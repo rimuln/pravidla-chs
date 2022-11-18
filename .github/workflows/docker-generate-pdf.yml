@@ -19,13 +19,13 @@ jobs:
         echo "NOW=$(date +'%d.%m.%Y')" >> $GITHUB_ENV
         echo "VERSION=1.2.$(($GITHUB_RUN_NUMBER+5))" >> $GITHUB_ENV
 
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
       
     - name: Run asciidoctor-pdf
       run: asciidoctor-pdf -r asciidoctor-mathematical -a compress -a mathematical-format=svg -a revdate=$NOW -a revnumber=$VERSION src/asciidoc/*.adoc
     
     - name: Archive generated pdf's
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: pravidla-pdf
         path: src/asciidoc/*.pdf
