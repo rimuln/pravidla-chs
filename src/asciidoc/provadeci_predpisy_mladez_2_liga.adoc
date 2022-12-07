@@ -18,12 +18,12 @@ v1.3, 1.1.2023
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Závody 2. ligy v lezení dětí a mládeže jsou organizovány pod záštitou Českého horolezeckého svazu a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku do 17 let.
+. Závody 2. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku do 17 let.
 
 == Pořadatel 
 
 . Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů 2. ligy.
-. Pořadatel přihlásí závod vyplněním link:https://forms.gle/Zxk5iseeH48y5FKd9[formuláře s žádosti] o pořadatelství závodů 2. ligy do 31. prosince 2022. Po jejím schválením je závod zapsán do kalendáře závodů pro daný rok.
+. Pořadatel přihlásí závod vyplněním link:https://forms.gle/Zxk5iseeH48y5FKd9[formuláře s žádosti] o pořadatelství závodů 2. ligy do 15. ledna 2023. Žádost schvaluje KSL a v případě schválení této žádosti je závod zapsán do kalendáře závodů pro daný rok. 
 . S každým pořadatelem uzavře ČHS prostřednictvím sekretariátu ČHS písemnou smlouvu o pořádání závodu a to do 30. ledna 2023.
 . ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky, ceny pro vítěze atd.). Výše dotace je určena následující tabulkou:
 +
@@ -73,8 +73,8 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky včetně možnosti umístění v žebříčcích.
 
 . Závodů se nesmí účastnit závodníci, kteří: 
-.. se v roce 2022 umístili v Českém poháru na 1. až 3. místě 
-.. se v roce 2022 umístili na Mistrovství ČR na 1. až 3. místě
+.. se v roce 2022 umístili v Českém poháru mládeže na 1. až 3. místě 
+.. se v roce 2022 umístili na Mistrovství ČR mládeže na 1. až 3. místě
 +
 Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodobé nemoci). Žádost musí obsahovat lékařskou zprávu a podává se elektronicky emailem na zavody@horosvaz.cz.
 
@@ -90,8 +90,6 @@ Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodob
 +
 Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
-. Závodník účastí na svém prvním závodě 2. ligy je zařazen do daného regionu, ve kterém bude závodit po celou sezónu.
-
 == Oficiální činovníci
 . Delegát ČHS není jmenován
 . Hlavní rozhodčí musí mít licenci
@@ -105,7 +103,7 @@ Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které p
 +
 Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/362/061697.pdf[seznamu stavěčů] na webu ČHS.
 
-. Pořadatel zajistí hlavního rozhodčího a traťové rozhodčí pro jednotlivé kategorie. Pro řádný průběh závodu musí být dostatečný počet traťových rozhodčích.
+. Pořadatel zajistí hlavního rozhodčího, hlavního stavěče a traťové rozhodčí pro jednotlivé kategorie. Pro řádný průběh závodu musí být dostatečný počet traťových rozhodčích.
 . Práci a náklady spojené s rozhodčími a se stavěním závodních cest hradí pořadatel.
 
 == Poskytování informací o závodě 
