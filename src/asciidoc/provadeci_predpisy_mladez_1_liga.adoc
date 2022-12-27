@@ -28,10 +28,10 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [cols=",,",options="header",]
 |===
          |                   ^| *Platba*           ^| *Startovné* 
-   .2+^.^| *držitel licence* ^| *předem na účet*   ^| 300 Kč            
-                             ^| *na místě*         ^| 400 Kč            
-   .2+^.^| *nečlen ČHS*      ^| *předem na účet*   ^| 400 Kč            
-                             ^| *na místě*         ^| 600 Kč            
+   .2+^.^| *držitel licence* ^| *předem na účet*   ^| 400 Kč            
+                             ^| *na místě*         ^| 500 Kč            
+   .2+^.^| *nečlen ČHS*      ^| *předem na účet*   ^| 500 Kč/20€            
+                             ^| *na místě*         ^| 800 Kč            
 |===
 
 . Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U18 a U20 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých. 
@@ -99,12 +99,13 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2023“>>, který je přílohou Pravidel sportovního lezení ČHS.
 
 === Obtížnost
-. Závody nejvyšších soutěží kategorií U16, U18, U20 se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>).
+. Závody nejvyšších soutěží kategorií U16, U18, U20 se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>).  V případě že závod je zároveň i nominačním závodem, pak je možné tento závod uspořádat i bez semifinále v jednom dni.
 
 === Boulder
 . Pro kvalifikace se doporučuje lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace, podmínek izolace>>, finálový formát je plně na rozhodnutí pořadatele.
 . Závody ČPM a ČP do 14 let v boulderu lze po dohodě s KSL uspořádat jako závody bez finále, výsledky závodu jsou v takovém případě určeny výsledkem kvalifikace.
-. Závod MČR mládeže musí obsahovat kvalifikační a finálové kolo. Kvalifikace se mohou lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> nebo za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, finále se lezou za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt dívky i chlapci zároveň). Finálové kolo musí být zařazeno v důstojných časech – při společných závodech s dospělými nejlépe před finálovými koly dospělých popř. samostatně. Časové zařazení finále MČRM musí být schváleno KSL. Závod MČR do 14 může být uspořádán bez finále.
+. Závod MČR mládeže se obvykle skládá z kvalifikačního a finálového kola. Kvalifikace se mohou lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> nebo za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, finále se lezou za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Pořadatel si může sám zvolit formát finále – tj. buď závodníci lezou zároveň na všech boulderech nebo všichni lezou postupně stejný boulder – formát SP (mohou lézt dívky i chlapci zároveň). Finálové kolo musí být zařazeno v důstojných časech – při společných závodech s dospělými nejlépe před finálovými koly dospělých popř. samostatně. Časové zařazení finále MČRM musí být schváleno KSL. Závod MČR do 14 může být uspořádán bez finále.
+. V případě, že závod je společný se závodem dospělých a po uzavření předregistrace je zrušené semifinále pro malý počet účastníků a finálové kolo dospělých je ve formátu SP, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
 
 === Rychlost
 . Závody na rychlost nejvyšších soutěží i 1. ligy se konají v jednom dni. 

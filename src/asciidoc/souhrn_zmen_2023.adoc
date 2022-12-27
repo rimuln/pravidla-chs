@@ -35,3 +35,24 @@ V 2. lize mládeže zrušena kategorie U20
 V 2. lize mládeže U16 a U18 povinná
 
 V 2. lize mládeže  pouze 1 oblast: Česko
+
+Slovník pojmů 
+ - časový interval na pokus
+ - přejmenování uměla pomoc na nelegální pomoc a upřesnění
+ - kontrolovat - zrušeno zastaveni dynamického pohybu
+
+Možnost mít batohy a ventilátory v svolávací a tranzitní zóně.
+
+Možnost nákresu cesty na oficiální nástěnce a ve svolávací zóně
+
+Nelze dobodovat chyt/změnit hodnotu během probíhajícího kola.
+
+Protest proti výsledku v obtížnost na konkrétní chyt se nekouká již na ostatní závodníky 
+
+Počet do semifinále obtížnosti snížen z 26 na 20. Pokud na MMČR je přihlášeno méně než 20 závodníků, pak se nekoná semifinále.
+
+Přidán popis systému pro měření času v Boulderech, zavedení časového intervalu na přípravu a lezení.
+
+U Boulderu stačí aby zóna byla kontrolována, není třeba ji použít.
+
+V rychlosti se poražení v pavouku řadí podle nejlepšího dosaženého času v závodě.

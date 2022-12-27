@@ -121,9 +121,9 @@ ale nesmí používat žádné nahrávací zařízení
 [#prubeh-lezeni]
 === PRŮBĚH LEZENÍ
 
-. Stanovená délka doby lezení je 6 minut ve všech kolech.
-. V momentě, kdy soutěžící vejde do soutěžní zóny u paty lezecké cesty, má 40 vteřin na to, aby nastoupil do cesty. Těchto 40 vteřin konečné prohlídky cesty není součástí celkového času vyhrazeného na přelezení cesty. Nezačne-li soutěžící po vypršení těchto 40 vteřin lézt, musí být ke startu okamžitě vyzván. Jakákoliv další prodleva bude mít za následek disciplinární postih v souladu s částí <<#disciplinarni-rizeni>>. 40 vteřin prohlídky cesty platí i v případě lezení kol, pro které neplatí <<#podminky-izolace,podmínky izolace>>.
-. Každý pokus soutěžícího je považovaný za zahájený a čas se začne měřit v momentě, kdy obě chodidla soutěžícího opustí zem. Aby se předešlo pochybnostem, traťový rozhodčí určí, zda pokus začal nebo se jedná o úpravu postavení před startem.
+. Stanovený <<#cas-lezeni,časový interval na lezení>> je 6 minut ve všech kolech.
+. V momentě, kdy soutěžící vejde do soutěžní zóny u paty lezecké cesty, má <<#cas-priprava,časový interval na přípravu>> 40 vteřin. Nezačne-li soutěžící po vypršení těchto 40 vteřin lézt, musí být ke startu okamžitě vyzván. Jakákoliv další prodleva bude mít za následek disciplinární postih v souladu s částí <<#disciplinarni-rizeni>>. <<#cas-priprava,Časový interval na přípravu>> platí i v případě lezení kol, pro které neplatí <<#podminky-izolace,podmínky izolace>>.
+. Každý pokus soutěžícího je považovaný za zahájený a čas (<<#cas-lezeni, časový interval na lezení>>) se začne měřit v momentě, kdy obě chodidla soutěžícího opustí zem. Aby se předešlo pochybnostem, traťový rozhodčí určí, zda pokus začal nebo se jedná o úpravu postavení před startem.
 . Soutěžící se v průběhu svého pokusu na cestě může ptát, kolik z času mu zbývá, přičemž Hlavní rozhodčí musí soutěžícího okamžitě informovat nebo někoho pověřit, aby soutěžícího informoval.
 . Soutěžící v průběhu pokusu na cestě:
 .. nesmí čistit chyty
@@ -133,7 +133,7 @@ ale nesmí používat žádné nahrávací zařízení
 .. Soutěžícímu musí být umožněno vypnout lano z poslední zapnuté expresky a znovu ho do ní zapnout;
 .. Pokud zapne soutěžící lano do karabiny v souladu s předchozími body, ale vytvoří tak „Z-klip“, musí jej soutěžící odstranit. Za tímto účelem je mu dovoleno odepnout a znovu zapnout (v případě nutnosti i slezením zpět) libovolnou z expresek v „Z-klipu“ zapojených. Po opravě musejí být všechna postupová jištění zapnuta.
 
-. Pokus je považovaný za ukončený:
+. Pokus je považovaný za ukončený a měření času musí být zastaveno:
 .. pokud bylo lano zapnuto z regulérní polohy do poslední expresky. V případě cesty lezené top-rope (mládež), je nutné dosáhnout posledního chytu oběma rukama. Tento chyt musí být jasně označen a musí na něj být upozorněno při předlezení.
 .. spadnul
 .. pokus byl ukončen Hlavním rozhodčím
@@ -141,7 +141,7 @@ ale nesmí používat žádné nahrávací zařízení
 . Hlavní rozhodčí musí ukončit pokus soutěžícího jestliže: 
 .. má-li za to, že další postup na trati by byl nebezpečný
 .. soutěžící
-... překročil určený časový limit pro danou cestu 
+... překročil určený <<#cas-lezeni,časový interval na lezení>> pro danou cestu 
 ... vrátil se zpět na zem po zahájení pokusu na cestě 
 ... využije jakoukoliv umělou pomůcku neuvedenou v pravidlech a neschválenou Hlavním rozhodčím.
 
@@ -154,14 +154,16 @@ ale nesmí používat žádné nahrávací zařízení
 [#hodnoceni-obtiznost]
 === HODNOCENÍ
 
-. Nákres cesty musí být připravený Hlavním stavěčem za konzultace s Hlavním rozhodčím před startem každého kola soutěže. U semifinálových kol a finálových kol může být nákres cesty dán k dispozici <<#manazer-tymu,vedoucímu týmu>>, ale ne dříve než po skončení prohlídky příslušné cesty a po té co opustil <<#izolacni-zona,Izolační zónu>>.
+. Nákres cesty musí být připravený Hlavním stavěčem za konzultace s Hlavním rozhodčím před startem každého kola soutěže. Bodování chytů bude uvedené v nákresu cestu a po dobu konání kola je neměnné. Každý nákres cesty:
+.. měl by být vyvěšený na oficiální nástěnce včetně bodování po skončení společné prohlídky a před zahájením daného kola.
+.. měl by být vyvěšený bez bodování ve <<#svolavaci-zona,svolávací zóně>>
 
 . Každá cesta je posuzována alespoň jedním rozhodčím, kterému může asistovat osoba, která zapisuje každému soutěžícímu
 .. lezecký čas, který se měří na sekundy (zaokrouhleno dolů)
 .. dosažený výkon
 . Pokud soutěžící během pokusu zůstal v <<#legitimni-pozice,legitimní pozici>> jeho výkon bude 
 .. „TOP“ , pokud soutěžící zapnul poslední jistící bod během časového limitu pro lezení nebo
-.. hodnota posledního chytu, definovaná v nákresu cesty, který byl soutěžícím <<#kontrolovat,držený>> nebo <<#pouzit,použitý>> předtím než:
+.. hodnota nejvyššího chytu, definovaná v nákresu cesty, který byl soutěžícím <<#kontrolovat,držený>> nebo <<#pouzit,použitý>> předtím než:
 ... spadnul, nebo
 ... jeho pokus byl ukončený
 . Pokud soutěžící nezůstal v <<#legitimni-pozice,legitimní pozici>> během jeho pokusu. Bude soutěžícímu zaznamenána hodnota chytu z nákresu, na kterém soutěžící byl ještě v legitimní pozici.
@@ -169,8 +171,6 @@ ale nesmí používat žádné nahrávací zařízení
 . Započítávají se pouze chyty dosažené rukama.  U chytu, který je <<#pouzit,použitý>> bude započítána hodnota tohoto chytu se znaménkem (+). Toto hodnocení je lepší než <<#kontrolovat,držení>> stejného chytu.
 
 . Hodnocení pokusu soutěžícího bude pozastaveno na posledním chytu v nákresu, který Hlavní stavěč považuje za poslední, ze kterého je možné zapnout nezapnutou expresku a soutěžící tento chyt drží nebo jej mine. A to až do okamžiku, kdy je tato expreska zapnuta.
-
-. Pokud soutěžící <<#pouzit,použije>> nebo <<#kontrolovat,drží chyt>>, který není v nákresu cesty, tak Hlavní rozhodčí spolu s Hlavním stavěčem přiřadí tomuto chytu bodovou hodnotu. Aby se předešlo pochybnostem, tato hodnota může být stejná jako již existující jiný chyt nebo nová.
 
 . Chyt musí být jako takový definován Hlavním stavěčem před začátkem soutěžního kola a musí být zakreslen na nákresu cesty používaném traťovými rozhodčími k hodnocení nebo musí být při soutěži alespoň jedním soutěžícím úspěšně použit k postupu. Každému chytu je přiřazena bodová hodnota, definovaná vzestupnou číselnou řadou hodnot přiřazených jednotlivým chytům v linii cesty od nástupního chytu do posledního chytu v cestě.
 
@@ -208,9 +208,9 @@ Vzhledem k zavedení času jako jednoho z rozhodujících kritérií ve finále 
 === STANOVENÝ POČET SOUTĚŽÍCÍCH NA KAŽDÉ KOLO
 
 . Část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>> je třeba číst ve spojení s výše popsanou částí <<#poradi-po-kazdem-kole-obtiznost>>, tedy dříve, než aplikujeme část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>>, je třeba sestavit pořadí.
-. Při závodech nejvyšších soutěží je počet soutěžících kvalifikujících se pro semifinále 26 a pro finále 8 soutěžících. V případě, že počet soutěžících, kteří nastoupí do kvalifikace je nižší než 26, může Hlavní rozhodčí rozhodnout o zrušení semifinále a podle výsledků z kvalifikace postoupí rovnou do finále 8 soutěžících. Rozhodnutí o zrušení semifinále musí Hlavní rozhodčí oznámit všem soutěžícím dané kategorie před zahájením kvalifikace.
+. Při závodech nejvyšších soutěží je počet soutěžících kvalifikujících se pro semifinále 20 a pro finále 8 soutěžících. V případě, že počet soutěžících, kteří se registrují na závod je menší než 20, pak se semifinálové kolo ruší a do finále postupuje 8 soutěžících.
 . U ligových závodů všech úrovní se automaticky vynechává semifinále a do finále postupuje 8 soutěžících.
-. Stanovená kvóta bude naplněna soutěžícími s nejlepším umístěním z předešlého kola.
+. Stanovená kvóta bude naplněna soutěžícími s nejlepším umístěním z předešlého kola poté co byly výsledky prohlášené za oficiální.
 . Je-li stanovená kvóta přesažena v důsledku remízy soutěžících, pak se do dalšího kola soutěže kvalifikují všichni remízující soutěžící.
 
 [#technicke-incidenty-obtiznost]

@@ -30,10 +30,10 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [.center]
 |===
          |                      ^| *Platba*         ^| *Startovné* 
-   .2+^.^| *držitel registrace* ^| *předem na účet* ^| 350 Kč
+   .2+^.^| *držitel registrace* ^| *předem na účet* ^| 400 Kč
                                 ^| *na místě*       ^| 500 Kč
-   .2+^.^| *zahraniční*         ^| *předem na účet* ^| 500 Kč
-                                ^| *na místě*       ^| 750 Kč
+   .2+^.^| *zahraniční*         ^| *předem na účet* ^| 500 Kč/20€
+                                ^| *na místě*       ^| 800 Kč
 |===
 +
 Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
@@ -88,7 +88,7 @@ Nominační závody musí být pořádány v open formátu.
 Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2023>>.
 
 === Obtížnost
-. Závody nejvyšších soutěží se uskuteční ve dvou dnech: 1. den muži kvalifikace (2 cesty) + ženy kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den muži semifinále + finále, ženy semifinále + finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>) /. 
+. Závody nejvyšších soutěží se uskuteční ve dvou dnech: 1. den muži kvalifikace (2 cesty) + ženy kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den muži semifinále + finále, ženy semifinále + finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>) /. V případě že závod je zároveň i nominačním závodem, pak je možné tento závod uspořádat i bez semifinále v jednom dni.
 . Závody na obtížnost 1. ligy se uskuteční na dvou kvalifikačních cestách bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> a finále za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>> v jednom dni.
 
 === Boulder
@@ -122,6 +122,7 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 . Z každého závodu získává český účastník body do průběžného rankingu ve sportovním lezení na obtížnost, v boulderu a lezení na rychlost. Body jsou přidělovány na základě automaticky generovaného vzorce zohledňujícího počet závodníků a kvalitu startovního pole, který je k dispozici u správce rankingu. Do průběžného rankingu se započítávají všechny závody plovoucího roku (za posledních 730 dní) v dané soutěžní disciplíně. Zahraniční účastníci se do rankingu nezapočítávají. 
 
 . Celkové hodnocení v poháru
+.. Celkové výsledky poháru se vyhlašují, pokud se uskuteční minimální počet závodů.
 .. Český pohár v lezení na obtížnost se skládá minimálně ze dvou závodů ČP a Mezinárodního Mistrovství ČR (MMČR). Do pořadí se započítávají minimálně dva pohárové závody a MMČR. Pořadí se hodnotí stejným bodovým systémem (s konstantní bodovou hodnotou za dané umístění ve všech závodech) započítávají se do něj pouze čeští účastníci. Konečné pořadí se počítá ze dvou nejúspěšnějších závodů ČP a MMČR (popř. tří závodů ČP – viz dále). V případě shody rozhoduje MMČR. Pokud se uskuteční 4 a více pohárových závodů včetně MMČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Maximální počet závodů ČP v jedné sezóně je 6.
 
 .. Český pohár v boulderu se skládá minimálně ze dvou závodů ČP a Mezinárodního Mistrovství ČR (MMČR). Do pořadí se započítávají minimálně dva pohárové závody a MMČR. Pořadí se hodnotí stejným bodovým systémem (s konstantní bodovou hodnotou za dané umístění ve všech závodech) a započítávají se do něj pouze čeští účastníci. Konečné pořadí se počítá ze dvou nejúspěšnějších závodů ČP a MMČR (popř. tří závodů ČP – viz dále). V případě shody rozhoduje MMČR. Pokud se uskuteční 4 a více pohárových závodů včetně MMČR, body za závod, v němž závodníci získali nejméně bodů, se jim do celkové klasifikace nezapočítávají. Maximální počet závodů ČP v jedné sezóně je 6.

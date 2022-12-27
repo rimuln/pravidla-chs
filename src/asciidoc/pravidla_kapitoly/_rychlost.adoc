@@ -11,14 +11,14 @@
 .. Klasický formát - soutěží se na dvou cestách podobné délky, profilu a obtížnosti
 .. Světový formát - soutěží se na dvou identických paralelních cestách
 .. Nominační formát – soutěží se na jedné cestě
-. Kategorie B, A, J a Dospělí musí soutěžit Světovým, nebo Nominačním formátem a to výhradně na standardní cestě, jejíž parametry jsou definovány v pravidlech IFSC (https://www.ifsc-climbing.org/images/about-ifsc/Speed_Project/140429_SDSpeedLicenseRules4.1-corrected.pdf[Speed Licence Rules] a https://www.ifsc-climbing.org/images/World_competitions/Officials_resources/Specific%20positions/RS/130118_DLD-SpeedRoutePlanRS.pdf[Speed Route Plans])
+. Kategorie B (U16), A (U18), J (U20) a Dospělí musí soutěžit Světovým, nebo Nominačním formátem a to výhradně na standardní cestě, jejíž parametry jsou definovány v pravidlech IFSC (https://www.ifsc-climbing.org/images/about-ifsc/Speed_Project/140429_SDSpeedLicenseRules4.1-corrected.pdf[Speed Licence Rules] a https://www.ifsc-climbing.org/images/World_competitions/Officials_resources/Specific%20positions/RS/130118_DLD-SpeedRoutePlanRS.pdf[Speed Route Plans])
 . Soutěž v klasickém formátu sestává z kvalifikačního kola a finálových kol. Každý soutěžící leze v kvalifikaci a v každém kole finálové části obě cesty. Cesty ve finálových kolech musí být identické s cestami v kvalifikačním kole.
 . Soutěž ve Světovém formátu sestává z kvalifikačního kola a finálových kol. Každý soutěžící leze v kvalifikaci dvě cesty, ale pouze jednu cestu ve vyřazovacích kolech finále. Cesty ve finálových kolech musí být identické s cestami v kvalifikačním kole.
 . Soutěž v Nominačním formátu je jednokolová (tzn. bez finále). Závodník absolvuje cestu v šesti pokusech a je mu započítán nejlepší čas. Delegát ČHS může v odůvodněných případech rozhodnout o snížení počtu pokusů, ten však nesmí klesnout pod 4.
 
 [#bezpecnost-rychlost]
 === BEZPEČNOST
-. Soutěžící může mít nasazené chrániče loktů nebo kolen aby se snížilo riziko zranění a krvácení.
+. Soutěžící může mít nasazené chrániče loktů nebo kolen.
 . Všechny cesty se musejí lézt s horním jištěním (top-rope)
 . Jištění soutěžících probíhá buď manuálně, nebo za pomocí automatického jistícího zařízení (naviják). Leze-li se na více cestách (Klasický nebo Světový formát), musí být pro obě cesty využito stejného způsobu jištění.
 . Vratný jistící bod, resp. zařízení pro automatické jištění musí být umístěný nad/za koncový spínač časomíry nebo signalizační zařízení pro danou cestu.
@@ -119,6 +119,7 @@ Při 21ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na pr
 === FINÁLE – KLASICKÝ A SVĚTOVÝ FORMÁT
 
 . [[fksfr-1]]Počet soutěžících ve finálovém kole:
+.. Do finálového kola postupují jen soutěžící, kteří nemají zaznamenaný předčasný start
 .. Je-li počet soutěžících, kteří dokončili kvalifikační kolo 16 nebo více, pak se do finále kvalifikuje 16 soutěžících;
 .. Je-li počet soutěžících, kteří dokončili kvalifikační kolo mezi 15 a 8, pak se do finále kvalifikuje 8 soutěžících;
 .. Je-li počet soutěžících, kteří dokončili kvalifikační kolo mezi 7 a 4, pak se do finále kvalifikují 4 soutěžící;
@@ -127,11 +128,11 @@ Při 21ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na pr
 +
 Finálové kolo se tedy může skládat z následujících fází: osmifinále, čtvrtfinále, vždy se skládá ze semifinále a finále.
 
-. [[fksfr-2]]Finálové kolo se musí odehrávat jako série vyřazovacích kol, která se rozhodují na základě souhrnného času soutěžících na obou cestách – Klasický formát, nebo podle dosaženého času na jedné cestě – Světový formát.
+. [[fksfr-2]]Finálové kolo se musí odehrávat jako série duelů, která se rozhodují na základě souhrnného času soutěžících na obou cestách – Klasický formát, nebo podle dosaženého času na jedné cestě – Světový formát.
 +
-Celkové výsledky těch soutěžících, kteří ve vyřazovacím kole vypadnou v osmifinále (místa 9 – 16) a ve čtvrtfinále (místa 5 – 8), musejí být určeny podle času dosaženého v tomto kole.
+Celkové výsledky těch soutěžících, kteří ve vyřazovacím kole vypadnou v osmifinále (místa 9 – 16) a ve čtvrtfinále (místa 5 – 8), musejí být určeny podle nejlepšího času dosaženého v závodě (tréninkové kolo se nepočítá).
 
-. Startovní pořadí pro první vyřazovací kola finále musí být stanoveno na základě umístění v kvalifikaci, a to následujícím způsobem:
+. Startovní pořadí pro první vyřazovací kola finále musí být stanoveno na základě umístění v kvalifikaci po prohlášení výsledků kvalifikace jako oficiální, a to následujícím způsobem:
 +
 [cols="6*^"]
 |===
@@ -222,7 +223,7 @@ NOTE: rozhodnutí o předčasném startu dle bodu <<plr-8b,b.>> lze uplatnit pou
 +
 . Na konci každé cesty musí soutěžící zastavit časomíru tím, že rukou stiskne její spínač.
 . Závodník má v cestě jeden pokus, pokud nedojde k technickému incidentu.
-. Každa cesta na rychlost bude vyčištěna po skončení oficiálního tréninku a před zahájením finálových rozběhů.
+. Každá cesta na rychlost bude vyčištěna po skončení oficiálního tréninku a před zahájením finálových rozběhů.
 
 [#technicke-incidenty-rychlost]
 === TECHNICKÉ INCIDENTY

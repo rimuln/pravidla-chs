@@ -41,7 +41,7 @@ a odvolací porota musí bez odkladu rozhodnout a aplikovat opatření vedoucí 
 . Jedná-li se o protest týkající se pokusu soutěžícího, je třeba protest podat Hlavnímu rozhodčímu, který okamžitě zahájí potřebné kroky v souladu s výše zmíněným postupem.
 . Postižený soutěžící může tento protest podat slovně a neplatí poplatek. Pokud takový protest podává zástupce daného soutěžícího, pak jej musí podat písemně. Protest musí být podán do zahájení pokusu dalšího soutěžícího. 
 . V boulderu musí být podán protest:
-.. v případě kola lezeného za dodržení <<#podminky-izolace,podmínek izolace>> <<#boulder-klasicky-format,klasickým formátem>> do konce následující časového limitu pro výměnu závodníků.
+.. v případě kola lezeného za dodržení <<#podminky-izolace,podmínek izolace>> <<#boulder-klasicky-format,klasickým formátem>> do konce následující rotace.
 .. v případě finálového kola lezeného <<#boulder-format-sp,formátem SP>>, před zahájením pokusů následujícího závodníka.
 
 +
@@ -54,7 +54,7 @@ V každém případě se soutěžící, kterého se protest týká, řídí poky
 
 . [[ppv-1]]Protest proti umístění soutěžícího po skončení jakéhokoliv kola soutěže poté, co byly vyhlášeny oficiální výsledky umístění, je nutné provést nejpozději v čase 5 minut od vyhlášení umístění. Protest je možné vznést pouze po vyhlášení oficiálních výsledků po každém kole soutěže. Vedoucí týmu musí protest podat písemně Hlavnímu rozhodčímu, v případě nepřítomnosti vedoucího týmu tak učiní soutěžící. Odvolací porota musí zajistit, že všichni soutěžící, jejichž výsledek je zhoršen v důsledku protestu, jsou informováni.
 . Soutěže v lezení na obtížnost
-.. pokud se protest týká výkonu soutěžícího na konkrétním chytu, pak odvolací porota musí shlédnout výkony všech soutěžících, kteří byli hodnoceni, že daný chyt drželi nebo použili k postupu.
+.. pokud se protest týká výkonu soutěžícího na konkrétním chytu, pak odvolací porota shlédne výkon jen tohoto soutěžícího.
 . Soutěže v lezení na rychlost:
 .. V případě protestu proti uveřejněným výsledkům soutěžícího je třeba protest podat v souladu s výše zmíněným článkem <<#protest-proti-vysledkum>>.<<#ppv-1,1>>.
 .. [[ppv-3b]]V případě protestu v průběhu vyřazovacího kola, je třeba protest podat ihned po ohlášení výsledku soutěžícího v daném vyřazovacím kole. Další vyřazovací kolo soutěže nesmí začít, dokud hlavní rozhodčí o protestu nerozhodne. Pokud jde o tyto protesty, neplatí se žádný poplatek.

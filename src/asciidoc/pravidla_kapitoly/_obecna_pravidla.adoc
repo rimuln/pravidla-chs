@@ -39,6 +39,7 @@
 [.center]
 |===
 |Vybavení|Aplikovaný standard
+|Automatické jistící zařízení (rychlost)| EN 341:2011 Class A
 |Jistící zařízení (blokující)| link:https://www.nlfnorm.cz/terminologicky-slovnik/82180[ČSN EN 15151-1]
 |Jistící zařízení (manuální)| link:https://www.nlfnorm.cz/terminologicky-slovnik/82171[ČSN EN 15151-2]
 |Lezecký úvazek| link:https://www.nlfnorm.cz/ehn/6609[ČSN EN 12277] (typ C, děti <40kg nebo <140cm i typ B)
@@ -156,6 +157,13 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 ... <<#rukavice,rukavice>> nebo <<#chranic-kolen,chrániče kolen>>
 +
 jiné než je speciálně povolené těmito pravidly.
+
+.. může přinést do <<#svolavaci-zony,svolávací zóny>>/<<#tranzitni-zony,tranzitní zóny>>, ale ne do soutěžní zóny
+... tašky/batohy nebo jiná zavazadla
+... bateriově napájené ventilátory nebo jiné zařízení
++
+přičemž hlavní rozhodčí může zakázat donešení těchto předmětů pokud by to obtěžovalo ostatní závodníky.
+
 
 . Veškeré vybavení a oblečení musí být v souladu s následujícími pravidly týkajícími se reklamy:
 
