@@ -102,7 +102,7 @@ Kategorie U14, U16, U18 a U20:: musí lézt se spodním jištěním
 
 === Ukončení pokusu v cestě
 
-. Rozhodčí povolí závodníkovi na jeho žádost jeden další pokus v kvalifikačních cestách v případě pádu pod první expreskou nebo pod určeným označeným chytem, oznámeným v průběhu prohlídky. Aby nebylo pochyb, chyt může být jen <<pravidla_sl.adoc#kontrolovat,kontrolován>> a nesmí být <<pravidla_sl.adoc#pouzit,použit>> k dalšímu postupu.
+. Rozhodčí povolí závodníkovi na jeho žádost jeden další pokus v kvalifikačních cestách v případě pádu pod první expreskou nebo pod určeným označeným chytem, oznámeným v průběhu prohlídky. Aby nebylo pochyb, chyt může být jen <<pravidla_sl.adoc#kontrolovat,kontrolován>> a nesmí být <<pravidla_sl.adoc#pouzit,použit>> k dalšímu postupu. Před tímto opakovaným pokusem již není <<#cas-priprava,čas na přípravu>> a závodník začíná svůj pokus bez zbytečného prodlení.
 
 == Boulder
 === Povolené formáty
@@ -127,9 +127,6 @@ U závodů 2. ligy, kde lze kromě ustanovení pravidel sportovního lezení vyu
 === Cesty u nominačního formátu
 
 . Nominační formát může proběhnout na jedné nebo dvou identických cestách.
-
-== Kombinace
-. Závody v kombinaci výše třech uvedených disciplín probíhají podle pravidel jednotlivých disciplín. Finální umístění se následně vypočítá podle bodu <<pravidla_sl.adoc#celkove-umisteni-kombinace>>
 
 == Protesty
 
