@@ -3,7 +3,7 @@ include::../../locale/_attributes.adoc[]
 
 = Pravidla a prováděcí předpisy sportovního lezení
 
-== Pracovní verze 2023
+== Aktuální rok
 
 <<souhrn_zmen_2023.adoc#,Souhrn změn v pravidlech a prováděcích předpisech pro rok 2023>> [link:souhrn_zmen_2023.pdf[PDF verze]]
 
