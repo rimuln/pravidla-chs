@@ -116,9 +116,9 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 
 [[nelegalni-pomoc]]Nelegální pomoc:: představuje držení nebo použití čehokoliv z následujícího:
  .. pomocí rukou:
- ... jakýkoliv montážní otvor (T-Nut) určený k uchycení <<#umely-chyt,umělého chytu>>
+ ... jakýkoliv montážní otvor (T-Nut) určený k uchycení <<#umely-chyt,umělého chytu>> na <<#lezecky-povrch,lezeckém povrchu>> nebo na jakékoliv struktuře
  .. jakoukoliv částí těla:
- ... jakákoliv část <<#lezecky-povrch,lezeckého povrchu>> ohraničené pomocí nepřerušované <<#cerna-paska,černé pásky>>
+ ... jakákoliv část <<#lezecky-povrch,lezeckého povrchu>> nebo struktury/chytu ohraničené pomocí nepřerušované <<#cerna-paska,černé pásky>>
  ... jakákoliv reklama nebo informační cedule upevněná na <<#lezecky-povrch,lezeckém povrchu>>
  ... jakákoliv otevřená hrana <<#lezecky-povrch,lezeckého povrchu>>
  ... jakýkoliv borhák/nýt umístěný na <<#lezecky-povrch,lezeckého povrchu>>
@@ -161,7 +161,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 
 [[poradi]]Pořadí:: je relace mezi množinou výsledků, kdy pro jakékoliv dva prvky platí, že první je „umístěn výše než“, „umístěn níže než“ nebo „umístěn stejně“ jako druhý. Všechny pořadí v těchto pravidlech jsou počítány podle link:https://en.wikipedia.org/wiki/Ranking#Standard_competition_ranking_%28%221224%22_ranking%29[Standard competition ranking] pokud není v těchto pravidlech uvedeno jinak.
 
-[[pouzit]]Použít:: znamená pro potřeby rozhodování a bodování stav, kdy soutěžící použil objekt/strukturu k postupnému pohybu jak svého těžiště těla nebo boků a pohyb jedné nebo obou rukou směřoval:
+[[pouzit]]Použít:: znamená pro potřeby rozhodování a bodování stav, kdy soutěžící použil objekt/strukturu k postupnému pohybu svého těžiště těla nebo boků a pohyb jedné nebo obou rukou směřoval:
 .. k dalšímu chytu podél linie cesty; nebo
 .. k jakémukoliv dalšímu chytu podél linie cesty, který byl úspěšně <<#kontrolovat,držen>> jiným soutěžícím ze stejného chytu
 
