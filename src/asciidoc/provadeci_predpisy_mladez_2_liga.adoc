@@ -59,13 +59,13 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Oblastní mistrovství se pro rok 2023 nevyhlašuje.
 
 . Obtížnost
-.. seriál závodů 2. ligy v lezení na obtížnost 2023 - max. 5 závodů ideálně v období květen až listopad
+.. seriál závodů 2. ligy v lezení na obtížnost 2023 - max. 6 závodů ideálně v období květen až listopad
 
 . Rychlost
 .. v roce 2023 závody v této disciplíně neprobíhají
 
 . Boulder
-.. seriál závodů 2. ligy v boulderu - max. 5 závodů ideálně v období únor až září
+.. seriál závodů 2. ligy v boulderu - max. 6 závodů ideálně v období únor až září
 
 == Závodníci 
 
