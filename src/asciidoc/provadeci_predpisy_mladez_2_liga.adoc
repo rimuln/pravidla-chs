@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody 2. ligy ve sportovním lezení dětí a mládeže pro rok 2023
+= Prováděcí předpisy ČHS pro závody 2. ligy ve sportovním lezení dětí a mládeže pro rok 2024
 Český horolezecký svaz
-v1.3, 1.1.2023
+v1.4, 1.1.2024
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -23,46 +23,49 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 == Pořadatel 
 
 . Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů 2. ligy.
-. Pořadatel přihlásí závod vyplněním link:https://forms.gle/9mhR2dJGtvzKcVYaA[formuláře s žádosti] o pořadatelství závodů 2. ligy do 15. ledna 2023. Žádost schvaluje KSL a v případě schválení této žádosti je závod zapsán do kalendáře závodů pro daný rok. 
-. S každým pořadatelem uzavře ČHS prostřednictvím sekretariátu ČHS písemnou smlouvu o pořádání závodu a to do 30. ledna 2023.
+. Pořadatel přihlásí závod vyplněním link:https://forms.gle/9mhR2dJGtvzKcVYaA[formuláře s žádosti] o pořadatelství závodů 2. ligy do 15. ledna 2024. Žádost schvaluje KSL a v případě schválení této žádosti je závod zapsán do kalendáře závodů pro daný rok. 
+. S každým pořadatelem uzavře ČHS prostřednictvím sekretariátu ČHS písemnou smlouvu o pořádání závodu a to do 30. ledna 2024.
 . ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky, ceny pro vítěze atd.). Výše dotace je určena následující tabulkou:
 +
 [cols=",",options="header",width=50%]
 [.center]
 |===
 ^.|Disciplína ^.| Výše dotace 
-^.|Obtížnost  ^.| 15 000 Kč 
-^.|Boulder    ^.| 15 000 Kč 
+^.|Obtížnost  ^.| 20 000 Kč 
+^.|Boulder    ^.| 20 000 Kč 
 |===
 . Pořadatel má právo vybírat startovné od všech závodníků ve výši dle následující tabulky:
 +
 [cols=",,",options="header",]
 |===
          |                     ^| *Platba*          ^| *Startovné*
-   .2+^.^| *držitel licence*   ^| *předem na účet*  ^| 400 Kč           
-                               ^| *na místě*        ^| 800 Kč                 
+   .2+^.^| *držitel licence*   ^| *předem na účet*  ^|  500 Kč
+                               ^| *na místě*        ^| 1000 Kč
 |===
 
 . Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla ve čtvrtek 8.00 před závodem.
 
 . Dodatečná registrace v den závodu není možná.
 
-. V případě zrušení předběžné registrace do závodu provedené do termínu ukončení předregistrací, má právo registrující zažádat o vrácení platby ředitele závodu do pěti dnů od skončení předběžné registrace. Předem provedená platba se vrací na účet plátce do pěti dnů od této žádosti. Při pozdějším zrušení předregistrace se startovné nevrací.
+. V případě zrušení předběžné registrace do závodu provedené do termínu ukončení předregistrací, má právo registrující zažádat o vrácení platby ředitele závodu do půlnoci 7. dne po ukončení závodu. Předem provedená platba se vrací na účet plátce do pěti dnů od této žádosti. Při pozdějším zrušení předregistrace se startovné nevrací.
 
 == Oblasti
 
 . Česko
 
-== Typy závodů mládeže pro rok 2023 
+== Typy závodů mládeže pro rok 2024 
 
-. Závody musí být vypsané pro kategorie U10, U12, U14, U16 a U18.
-. Oblastní mistrovství se pro rok 2023 nevyhlašuje.
+. Závody musí být vypsané pro kategorie U10, U12, U14, U16 a U20. Kde kategorie U20 zahrnuje i kategorii U18.
+. Oblastní mistrovství se pro rok 2024 nevyhlašuje.
 
 . Obtížnost
-.. seriál závodů 2. ligy v lezení na obtížnost 2023 - max. 6 závodů ideálně v období květen až listopad
+.. seriál závodů 2. ligy v lezení na obtížnost 2024 - max. 6 závodů ideálně v období květen až listopad
+... Doporučené formáty jsou:
+.... Standardní formát tj. 2 kvalifikační cesty + 1 finálová
+.... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>)
 
 . Rychlost
-.. v roce 2023 závody v této disciplíně neprobíhají
+.. v roce 2024 závody v této disciplíně neprobíhají
 
 . Boulder
 .. seriál závodů 2. ligy v boulderu - max. 6 závodů ideálně v období únor až září
@@ -73,12 +76,12 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky včetně možnosti umístění v žebříčcích.
 
 . Závodů se nesmí účastnit závodníci, kteří: 
-.. se v roce 2022 umístili v Českém poháru mládeže na 1. až 3. místě 
-.. se v roce 2022 umístili na Mistrovství ČR mládeže na 1. až 3. místě
+.. se v roce 2023 umístili v Českém poháru mládeže na 1. až 3. místě 
+.. se v roce 2023 umístili na Mistrovství ČR mládeže na 1. až 3. místě
 +
 Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodobé nemoci). Žádost musí obsahovat lékařskou zprávu a podává se elektronicky emailem na zavody@horosvaz.cz.
 
-. Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
+. Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu. V případě omezení počtu závodníků, je minimalní počet, který musí v jedné kategorii startovat stanoven na 24.
 
 . Pro všechny závody platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>>.
 
@@ -118,7 +121,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2023>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy mládeže  ve sportovním lezení pro rok 2023>>.
+Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy mládeže  ve sportovním lezení pro rok 2024>>.
 
 == Vyhlášení výsledků 
 
@@ -158,6 +161,6 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2023 či ustanovení prováděcích předpisů na závodech 2. ligy bude dotace krácena.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2024 či ustanovení prováděcích předpisů na závodech 2. ligy bude dotace krácena.
 . KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti, regulérnosti závodu a plnění marketingových práv.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2023>> a <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2023>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>.

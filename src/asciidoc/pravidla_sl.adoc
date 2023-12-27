@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :stem: latexmath
 :xrefstyle: short
 :toc: left
-= Pravidla sportovního lezení ČHS 2023
+= Pravidla sportovního lezení ČHS 2024
 Český horolezecký svaz
-v1.3, 1.1.2023
+v1.4, 1.1.2024
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]

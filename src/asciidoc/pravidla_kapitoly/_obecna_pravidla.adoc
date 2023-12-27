@@ -199,6 +199,10 @@ Porušení těchto pravidel bude mít za následek disciplinární postih ve sho
 
 . Obecně je třeba se technickým incidentem zabývat následujícím způsobem:
 
+.. Technický incident v případě, že soutěžící získal nespravedlivé zvýhodnění
++
+Získal-li soutěžící nespravedlivé zvýhodnění, pak Hlavní rozhodčí může ukončit pokus, nebo povolit soutěžicímu pokračovat. v tomto případě výsledek pokusu bude zpětně vyhodnocen. V tomto případě nesmí být povolen žádný další pokus v cestě dokud není Technický incident následně potvrzen.
+
 .. Technický incident v případě, že je soutěžící v nepovolené poloze
 +
 Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je jeho pokus ukončen. Hlavní rozhodčí musí okamžitě rozhodnout, zda ohlásit technický incident a povolit soutěžícímu dodatečný pokus v souladu s pravidly platnými pro technické incidenty té které disciplíny.
@@ -216,7 +220,10 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 
 . Je nutno natáčet oficiální videozáznamy pokusů soutěžících při finálových a semifinálových kolech ve všech disciplínách.
 
-. Je potřeba používat dostatečné množství kamer tak, aby bylo možné záznam zodpovědně použít při posuzování sporných momentů (porušení pravidel, posouzení technického incidentu, předčasný start, čas atd.). Doporučuje se, aby kameramanům, kteří musejí mít náležité zkušenosti s nahráváním lezeckých soutěží, asistovali pomocní rozhodčí. Před začátkem kola dá kameramanům Hlavní rozhodčí instrukce ohledně vhodných technik a postupů. Pozici kamer určí Hlavní rozhodčí po poradě s Hlavním stavěčem. Zvláštní pozornost je třeba věnovat tomu, aby kameramani nebyli vyrušováni ve své práci a aby nikdo nevstupoval kameře do záběru.
+. Je potřeba používat dostatečné množství kamer tak, aby bylo možné záznam zodpovědně použít při posuzování sporných momentů (porušení pravidel, posouzení technického incidentu, předčasný start, čas atd.). Doporučuje se, aby kameramanům, kteří musejí mít náležité zkušenosti s nahráváním lezeckých soutěží, asistovali pomocní rozhodčí. Před začátkem kola dá kameramanům Hlavní rozhodčí instrukce ohledně vhodných technik a postupů. Pozici kamer určí Hlavní rozhodčí po poradě s Hlavním stavěčem. Zvláštní pozornost je třeba věnovat tomu, aby kameramani nebyli vyrušováni ve své práci a aby nikdo nevstupoval kameře do záběru. Kamery by měly minimálně zabírat:
+.. všechny chyty označené v <<#nakres,nákresu cesty>>
+.. všechny jistící body včetně TOPu 
+.. všechny ohraničení na <<#lezecky-povrch,lezeckém povrchu>>
 
 . Pro potřeby rozhodčích je třeba zajistit monitor připojitelný k záznamu. Monitor je třeba umístit tak, aby rozhodčí mohli sledovat záznamový materiál a probírat jakoukoliv událost bez toho, aby záznam mohla zahlédnout nepovolaná osoba a bez toho, aby mohl rozhodčí při těchto debatách někdo poslouchat nebo vyrušovat, avšak dostatečně blízko ke stolu, za kterým rozhodčí sedí.
 

@@ -130,9 +130,9 @@ Finálové kolo se tedy může skládat z následujících fází: osmifinále, 
 
 . [[fksfr-2]]Finálové kolo se musí odehrávat jako série duelů, která se rozhodují na základě souhrnného času soutěžících na obou cestách – Klasický formát, nebo podle dosaženého času na jedné cestě – Světový formát.
 +
-Celkové výsledky těch soutěžících, kteří ve vyřazovacím kole vypadnou v osmifinále (místa 9 – 16) a ve čtvrtfinále (místa 5 – 8), musejí být určeny podle nejlepšího času dosaženého v závodě (tréninkové kolo se nepočítá).
+Celkové výsledky těch soutěžících, kteří ve vyřazovacím kole vypadnou v osmifinále (místa 9 – 16) a ve čtvrtfinále (místa 5 – 8), musejí být určeny podle předchozích časů dosažených v závodě (tréninkové kolo se nepočítá).
 
-. Startovní pořadí pro první vyřazovací kola finále musí být stanoveno na základě umístění v kvalifikaci po prohlášení výsledků kvalifikace jako oficiální, a to následujícím způsobem:
+. Startovní pořadí pro první vyřazovací kola finále musí být stanoveno na základě umístění v kvalifikaci po prohlášení výsledků kvalifikace jako oficiální a po vypořádání všech protestů, a to následujícím způsobem:
 +
 [cols="6*^"]
 |===
@@ -158,10 +158,11 @@ image::pavouk_rychlost.jpg[Varianty pavouka,width=475,height=651,align="center"]
 +
 Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo 1 (Klasický formát), respektive leze cestu č. 1 (Světový formát).
 
+
 . [[fksfr-4]]Pořadí v jakémkoliv finálovém kole bude určeno následovně:
 .. Pokud oba závodníci mají úspěšný pokus, pak vyhrává závodník s rychlejším časem
 .. Pokud závodník předčasně odstartoval, pak vyhrává druhý závodník. V případě předčasného startu na prvním rozběhu v klasickém formátu, musí postupující závodník absolvovat i druhou cestu sám.
-.. Pokud oba závodníci dosáhnou stejného času nebo nemají platný čas z jiného důvodu než předčasný start potom se příslušný rozběh opakuje. Pokud i po tomto rozběhu závodníci nebyli rozřazeni, pak budou porovnáni podle pořadí z kvalifikace. Aby se předešlo pochybnostem rozběh se neopakuje jestliže oba soutěžící nemohou odstartovat.
+.. Pokud oba závodníci dosáhnou stejného času nebo nemají platný čas z jiného důvodu než předčasný start potom se příslušný rozběh opakuje. Pokud i po tomto rozběhu závodníci nebyli rozřazeni, pak budou porovnáni podle předchozích časů dosažených v závodě (tréninkové kolo se nepočítá). Aby se předešlo pochybnostem rozběh se neopakuje jestliže oba soutěžící nemohou odstartovat.
 .. Pokud se závodník neohlásí po vyvolání, pak vyhrává druhý závodník
 . Vždy musí proběhnout rozřazovací kolo o třetí a čtvrté místo (malé finále), a to dříve, než proběhne finále o 1. na 2. místo.
 . V případě předčasného startu v souboji o 1. místo musí vítěz absolvovat další pokus pro získání platného času.

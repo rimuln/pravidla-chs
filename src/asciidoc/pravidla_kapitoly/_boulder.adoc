@@ -55,7 +55,7 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 === STARTOVNÍ LISTINY
 . Při kvalifikaci lezené za dodržení <<#podminky-izolace,podmínek izolace>> se startovní pořadí určí podle průběžného rankingu, a to ve shodném pořadí – nejlépe umístěný soutěžící leze první. Soutěžící neuvedení v aktuálním průběžném rankingu startují poslední v náhodném pořadí.
 . Při kvalifikaci lezené bez dodržení <<#podminky-izolace,podmínek izolace>> nastupují soutěžící na bouldery v libovolném pořadí podle vlastního výběru, viz odstavec <<#prubeh-lezeni-kvalifikace-flash-boulder>>.
-. Startovní pořadí ve finále a semifinále musí být opakem umístění v předchozím kole, tedy nejlépe hodnocený soutěžící leze jako poslední. V případě shodného umístění soutěžících v kvalifikaci (případně i semifinále) bude jejich startovní pořadí v dalších kolech (finále, semifinále) následující:
+. Startovní pořadí ve finále a semifinále musí být opakem umístění v předchozím kole, v okamžiku, kdy jsou výsledky pro předchozí kolo oficiální a jsou vypořádány všechny protesty, tedy nejlépe hodnocený soutěžící leze jako poslední. V případě shodného umístění soutěžících v kvalifikaci (případně i semifinále) bude jejich startovní pořadí v dalších kolech (finále, semifinále) následující:
 .. pokud jsou soutěžící uvedeni v průběžném rankingu, lezou v obráceném pořadí, než jak jsou v něm seřazeni;
 .. pokud někteří soutěžící jsou a někteří nejsou v aktuálním průběžném rankingu, lezou nejprve ti, kteří v žebříčku nejsou;
 .. pokud soutěžící v aktuálním průběžném rankingu nejsou uvedeni, startují v náhodném pořadí. Losování pořadí se provede pro každé kolo nově.

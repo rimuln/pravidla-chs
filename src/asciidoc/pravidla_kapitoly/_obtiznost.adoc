@@ -83,6 +83,8 @@ Při 21 soutěžících v dané kategorii, pak ten, který lezl jako 11. na prvn
 .. pokud někteří soutěžící jsou a někteří nejsou v aktuálním průběžném rankingu, lezou nejprve ti, kteří v žebříčku nejsou;
 
 .. pokud soutěžící v aktuálním průběžném rankingu nejsou uvedeni, startují v náhodném pořadí. Losování pořadí se provede pro každé kolo nově.
++
+
 
 [#prubeh-souteze]
 === PRŮBĚH SOUTĚŽE
@@ -121,11 +123,11 @@ ale nesmí používat žádné nahrávací zařízení
 [#prubeh-lezeni]
 === PRŮBĚH LEZENÍ
 
-. Stanovený <<#cas-lezeni,časový interval na lezení>> je 6 minut ve všech kolech.
-. V momentě, kdy soutěžící vejde do soutěžní zóny u paty lezecké cesty, má <<#cas-priprava,časový interval na přípravu>> 40 vteřin. Nezačne-li soutěžící po vypršení těchto 40 vteřin lézt, musí být ke startu okamžitě vyzván. Jakákoliv další prodleva bude mít za následek disciplinární postih v souladu s částí <<#disciplinarni-rizeni>>. <<#cas-priprava,Časový interval na přípravu>> platí i v případě lezení kol, pro které neplatí <<#podminky-izolace,podmínky izolace>>.
-. Každý pokus soutěžícího je považovaný za zahájený a čas (<<#cas-lezeni, časový interval na lezení>>) se začne měřit v momentě, kdy obě chodidla soutěžícího opustí zem. Aby se předešlo pochybnostem, traťový rozhodčí určí, zda pokus začal nebo se jedná o úpravu postavení před startem.
-. Soutěžící se v průběhu svého pokusu na cestě může ptát, kolik z času mu zbývá, přičemž Hlavní rozhodčí musí soutěžícího okamžitě informovat nebo někoho pověřit, aby soutěžícího informoval.
-. Soutěžící v průběhu pokusu na cestě:
+. [[prl-obt,{counter:prl-obt}]]Stanovený <<#cas-lezeni,časový interval na lezení>> je 6 minut ve všech kolech.
+. [[prl-obt-2,{counter:prl-obt}]]V momentě, kdy soutěžící vejde do soutěžní zóny u paty lezecké cesty, má <<#cas-priprava,časový interval na přípravu>> 40 vteřin. Nezačne-li soutěžící po vypršení těchto 40 vteřin lézt, musí být ke startu okamžitě vyzván. Jakákoliv další prodleva bude mít za následek disciplinární postih v souladu s částí <<#disciplinarni-rizeni>>. <<#cas-priprava,Časový interval na přípravu>> platí i v případě lezení kol, pro které neplatí <<#podminky-izolace,podmínky izolace>>.
+. [[prl-obt-3,{counter:prl-obt}]]Každý pokus soutěžícího je považovaný za zahájený a čas (<<#cas-lezeni, časový interval na lezení>>) se začne měřit v momentě, kdy obě chodidla soutěžícího opustí zem. Aby se předešlo pochybnostem, traťový rozhodčí určí, zda pokus začal nebo se jedná o úpravu postavení před startem.
+. [[prl-obt-4,{counter:prl-obt}]]Soutěžící se v průběhu svého pokusu na cestě může ptát, kolik z času mu zbývá, přičemž Hlavní rozhodčí musí soutěžícího okamžitě informovat nebo někoho pověřit, aby soutěžícího informoval.
+. [[prl-obt-5,{counter:prl-obt}]]Soutěžící v průběhu pokusu na cestě:
 .. nesmí čistit chyty
 .. soutěžící musí být stále v <<#legitimni-pozice,legitimní pozici>>.
 .. Soutěžící musí zapínat expresky ve správném pořadí.
@@ -133,10 +135,12 @@ ale nesmí používat žádné nahrávací zařízení
 .. Soutěžícímu musí být umožněno vypnout lano z poslední zapnuté expresky a znovu ho do ní zapnout;
 .. Pokud zapne soutěžící lano do karabiny v souladu s předchozími body, ale vytvoří tak „Z-klip“, musí jej soutěžící odstranit. Za tímto účelem je mu dovoleno odepnout a znovu zapnout (v případě nutnosti i slezením zpět) libovolnou z expresek v „Z-klipu“ zapojených. Po opravě musejí být všechna postupová jištění zapnuta.
 
-. Pokus je považovaný za ukončený a měření času musí být zastaveno:
-.. pokud bylo lano zapnuto z regulérní polohy do poslední expresky. V případě cesty lezené top-rope (mládež), je nutné dosáhnout posledního chytu oběma rukama. Tento chyt musí být jasně označen a musí na něj být upozorněno při předlezení.
-.. spadnul
-.. pokus byl ukončen Hlavním rozhodčím
+. [[prl-obt-6,{counter:prl-obt}]]Pokus je považovaný za ukončený a měření času musí být zastaveno:
+.. [[prl-obt-6-1,{counter:prl-obt-6:a}]]pokud bylo lano :
+... zapnuto z regulérní polohy do poslední expresky. 
+... V případě cesty lezené top-rope (mládež), je nutné dosáhnout posledního chytu kontrolovaně oběma rukama. Tento chyt musí být jasně označen a musí na něj být upozorněno při předlezení.
+.. [[prl-obt-6-2,{counter:prl-obt-6}]]spadnul
+.. [[prl-obt-6-3,{counter:prl-obt-6}]]pokus byl ukončen Hlavním rozhodčím
 
 . Hlavní rozhodčí musí ukončit pokus soutěžícího jestliže: 
 .. má-li za to, že další postup na trati by byl nebezpečný
@@ -162,7 +166,7 @@ ale nesmí používat žádné nahrávací zařízení
 .. lezecký čas, který se měří na sekundy (zaokrouhleno dolů)
 .. dosažený výkon
 . Pokud soutěžící během pokusu zůstal v <<#legitimni-pozice,legitimní pozici>> jeho výkon bude 
-.. „TOP“ , pokud soutěžící zapnul poslední jistící bod během časového limitu pro lezení nebo
+.. „TOP“ , pokud soutěžící dokončil cestu během časového limitu splněním  dle podmínek bodu <<#prubeh-lezeni>>.<<prl-obt-6>>.<<prl-obt-6-1>>
 .. hodnota nejvyššího chytu, definovaná v nákresu cesty, který byl soutěžícím <<#kontrolovat,držený>> nebo <<#pouzit,použitý>> předtím než:
 ... spadnul, nebo
 ... jeho pokus byl ukončený
@@ -210,7 +214,7 @@ Vzhledem k zavedení času jako jednoho z rozhodujících kritérií ve finále 
 . Část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>> je třeba číst ve spojení s výše popsanou částí <<#poradi-po-kazdem-kole-obtiznost>>, tedy dříve, než aplikujeme část <<#stanoveny-pocet-soutezicich-na-kazde-kolo-obtiznost>>, je třeba sestavit pořadí.
 . Při závodech nejvyšších soutěží je počet soutěžících kvalifikujících se pro semifinále 20 a pro finále 8 soutěžících. V případě, že počet soutěžících, kteří se registrují na závod je menší než 20, pak se semifinálové kolo ruší a do finále postupuje 8 soutěžících.
 . U ligových závodů všech úrovní se automaticky vynechává semifinále a do finále postupuje 8 soutěžících.
-. Stanovená kvóta bude naplněna soutěžícími s nejlepším umístěním z předešlého kola poté co byly výsledky prohlášené za oficiální.
+. Stanovená kvóta bude naplněna soutěžícími s nejlepším umístěním z předešlého kola poté co byly výsledky prohlášené za oficiální a vypořádány všechny protesty.
 . Je-li stanovená kvóta přesažena v důsledku remízy soutěžících, pak se do dalšího kola soutěže kvalifikují všichni remízující soutěžící.
 
 [#technicke-incidenty-obtiznost]

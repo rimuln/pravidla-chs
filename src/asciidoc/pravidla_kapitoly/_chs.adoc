@@ -25,6 +25,32 @@
 .. Jmenování reprezentačních družstev pro mezinárodní soutěže pořádané pod záštitou IFSC.
 .. Jmenování všech oficiálních soutěžních činitelů ČHS na schválené soutěže.
 
+[#zodpovednost-oddil-chs]
+=== ZODPOVĚDNOST ODDÍLŮ ČHS
+Oddíly ČHS, organizátoři akcí a osoby spojené s jakoukoliv akcí v kalendáři ČHS, ať už pracují přímo s ČHS nebo s organizátorem akce, jsou povinni:
+
+. bezpodmínečně souhlasit s tím, že propagace, rozvoj a správa sportovního odvětví soutěžního lezení v České republice je pod výhradní kontrolou ČHS.
+. zajistit, aby nebyla uzavřena žádná finanční nebo jiná dohoda s organizací (např. televize, sponzoři soutěží atd.), která by mohla být v rozporu s vlastními dohodami IFSC, bez písemného souhlasu ČHS.
+. vyžádat si radu a souhlas ČHS, pokud jde o jakékoliv rozhodnutí, které by mohlo být v rozporu s nejlepším zájmem sportu.
+. Jsou odpovědní za:
+.. propagaci a aktivní rozvoj sportu a dodržování pravidel, které jsou pro ně závazná. Zásady Olympijské charty, Lékařského kodexu MOV a ČOV, pravidel a předpisů ČHS a IFSC upravujících sportovní lezení na národních a mezinárodních soutěžích.
+.. chápání a dodržování pravidel a předpisů tohoto sportu a podporování a zajišťování aby všichni členové reprezentující oddíl dodržovali zásady dobrého sportovního chování
+.. trvalé a aktivní působení proti užívání drog nebo jiných zakázaných látek všemi členy týmu reprezentující oddíl a dodržování všech pravidel a pokynů v oblasti bezpečnosti a ochrany zdraví a aby bylo zaručeno mimosoutěžní testování, pokud je o to požádáno.
+.. zákaz jakýchkoliv metod nebo postupů, které by mohly představovat riziko pro zdraví nebo fyzickou kondici svých členů oddílů
+.. závazek, že se důrazné postaví proti jakémukoliv pokušení manipulace s pravidly a předpisy ve prospěch členů oddílů.
+.. zajištění, aby se všichni členové reprezentující oddíl chovali ke všem ostatním členům týmu tak, jak je to možné.
+
+. Všichni členové týmu, kteří se účastní jakékoliv soutěže, jsou povinni zajistit aby byli plně informováni o všech podrobnostech týkajících se dané soutěže.
+
+. Každý oddíl ČHS je oprávněn přihlásit své členy za následujících podmínek:
+
+.. musí splňovat předpisy, kterými se řídí registrace závodníků
+.. že všichni přihlášení závodníci jsou držiteli <<#zavodni-registrace,závodní registrace>>, pokud je daná soutěž vyžaduje.
+
+. Každý oddíl ČHS musí dodržovat lhůty pro předregistraci svých závodníků.
+
+. Každý oddíl ČHS platí startovné za všechny své závodníky, kteří se předregistrovali k příslušnému datu předregistrace.
+
 [#souteze]
 === SOUTĚŽE
 
@@ -34,7 +60,7 @@
 .. 1. liga – Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
 .. 2. liga – oblastní závody pořádané jako oficiální soutěže ČHS
 .. 3. liga – závody nižší úrovně pořádané jako oficiální soutěže ČHS
-.. Školní Boulder pohár mládeže
+.. Školní Boulder pohár mládeže – náborové závody pro členy i nečleny ČHS 
 
 [#oficialni-soutezni-cinitele]
 === OFICIÁLNÍ SOUTĚŽNÍ ČINITELÉ SOUTĚŽÍ ČHS

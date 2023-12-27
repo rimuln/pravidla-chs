@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy ve sportovním lezení dětí a mládeže pro rok 2023
+= Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy ve sportovním lezení dětí a mládeže pro rok 2024
 Český horolezecký svaz
-v1.3, 1.1.2023
+v1.4, 1.1.2024
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -28,31 +28,33 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [cols=",,",options="header",]
 |===
          |                   ^| *Platba*           ^| *Startovné* 
-   .2+^.^| *držitel licence* ^| *předem na účet*   ^| 400 Kč            
-                             ^| *na místě*         ^| 500 Kč            
-   .2+^.^| *nečlen ČHS*      ^| *předem na účet*   ^| 500 Kč            
-                             ^| *na místě*         ^| 800 Kč            
+   .2+^.^| *držitel licence* ^| *předem na účet*   ^| 400 Kč
 |===
 
-. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U18 a U20 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých. 
- 
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U18 a U20 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+
+. Startovné musí být uhrazeno do 5. dnů do půlnoci od objednání, neuhrazené objednávky jsou po 5. dni zrušeny. Platba ale musí být připsána na účet svazu nejpozději do 2 dnů po konci registrace.
+
+. Zástupce oddílu může zrušit ještě neuhrazenou předregistraci. Po zaplacení předregistrace do půlnoci 7. dne po ukončení závodu pak může podat žádost o vrácení startovného.
+V žádosti uvede důvod a vybere závodníky, u kterých žádá vrácení startovného. Při pozdějším zrušení předregistrace se startovné nevrací.
+
 . Dodatečná registrace v den závodu není možná.
 
 . Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. minerální voda, banán, tatranka, jablko apod.). 
 . V izolační zóně musí být k dispozici další minerální voda. 
 . V izolační zóně před finále musí být na závodech možnost rozcvičení, rozlezení a přístup k toaletám.
 
-== Typy závodů mládeže pro rok 2023 
+== Typy závodů mládeže pro rok 2024 
 Obtížnost::
-. seriál závodů Českého poháru mládeže v lezení na obtížnost 2023 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru mládeže v lezení na obtížnost 2024 - max. 6 závodů, jeho součástí je Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
 . závody Českého poháru do 14 let – max. 7 závodů pro mladší věkové kategorie, jeho součástí je Mistrovství ČR mládeže do 14 let, pro kategorie U10, U12 a U14
 
 Rychlost::
-. seriál závodů Českého poháru mládeže 2023 - max. 5 závodů včetně Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru mládeže 2024 - max. 5 závodů včetně Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
 . seriál závodů Českého poháru do 14 let - max. 5 závodů včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
 
 Boulder::
-. seriál závodů Českého poháru mládeže 2023 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
+. seriál závodů Českého poháru mládeže 2024 - max. 4 závody, jeho součástí je i Mistrovství ČR mládeže, pro kategorie U16, U18 a U20
 . seriál závodů Českého poháru do 14 let – max. 5 závody včetně Mistrovství ČR do 14 let, pro kategorie U10, U12 a U14
 
 Všechny závody 1. ligy ve všech disciplínách a MČR jsou pořádány v mezinárodním formátu. 
@@ -63,8 +65,6 @@ Nominační závody musí proběhnout v open formátu.
 . Závodníci jsou povinni lézt v dresu (triko) dodaném pořadatelem, pokud pořadatel takový dres dodá a stanoví povinnost v něm startovat.
 
 . Pro všechny závody ČPM a ČP do 14 let platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>>. 
-
-. Při předběžné registraci na stránkách sportovního lezení bude závodníkovi umožněno jednoduchým způsobem přejít na on-line přihlašovací formulář vstupu do ČHS a zde vyplnit formality nutné pro přijetí do ČHS. Závodníkovi bude při on-line registraci zasláno potvrzení e-mailem a po zaplacení členského příspěvku mu bude členský průkaz zaslán poštou.
 
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
@@ -94,7 +94,7 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2023>>.
+Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>>.
 
 Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2023“>>, který je přílohou Pravidel sportovního lezení ČHS.
 
@@ -111,9 +111,6 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 . Závody na rychlost nejvyšších soutěží i 1. ligy se konají v jednom dni. 
 . V případě dohody s KSL lze uspořádat závod ČPM v lezení na rychlost zvlášť pro kategorie U16, U18, U20 na standardní cestě a zvlášť (i v jiném termínu) závod ČP do 14 let pro kategorie U10, U12, U14.
 . Pokud je závod na rychlost kategorií U18 a U20 propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
-
-=== Závody se zahraniční účastí 
-. V případě, že se závody uskuteční se zahraniční účastí a budou vyhlášeny v <<pravidla_sl.adoc#open-format,Open formátu>>, nesmí zahraniční účastníci ovlivnit počty postupujících českých závodníků. Celkový počet postupujících bude pro každé kolo navýšen o postupující zahraniční účastníky. Toto ustanovení platí pro všechny kategorie a disciplíny s výjimkou závodů na rychlost – zde je počet postupujících dán pravidly a postupovým klíčem.
 
 == Vyhlášení výsledků 
 
@@ -187,5 +184,5 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2023 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2023>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 14 let ve sportovním lezení pro rok 2023>>.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2024 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 14 let ve sportovním lezení pro rok 2024>>.
