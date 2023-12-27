@@ -1,0 +1,10 @@
+extends: default
+heading:
+  h3_font_style: normal
+  h3_font_size: $base_font_size
+  h3_align: justify
+  h3_indent: $horizontal_rhythm * 1.5
+  h4_font_style: normal
+  h4_font_size: $base_font_size
+  h4_align: justify
+  h4_indent: $horizontal_rhythm * 1.5  

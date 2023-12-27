@@ -12,6 +12,9 @@
         "borhák",
         "boulder",
         "boulderu",
-        "boulderů"
-    ]
+        "boulderů",
+        "osmifinále"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "asciidoc.antora.enableAntoraSupport": true
 }

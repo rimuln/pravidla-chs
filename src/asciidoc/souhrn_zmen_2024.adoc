@@ -1,0 +1,39 @@
+:lang: cs
+include::../../locale/_attributes.adoc[]
+:title-page:
+:imagesdir: ./images
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:stem: latexmath
+:xrefstyle: short
+:toc: left
+:toclevels: 2
+= Souhrn změn v pravidlech a prováděcích předpisech pro rok 2024
+Český horolezecký svaz
+v1.4, 1.1.2024
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
+
+ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
+
+V 1. lize je zakázán start zahraničních sportovců
+
+V 2. lize mládeže sloučena kategorie U18 a U20
+
+V 2. lize mládeže zvýšené startovné
+
+V 2. lize mládeže přidány doporučené formáty pro obtížnost
+
+V 2. lize mládeže stanoveno 24 závodníků jako minimální počet pokud je nastavena kvóta.
+
+V 3. lize dospělých je povinnost použít předregistrační systém svazu
+
+V 3. lize mládeže je povinnost použít předregistrační systém svazu
+
+V 3. lize mládeže je povinnost použít výsledkový servis poskytovaný svazem, pokud závod je dle pravidel ČHS pro jednotlivé disciplíny
+
+V části o ČHS je přidána pasáž o zodpovědnosti oddílu ČHS vzhledem ke sportovním soutěžím.
+
+Školní boulder pohár je definován jako náborová soutěž.
+
