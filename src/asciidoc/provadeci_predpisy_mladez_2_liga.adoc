@@ -59,7 +59,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Oblastní mistrovství se pro rok 2024 nevyhlašuje.
 
 . Obtížnost
-.. seriál závodů 2. ligy v lezení na obtížnost 2024 - max. 6 závodů ideálně v období květen až listopad
+.. seriál závodů 2. ligy v lezení na obtížnost 2024 - ideálně v období květen až listopad
 ... Doporučené formáty jsou:
 .... Standardní formát tj. 2 kvalifikační cesty + 1 finálová
 .... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>)
@@ -68,7 +68,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 .. v roce 2024 závody v této disciplíně neprobíhají
 
 . Boulder
-.. seriál závodů 2. ligy v boulderu - max. 6 závodů ideálně v období únor až září
+.. seriál závodů 2. ligy v boulderu - ideálně v období únor až září
 
 == Závodníci 
 
