@@ -34,8 +34,9 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
    .2+^.^| *člen ČHS*   ^| *předregistrace* ^| 300 Kč
                         ^| *na místě*       ^| 400 Kč
 |===
-+
-Podmínky registrace si stanovuje pořadatel.
+
+. Předregistrace do závodu probíhá přes online systém v kalendáři závodů na stránkách ČHS.
+. Dodatečná registrace v den závodu na místě je možná jen se souhlasem pořadatele a při splnění podmínek registrace  závodníka u ČHS a platné zdravotní prohlídky.
 
 == Typy závodů mládeže pro rok 2024 
 
@@ -51,23 +52,21 @@ Podmínky registrace si stanovuje pořadatel.
 
 . Pro zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky.
 
-. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností  a které nemají v České republice trvalý nebo dlouhodobý pobyt.
-
-. Závodníci účastnící se 1. ligy by se neměli účastnit závodů 3. ligy.
+. Závodníci účastnící se 1. ligy a ti, kteří se v roce 2023 umístili v celkovém pořadí seriálu 2. ligy na 1. - 3. místě, by se neměli účastnit závodů 3. ligy.
 
 . Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
 
 . Pořadatel musí garantovat aby z maximálního počtu závodníků závodu bylo minimálně 30% vyhrazeno pro závodníky z jiných oddílů než pořádajícího.
 
-. Pro všechny závody platí, že čeští účastníci závodů musí být členy ČHS. Nestačí jen evidované členství, jelikož jeho součástí není průkaz ČHS.
+. Pro všechny závody platí, že čeští účastníci závodů musí být členy ČHS. Závodníci v 3. lize nemusí mít platnou závodní registraci (licenci) pro rok 2024
 
-. Závodníci v 3. lize nemusí mít platnou závodní registraci pro rok 2024
+. Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS.
 
-. Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
+. Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností a které nemají v České republice trvalý nebo dlouhodobý pobyt.
 
 . Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro organizovaný sport. Možné je použít na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] zveřejněný platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Za uskutečnění a kontrolu platnosti odpovídající zdravotní prohlídky zodpovídá oddíl, jehož je závodník členem. ČHS má právo kontrolovat, zda oddíl plní tuto povinnost.
 +
-Zdravotní prohlídka bude požadována i po zahraničních závodnících. 
+Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 == Oficiální činovníci
 . Delegát ČHS není jmenován
@@ -88,7 +87,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Poskytování informací o závodě 
 
-. Každý pořadatel z důvodů plánování ostatních soutěží zažádá sekretariát ČHS (zavody@horosvaz.cz) o zařazení závodu do kalendáře závodů minimálně 2 měsíce před prvním dnem konání závodu.
+. Každý pořadatel z důvodů plánování ostatních soutěží zažádá sekretariát ČHS (zavody@horosvaz.cz) o zařazení závodu do kalendáře závodů minimálně 60 dní před prvním dnem konání závodu.
 
 . Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu včetně pravidel závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061734.docx[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele a pravidla závodu. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 

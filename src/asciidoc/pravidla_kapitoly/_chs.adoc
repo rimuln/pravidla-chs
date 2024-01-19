@@ -38,7 +38,7 @@ Oddíly ČHS, organizátoři akcí a osoby spojené s jakoukoliv akcí v kalend�
 .. trvalé a aktivní působení proti užívání drog nebo jiných zakázaných látek všemi členy týmu reprezentující oddíl a dodržování všech pravidel a pokynů v oblasti bezpečnosti a ochrany zdraví a aby bylo zaručeno mimosoutěžní testování, pokud je o to požádáno.
 .. zákaz jakýchkoliv metod nebo postupů, které by mohly představovat riziko pro zdraví nebo fyzickou kondici svých členů oddílů
 .. závazek, že se důrazné postaví proti jakémukoliv pokušení manipulace s pravidly a předpisy ve prospěch členů oddílů.
-.. zajištění, aby se všichni členové reprezentující oddíl chovali ke všem ostatním členům týmu tak, jak je to možné.
+.. zajištění, aby se všichni členové reprezentující oddíl chovali ke všem ostatním členům týmu, funkcionářům a ostatním, kteří se podílejí na provozování tohoto sportu s plným a náležitým respektem po celou dobu, jak v průběhu soutěže, tak v průběhu jakékoli nesoutěžní činnosti.
 
 . Všichni členové týmu, kteří se účastní jakékoliv soutěže, jsou povinni zajistit aby byli plně informováni o všech podrobnostech týkajících se dané soutěže.
 
@@ -48,8 +48,6 @@ Oddíly ČHS, organizátoři akcí a osoby spojené s jakoukoliv akcí v kalend�
 .. že všichni přihlášení závodníci jsou držiteli <<#zavodni-registrace,závodní registrace>>, pokud je daná soutěž vyžaduje.
 
 . Každý oddíl ČHS musí dodržovat lhůty pro předregistraci svých závodníků.
-
-. Každý oddíl ČHS platí startovné za všechny své závodníky, kteří se předregistrovali k příslušnému datu předregistrace.
 
 [#souteze]
 === SOUTĚŽE

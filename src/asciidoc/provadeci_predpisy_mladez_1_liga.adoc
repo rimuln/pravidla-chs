@@ -26,9 +26,10 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
 [cols=",,",options="header",]
+[.center]
 |===
          |                   ^| *Platba*           ^| *Startovné* 
-   .2+^.^| *držitel licence* ^| *předem na účet*   ^| 400 Kč
+         | *držitel licence* ^| *předem na účet*   ^| 400 Kč
 |===
 
 . Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U18 a U20 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
@@ -82,21 +83,21 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 . Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem. 
 
-== Poskytování informací o závodě 
+== Poskytování informací o závodech 
 
-. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice]  by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
+. [[pioz-1,{counter:pioz}]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 
-. [[pioz-2]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
+. [[pioz-2,{counter:pioz}]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
-. [[pioz-3]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této listiny a podpis hlavního rozhodčího.
+. [[pioz-3,{counter:pioz}]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího.
 
-. [[pioz-4]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
+. [[pioz-4,{counter:pioz}]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
 
 == Průběh závodů 
 
 Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>>.
 
-Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2023“>>, který je přílohou Pravidel sportovního lezení ČHS.
+Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2024“>>, který je přílohou Pravidel sportovního lezení ČHS.
 
 === Obtížnost
 . Závody nejvyšších soutěží kategorií U16, U18, U20 se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>).  V případě že závod je zároveň i nominačním závodem, pak je možné tento závod uspořádat i bez semifinále v jednom dni.

@@ -18,7 +18,7 @@ v1.4, 1.1.2024
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Závody 2. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku do 17 let.
+. Závody 2. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku do 19 let.
 
 == Pořadatel 
 
@@ -59,7 +59,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Oblastní mistrovství se pro rok 2024 nevyhlašuje.
 
 . Obtížnost
-.. seriál závodů 2. ligy v lezení na obtížnost 2024 - ideálně v období květen až listopad
+.. seriál závodů 2. ligy v lezení na obtížnost 2024
 ... Doporučené formáty jsou:
 .... Standardní formát tj. 2 kvalifikační cesty + 1 finálová
 .... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>)
@@ -68,7 +68,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 .. v roce 2024 závody v této disciplíně neprobíhají
 
 . Boulder
-.. seriál závodů 2. ligy v boulderu - ideálně v období únor až září
+.. seriál závodů 2. ligy v boulderu
 
 == Závodníci 
 
@@ -84,7 +84,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 +
 Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodobé nemoci). Žádost musí obsahovat lékařskou zprávu a podává se elektronicky emailem na zavody@horosvaz.cz.
 
-. Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu. V případě omezení počtu závodníků, je minimalní počet, který musí v jedné kategorii startovat stanoven na 24.
+. Pořadatel může omezit maximální počet závodníků, za předpokladu, že tento počet v dané kategorii a pohlaví nesmí klesnout pod 24. Tento počet pak musí být uveden v propozicích závodu.
 
 . Pro všechny závody platí, že čeští účastníci musí být členy oddílu ČHS a mít platnou <<pravidla_sl.adoc#zavodni-registrace,závodní registraci>>.
 
@@ -114,7 +114,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Poskytování informací o závodě 
 
-. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice]  by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
+. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (adela.zapletalova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice]  by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 
 . [[pioz-2]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
@@ -160,7 +160,7 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
   * Nad 15 závodníků - koeficient 1
   * Do 15 závodníků včetně - koeficient 0,85
 
-. Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy a poháry pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí předseda KSL nebo jeho zástupce pro Český pohár.
+. Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy a poháry pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí předseda KSL nebo jeho zástupce pro 2. ligu.
 
 == Ostatní 
 

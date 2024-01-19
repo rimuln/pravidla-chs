@@ -30,16 +30,17 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [.center]
 |===
          |                      ^| *Platba*         ^| *Startovné* 
-   .2+^.^| *držitel registrace* ^| *předem na účet* ^| 500 Kč
-                                ^| *na místě*       ^| 600 Kč
+         | *držitel registrace* ^| *předem na účet* ^| 500 Kč
+
 |===
-+
-Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie A a J pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+. Startovné musí být uhrazeno do 5. dnů do půlnoci od objednání, neuhrazené objednávky jsou po 5. dni zrušeny. Platba ale musí být připsána na účet svazu nejpozději do 2 dnů po konci registrace.
 
 . Zástupce oddílu může zrušit ještě neuhrazenou předregistraci. Po zaplacení předregistrace do půlnoci 7. dne po ukončení závodu pak může podat žádost o vrácení startovného.
 V žádosti uvede důvod a vybere závodníky, u kterých žádá vrácení startovného. Při pozdějším zrušení předregistrace se startovné nevrací.
 
-. Dodatečná registrace v den závodu není možná u závodů 1. ligy.
+. Dodatečná registrace v den závodu není možná.
 
 . Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. minerální voda, banán, tatranka, jablko apod.). 
 . V izolační zóně musí být k dispozici další minerální voda. 
@@ -78,15 +79,15 @@ Nominační závody musí být pořádány v open formátu.
 
 == Poskytování informací o závodech 
 
-. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
+. [[pioz-1,{counter:pioz}]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 
-. [[pioz-2]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
+. [[pioz-2,{counter:pioz}]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
-. [[pioz-3]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího. 
+. [[pioz-3,{counter:pioz}]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího. 
 
-. [[pioz-4]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
+. [[pioz-4,{counter:pioz}]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
 
-. [[pioz-5]]Pro všechny závody 3. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a je doporučeno používat oficiální aplikaci pro výsledkový servis, pokud pravidla závodu odpovídají pravidlům ČHS pro danou disciplínu.
+. [[pioz-5,{counter:pioz}]]Pro všechny závody 3. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a je doporučeno používat oficiální aplikaci pro výsledkový servis, pokud pravidla závodu odpovídají pravidlům ČHS pro danou disciplínu.
 
 == Průběh závodů 
 
@@ -182,6 +183,6 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 . Výši finanční a případně jiné podpory závodů nejvyšších soutěží a 1. ligy schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2024 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
 
-. Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<pioz-1>>, <<pioz-2>> a <<pioz-3>>. 
+. Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>>, <<Poskytování informací o závodech>>.<<pioz-2>> a <<Poskytování informací o závodech>>.<<pioz-3>>. 
 
 . Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> 
