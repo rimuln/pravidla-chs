@@ -158,7 +158,7 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 +
 jiné než je speciálně povolené těmito pravidly.
 
-.. může přinést do <<#svolavaci-zony,svolávací zóny>>/<<#tranzitni-zony,tranzitní zóny>>, ale ne do soutěžní zóny
+.. může přinést do <<#svolavaci-zona,svolávací zóny>>/<<#tranzitni-zona,tranzitní zóny>>, ale ne do soutěžní zóny
 ... tašky/batohy nebo jiná zavazadla
 ... bateriově napájené ventilátory nebo jiné zařízení
 +

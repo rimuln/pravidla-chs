@@ -62,7 +62,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 .. seriál závodů 2. ligy v lezení na obtížnost 2024
 ... Doporučené formáty jsou:
 .... Standardní formát tj. 2 kvalifikační cesty + 1 finálová
-.... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>)
+.... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>)
 
 . Rychlost
 .. v roce 2024 závody v této disciplíně neprobíhají
@@ -166,4 +166,4 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 . Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2024 či ustanovení prováděcích předpisů na závodech 2. ligy bude dotace krácena.
 . KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti, regulérnosti závodu a plnění marketingových práv.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_2_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>.

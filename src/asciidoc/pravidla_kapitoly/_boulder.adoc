@@ -47,8 +47,8 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 .. být viditelný pro všechny soutěžící v soutěžní zóně a v každé <<#tranzitni-zona,tranzitní zóně>>
 .. zobrazovat zbývající čas v rámci příslušného časového intervalu, zaokrouhlený na celé sekundy
 .. oznamovat zvukovým signálem
-... začátek a konec každého <<#cas-lezení, časového intervalu na lezení>>
-... minutu do konce <<#cas-lezení, časového intervalu na lezení>>
+... začátek a konec každého <<#cas-lezeni, časového intervalu na lezení>>
+... minutu do konce <<#cas-lezeni, časového intervalu na lezení>>
 ... odpočítávání posledních pěti sekund každého časového intervalu
 
 [#startovni-listiny-boulder]
