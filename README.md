@@ -18,4 +18,5 @@ Repositář s pravidly sportovního lezení ČHS. obsahuje soubory, ze kterých 
   - Požádat mě o právo přispívat do tohoto repositáře, nebo udělat fork pravidel a vytvářet Pull requesty. V tomto případě je vždy nutné si zřídít na Githubu účet.
   - Na počítači:
     - nainstalovat si Git for Windows [stáhnout zde](https://git-scm.com/download/win)
-    - nainstalovat si např. Visual Studio Code ([stáhnout zde](https://code.visualstudio.com/download)) a do něj rozšíření pro AsciiDoc a Better AsciiDoc, GitLab a Git. 
+    - nainstalovat si např. Visual Studio Code ([stáhnout zde](https://code.visualstudio.com/download)) a do něj rozšíření pro AsciiDoc, GitLab a Git. 
+    - otevřít si Visual Studio Code for the Web ([detaily zde](https://code.visualstudio.com/docs/editor/vscode-web)) a do něj nainstalovat rozšíření pro AsciiDoc. A pak otevřít vzdálené úložiště: https://vscode.dev/github/rimuln/pravidla-chs
