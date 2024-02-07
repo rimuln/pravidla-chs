@@ -30,6 +30,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 |===
          |                   ^| *Platba*           ^| *Startovné* 
          | *držitel licence* ^| *předem na účet*   ^| 400 Kč
+         | *zahraniční*      ^| *předem na účet*   ^| ?500 Kč nebo 20€?
 |===
 
 . Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U18 a U20 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
@@ -113,12 +114,17 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 . V případě dohody s KSL lze uspořádat závod ČPM v lezení na rychlost zvlášť pro kategorie U16, U18, U20 na standardní cestě a zvlášť (i v jiném termínu) závod ČP do 14 let pro kategorie U10, U12, U14.
 . Pokud je závod na rychlost kategorií U18 a U20 propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
 
+=== Závody se zahraniční účastí 
+. V případě, že se závody uskuteční se zahraniční účastí a budou vyhlášeny v <<pravidla_sl.adoc#open-format,Open formátu>>, nesmí zahraniční účastníci ovlivnit počty postupujících českých závodníků. Celkový počet postupujících bude pro každé kolo navýšen o postupující zahraniční účastníky. Toto ustanovení platí pro všechny kategorie a disciplíny s výjimkou závodů na rychlost – zde je počet postupujících dán pravidly a postupovým klíčem.
+
+. Pořadatel závodu s ohledem na kapacitní a časové možnosti může stanovit maximální kvótu počtu účastí cizinců v soutěži. Tato informace musí být zveřejněna v propozicích závodu a v předregistračním systému pro zahraniční závodníky.
+
 == Vyhlášení výsledků 
 
 . Vyhlášení výsledků musí být provedeno důstojným způsobem. Vyhlášení výsledků musí být nejdéle do 30 minut po ukončení posledního kola závodu poslední kategorie. Jednotlivé kategorie mohou být vyhlašovány i v průběhu závodu.
 . Při vyhlášení výsledků musí být dodrženy podmínky stanovené ČHS ve smlouvě s pořadatelem podle smluv s partnery ČHS.
-. Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků s výjimkou MČR.
-. V případě MČR mládeže musí pořadatel zajistit zvlášť vyhlášení závodu a zvlášť MČRM, které se týká pouze závodníků ČR. V každé kategorii může být udělen pouze jeden titul MČR mládeže.
+. Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem nebo medailí a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků s výjimkou MČR.
+. V případě MČR mládeže musí pořadatel zajistit zvlášť vyhlášení závodu a zvlášť MČRM, které se týká pouze závodníků ČR. V každé kategorii může být udělen pouze jeden titul MČR mládeže. Zahraniční závodník má nárok pouze na medaili nebo diplom, nikoliv na případné věcné ceny.
 
 == Hodnocení seriálu závodů ČPM a ČP do 14 let
 

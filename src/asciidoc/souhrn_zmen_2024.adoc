@@ -17,6 +17,12 @@ v1.4, 1.1.2024
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
+- Změny v1.4.113
+
+V 1. lize je povolen start zahraničních sportovců s možností kapacitních omezení
+
+- Změny v1.4.112 
+
 V 1. lize je zakázán start zahraničních sportovců
 
 V 2. lize mládeže sloučena kategorie U18 a U20
