@@ -17,11 +17,11 @@ v1.4, 1.1.2024
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
-- Změny v1.4.113
+- *Změny v1.4.115*
 
-V 1. lize je povolen start zahraničních sportovců s možností kapacitních omezení
+V 1. lize může být registrace zahraničních závodníků omezena počtem míst určených pro zahraniční závodníky.
 
-- Změny v1.4.112 
+- *Změny v1.4.112*
 
 V 1. lize je zakázán start zahraničních sportovců
 
