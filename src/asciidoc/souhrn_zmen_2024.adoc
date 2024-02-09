@@ -17,9 +17,19 @@ v1.4, 1.1.2024
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
-- *Změny v1.4.115*
+- *Změny v1.4.116*
 
 V 1. lize může být registrace zahraničních závodníků omezena počtem míst určených pro zahraniční závodníky.
+
+Start cizinců v soutěžích ČHS byl schválen dne 8.2.2024.
+
+Počet míst určených pro zahraniční závodníky je uveden v kalendáři závodů a v propozicích.
+
+Účast zahraničních závodníků může ČHS zrušit v den uzavření předregistrace a to zejména z kapacitních důvodů.
+
+Změny v odměňování zahraničních závodníků.
+
+Změny výše startovného zahraničních závodníků.
 
 - *Změny v1.4.112*
 

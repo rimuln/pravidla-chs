@@ -27,7 +27,7 @@ jobs:
     - name: Archive generated pdf's
       uses: actions/upload-artifact@v4
       with:
-        name: pravidla-pdf-${{github.run_number}}
+        name: pravidla-pdf-${{github.run_number+5}}
         path: src/asciidoc/*.pdf
       
        
