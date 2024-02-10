@@ -24,7 +24,9 @@ jobs:
       id: date
       run: |
         echo "NOW=$(date +'%d.%m.%Y')" >> $GITHUB_ENV
-        echo "VERSION=1.4.$(($BUILD_NUMBER))" >> $GITHUB_ENV
+        YEAR=$(date +'%Y')
+        LAST_DIGIT_OF_YEAR=${YEAR: -1}
+        echo "VERSION=1.$(($LAST_DIGIT_OF_YEAR)).$(($BUILD_NUMBER))" >> $GITHUB_ENV
 
     - name: Print build number
 
