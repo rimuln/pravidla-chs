@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Výjimky ze soutěžních pravidel ČHS pro závody 3. ligy ve sportovním lezení mládeže pro rok 2024
+= Výjimky ze soutěžních pravidel ČHS pro závody 3. ligy ve sportovním lezení mládeže pro rok 2025
 Český horolezecký svaz
-v1.4, 1.1.2024
+v1.5, 1.1.2025
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -120,7 +120,7 @@ U závodů 3. ligy, kde lze kromě ustanovení pravidel sportovního lezení vyu
 === Průběh závodu
 . Kvalifikace se leze bez <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>
 
-. Pro závody 3. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-boulder-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-boulder-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel sportovního lezení 2024>>, která zde mají pouze doporučující charakter.
+. Pro závody 3. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-boulder-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-boulder-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel sportovního lezení 2025>>, která zde mají pouze doporučující charakter.
 
 == Rychlost
 === Předčasný start v závodech na rychlost

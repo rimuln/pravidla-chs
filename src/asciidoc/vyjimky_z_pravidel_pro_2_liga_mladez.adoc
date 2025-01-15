@@ -9,16 +9,16 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy ve sportovním lezení mládeže pro rok 2024
+= Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy ve sportovním lezení mládeže pro rok 2025
 Český horolezecký svaz
-v1.4, 1.1.2024
+v1.5, 1.1.2025
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže ve sportovním lezení pro rok 2023“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2023“>> s výjimkami v těchto bodech:
+. Pro závody 2. ligy v lezení dětí a mládeže (dále jen závody 2. ligy) platí <<provadeci_predpisy_2_liga_mladez.adoc#,„Prováděcí předpisy ČHS pro závody mládeže ve sportovním lezení pro rok 2025“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2025“>> s výjimkami v těchto bodech:
 
 == Lezecká stěna
 
@@ -75,7 +75,7 @@ Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pok
 
 === Prohlídka cest
 . Živé předlezení u kvalifikačních cest musí začít nejpozději 15 min před pokusem prvního závodníka.
-. Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorií U8 a U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
+. Na prohlídku cesty, pokud se leze za <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, mohou závodníky doprovázet trenéři pouze u kategorií U9 a U11. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 [#bezpecnost-a-jisteni]
 === Bezpečnost a jištění
@@ -83,8 +83,8 @@ Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pok
 +
 Neplatí pro ně <<pravidla_sl.adoc#podminky-izolace,podminky izolace>>
 
-Kategorie U8, U10 a U12:: musí lézt s horním jištěním (top-rope)
-Kategorie U14, U16, U18 a U20:: může lézt s horním jištěním nebo se spodním jištěním. 
+Kategorie U9, U11 a U13:: musí lézt s horním jištěním (top-rope)
+Kategorie U15, U17, U19 a U21:: může lézt s horním jištěním nebo se spodním jištěním. 
 
 +
 Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního rozhodčího tak, aby byla zajištěna bezpečnost závodníků. Pro zvýšení bezpečnosti lze lézt se zapnutou první expreskou v případě lezení se spodním jištěním.
@@ -93,8 +93,8 @@ Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního ro
 + 
 Musí se lézt za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
 
-Kategorie U8, U10 a U12:: musí lézt s horním jištěním (top-rope)
-Kategorie U14, U16, U18 a U20:: musí lézt se spodním jištěním
+Kategorie U9, U11 a U13:: musí lézt s horním jištěním (top-rope)
+Kategorie U15, U17, U19 a U21:: musí lézt se spodním jištěním
 
 . Při lezení s horním jištěním (top-rope) je přípustné navázání závodníka dle bodu <<pravidla_sl.adoc#6.2.5.c.ii,6.2.5.c.ii>>.
 
@@ -112,12 +112,12 @@ U závodů 2. ligy, kde lze kromě ustanovení pravidel sportovního lezení vyu
 . kvalifikace a finále světovým formátem
 
 === Prohlídka boulderů
-. Na prohlídku boulderů, pokud se leze <<pravidla_sl.adoc#boulder-format-sp,světovým formátem>>, mohou závodníky doprovázet trenéři pouze u kategorií U8 a U10. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
+. Na prohlídku boulderů, pokud se leze <<pravidla_sl.adoc#boulder-format-sp,světovým formátem>>, mohou závodníky doprovázet trenéři pouze u kategorií U9 a U11. Tito trenéři v takovém případě musí zachovávat pravidla izolace.
 
 === Průběh závodu
 . Kvalifikace se leze bez <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>
 
-. Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-boulder-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-boulder-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel sportovního lezení 2024>>, která zde mají pouze doporučující charakter.
+. Pro závody 2. ligy mládeže neplatí ustanovení <<pravidla_sl.adoc#pl-kv-flash-boulder-5,5.4.5>> a <<pravidla_sl.adoc#pl-kv-flash-boulder-7,5.4.7>> <<pravidla_sl.adoc#,Pravidel sportovního lezení 2025>>, která zde mají pouze doporučující charakter.
 
 == Rychlost
 === Předčasný start v závodech na rychlost

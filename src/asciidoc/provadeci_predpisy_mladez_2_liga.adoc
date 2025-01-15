@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody 2. ligy ve sportovním lezení dětí a mládeže pro rok 2024
+= Prováděcí předpisy ČHS pro závody 2. ligy ve sportovním lezení dětí a mládeže pro rok 2025
 Český horolezecký svaz
-v1.4, 1.1.2024
+v1.5, 1.1.2025
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -53,19 +53,19 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 . Česko
 
-== Typy závodů mládeže pro rok 2024 
+== Typy závodů mládeže pro rok 2025 
 
-. Závody musí být vypsané pro kategorie U10, U12, U14, U16 a U20. Kde kategorie U20 zahrnuje i kategorii U18.
-. Oblastní mistrovství se pro rok 2024 nevyhlašuje.
+. Závody musí být vypsané pro kategorie U11, U13, U15, U17 a U21. Kde kategorie U21 zahrnuje i kategorii U19.
+. Oblastní mistrovství se pro rok 2025 nevyhlašuje.
 
 . Obtížnost
-.. seriál závodů 2. ligy v lezení na obtížnost 2024
+.. seriál závodů 2. ligy v lezení na obtížnost 2025
 ... Doporučené formáty jsou:
 .... Standardní formát tj. 2 kvalifikační cesty + 1 finálová
-.... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>)
+.... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2025>>)
 
 . Rychlost
-.. v roce 2024 závody v této disciplíně neprobíhají
+.. v roce 2025 závody v této disciplíně neprobíhají
 
 . Boulder
 .. seriál závodů 2. ligy v boulderu
@@ -76,10 +76,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky včetně možnosti umístění v žebříčcích.
 
 . Závodů se nesmí účastnit závodníci, kteří: 
-.. se v roce 2023 umístili v Českém poháru mládeže na 1. až 3. místě 
-.. se v roce 2023 umístili na Mistrovství ČR mládeže na 1. až 3. místě
-.. se v roce 2023 umístili v Českém poháru mládeže na 4. až 5. místě, pokud zůstávají ve stejné kategorii jako v roce 2023
-.. se v roce 2023 umístili na Mistrovství ČR mládeže na 4. až 5. místě, pokud zůstávají ve stejné kategorii jako v roce 2023
+.. TODO
 
 +
 Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodobé nemoci). Žádost musí obsahovat lékařskou zprávu a podává se elektronicky emailem na zavody@horosvaz.cz.
@@ -92,7 +89,7 @@ Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodob
 
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností a které nemají v České republice trvalý nebo dlouhodobý pobyt.
 
-. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 14 let je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda v systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
+. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 15 let je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda v systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
 +
 Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
@@ -124,7 +121,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy mládeže  ve sportovním lezení pro rok 2024>>.
+Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy mládeže  ve sportovním lezení pro rok 2025>>.
 
 == Vyhlášení výsledků 
 
@@ -164,6 +161,6 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2024 či ustanovení prováděcích předpisů na závodech 2. ligy bude dotace krácena.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů na závodech 2. ligy bude dotace krácena.
 . KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti, regulérnosti závodu a plnění marketingových práv.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2024>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2025>>.

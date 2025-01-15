@@ -31,9 +31,9 @@ může:: představuje volitelnou záležitost
 [[cesky-pohar]]Český pohár:: označuje nejvyšší úroveň série závodů schválených ČHS včetně <<#mistrovstvi,Mistrovství>> v disciplínách Boulder, Obtížnost a Rychlost, která je otevřená závodníkům:
 +
 --
- .. ve věku 16 let a více v roce poháru je relevantní název „Český pohár“
- .. ve věku 14 až 19 let  v roce poháru je relevantní název „Český pohár mládeže“
- .. ve věku 13 let a méně v roce poháru je relevantní název „Český pohár U14“
+ .. ve věku 17 let a více v roce poháru je relevantní název „Český pohár“
+ .. ve věku 15 až 19 let  v roce poháru je relevantní název „Český pohár mládeže“
+ .. ve věku 14 let a méně v roce poháru je relevantní název „Český pohár U15“
 --
 + 
 v každém případě musí být uvedeno v kalendáři závodu publikovaném ČHS.
@@ -66,16 +66,16 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
 [cols="2,5",width=50%]
 [.center]
 |===
-|U8  |ročník 2017 a mladší (děti do 7 let včetně)
-|U10 |ročník 2015 - 2016 (děti 8 - 9 let)
-|U12 |ročníky 2013 - 2014 (10 - 11 let)
-|U14 |ročníky 2011 - 2012 (12 - 13 let)
-|kategorie B (U16) |ročníky 2009 - 2010 (14 - 15 let)
-|kategorie A (U18) |ročníky 2007 - 2008 (16 - 17 let)
-|kategorie J (U20) |ročníky 2005 - 2006 (18 - 19 let)
-|dospělí     |ročník 2008 a starší (16 let a více)
-|masters     |ročník 1984 a starší (40 let a více)
-|legends     |ročník 1974 a starší (50 let a více)
+|U9  |ročník 2017 a mladší (děti do 8 let včetně)
+|U11 |ročník 2015 - 2016 (děti 9 - 10 let)
+|U13 |ročníky 2013 - 2014 (11 - 12 let)
+|U15 |ročníky 2011 - 2012 (13 - 14 let)
+|kategorie U17 |ročníky 2009 - 2010 (15 - 16 let)
+|kategorie U19 |ročníky 2007 - 2008 (17 - 18 let)
+|kategorie U21 |ročníky 2005 - 2006 (19 - 20 let)
+|dospělí     |ročník 2008 a starší (17 let a více)
+|masters     |ročník 1985 a starší (40 let a více)
+|legends     |ročník 1975 a starší (50 let a více)
 |===
 +
 Pro zařazení do kategorie je rozhodující ročník narození závodníka.
@@ -104,10 +104,10 @@ Věkové kategorie pro celý rok jsou dané. Závodník může závodit pouze ve
 [[mistrovstvi]]Mistrovství:: označuje nejvyšší Soutěž schválenou ČHS v disciplínách Boulder, Rychlost, Obtížnost, která je otevřená soutěžícím:
 +
 --
- .. ve věku 16 let a více v daném roce je relevantní „Mezinárodní Mistrovství ČR“
- .. ve věku 14 let a více a ve věku 19 let a méně v daném roce je relevantní „Mistrovství mládeže ČR“ 
- .. ve věku 13 let a méně v daném roce je relevantní „Mistrovství mládeže U14 ČR“ 
- .. ve věku 19 let a méně v daném roce  „Mistrovství mládeže [oblast]“ pokud je toto oblastní mistrovství schválené ČHS
+ .. ve věku 17 let a více v daném roce je relevantní „Mezinárodní Mistrovství ČR“
+ .. ve věku 15 let a více a ve věku 20 let a méně v daném roce je relevantní „Mistrovství mládeže ČR“ 
+ .. ve věku 14 let a méně v daném roce je relevantní „Mistrovství mládeže U15 ČR“ 
+ .. ve věku 20 let a méně v daném roce  „Mistrovství mládeže [oblast]“ pokud je toto oblastní mistrovství schválené ČHS
 --
 +
 v každém případě musí být uvedeno v kalendáři závodu publikovaném ČHS.

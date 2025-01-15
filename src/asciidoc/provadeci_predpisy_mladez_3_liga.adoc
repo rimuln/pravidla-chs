@@ -9,16 +9,17 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody 3. ligy ve sportovním lezení dětí a mládeže pro rok 2024
+= Prováděcí předpisy ČHS pro závody 3. ligy ve sportovním lezení dětí a mládeže pro rok 2025
 Český horolezecký svaz
-v1.4, 1.1.2024
+v1.5, 1.1.2025
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Závody 3. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající závodníky ve věku do 19 let a tomu odpovídají obtížnosti lezeckých cest a boulderů.
+. Závody 3. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající závodníky kteří v roce 2025 dosáhnou věku 7 až 19 let.  Tomu odpovídají obtížnosti lezeckých cest a boulderů.
+
 
 == Pořadatel 
 
@@ -38,7 +39,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Předregistrace do závodu probíhá přes online systém v kalendáři závodů na stránkách ČHS.
 . Dodatečná registrace v den závodu na místě je možná jen se souhlasem pořadatele a při splnění podmínek registrace  závodníka u ČHS a platné zdravotní prohlídky.
 
-== Typy závodů mládeže pro rok 2024 
+== Typy závodů mládeže pro rok 2025 
 
 . Závody netvoří ucelený seriál závodů a probíhají v následujících disciplínách:
 .. Obtížnost
@@ -52,13 +53,10 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 . Pro zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky.
 
-. Závodníci účastnící se 1. ligy a ti, kteří se v roce 2023 umístili v celkovém pořadí seriálu 2. ligy na 1. - 3. místě, by se neměli účastnit závodů 3. ligy.
+. Závodů se nesmí účastnit závodníci, kteří: 
+.. TODO
 
-. Pořadatel může omezit maximální počet závodníků. Tento počet pak musí být uveden v propozicích závodu.
-
-. Pořadatel musí garantovat aby z maximálního počtu závodníků závodu bylo minimálně 30% vyhrazeno pro závodníky z jiných oddílů než pořádajícího.
-
-. Pro všechny závody platí, že čeští účastníci závodů musí být členy ČHS. Závodníci v 3. lize nemusí mít platnou závodní registraci (licenci) pro rok 2024
+. Pro všechny závody platí, že čeští účastníci závodů musí být členy ČHS. Závodníci v 3. lize nemusí mít platnou závodní registraci (licenci) pro rok 2025
 
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS.
 
@@ -100,7 +98,7 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Průběh závodů a bezpečnost závodů
 
-Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2024>>.
+Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2025>>.
 
 == Vyhlášení výsledků 
 
@@ -111,4 +109,4 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné 
 == Ostatní 
 
 . KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti a regulérnosti závodu.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2024>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2024>>, které jsou pro 3. ligu doporučující.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2025>>, které jsou pro 3. ligu doporučující.

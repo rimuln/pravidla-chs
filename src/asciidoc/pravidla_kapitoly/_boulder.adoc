@@ -187,13 +187,12 @@ a v každém případě bouldrový rozhodčí zvedne ruku a oznámí „TOP“
 [#poradi-po-kazdem-kole-boulder]
 === POŘADÍ PO KAŽDÉM KOLE
 . Soutěžící který selhal nebo nemohl odstartovat, nebude hodnocený v příslušném kole a jeho výkon bude označen příslušným <<#irm,označením neplatného výsledku>>
-. Po každém kole jsou soutěžící hodnoceni podle následujících kritérií:
-.. v sestupném pořadí počet úspěšně přelezených boulderů;
-.. v sestupném pořadí počet získaných zón, kdy bod je udělen když
-... byl kontrolovaný chyt (libovolnou rukou) označený jako zóna, nebo
-... byl úspěšně dokončený boulder bez kontrolovaného chytu, který byl označený jako zóna
-.. ve vzestupném pořadí celkový počet pokusů pro úspěšné přelezení těchto boulderů
-.. ve vzestupném pořadí celkový počet pokusů pro získané zóny.
+. Za každý boulder budou uděleny body:
+.. za získanou zónu dostane soutěžící 10 bodů, přičemž za každý pokus, před získáním zóny, se odečítá 0,1 bodu
+.. za úspěšně dokončený boulder dostane soutěžící 25 bodů, přičemž za každý neúspěšný pokus se odečítá 0,1 bodu
+. Finální body za boulder je větší hodnota z předchozích. Hodnota nemůže být záporná.
+. Celkové body soutěžícího v kole jsou součet bodů z jednotlivých boulderů.
+. Soutěžící jsou následně setříděni od největší hodnoty po nejmenší.
 . Nastane-li na nějaké pozici remíza, vezmou se v úvahu výsledky soutěžících z předchozího kola.
 . Nastane-li remíza na prvních třech místech ve finálovém kole poté, co bylo aplikováno zpětné hodnocení, jejích umístění bude vyhodnoceno následovně:
 .. [[ppkk-a]]porovnáním nejlepších výsledků každého závodníka ve finálovém kole, počínaje počtem Topů získaných na první pokus, potom počtem Topů získaných na druhý pokus atd.
@@ -206,7 +205,7 @@ a v každém případě bouldrový rozhodčí zvedne ruku a oznámí „TOP“
 === STANOVENÝ POČET SOUTĚŽÍCÍCH PRO KAŽDÉ KOLO
 
 . Část <<#stanoveny-pocet-soutezicich-pro-kazde-kolo-boulder>> je nutné číst ve spojení s výše zmiňovanou částí <<#poradi-po-kazdem-kole-boulder>>, tedy dříve, než aplikujeme část <<#stanoveny-pocet-soutezicich-pro-kazde-kolo-boulder>>, je třeba dokončit vypracování umístění.
-. Stanovený počet soutěžících kvalifikujících se do finále v klasickém formátu je 8. Pokud je finále lezeno formátem SP, je stanovený počet soutěžících kvalifikujících se do finále 6. V případě finále ve formátu SP by mělo být součástí závodu semifinále, kde je stanovený počet soutěžících kvalifikujících se do semifinále 20. Pokud bude závod v propozicích uveden ve formátu finále SP a počet předregistrovaných závodníků v kategorii bude menší než 20, pak se semifinálové kolo nekoná a do finále poustupuje 6 závodníků.
+. Stanovený počet soutěžících kvalifikujících se do finále je 8. V případě finále ve formátu SP by mělo být součástí závodu semifinále, kde je stanovený počet soutěžících kvalifikujících se do semifinále 20. Pokud bude závod v propozicích uveden ve formátu finále SP a počet předregistrovaných závodníků v kategorii bude menší než 20, pak se semifinálové kolo nekoná a do finále poustupuje 8 závodníků.
 . Stanovená kvóta bude naplněna soutěžícími s nejlepším umístěním z předešlého kola.
 . Je-li stanovená kvóta přesažena v důsledku remízy soutěžících, pak se do dalšího kola soutěže kvalifikují všichni remízující soutěžící.
 
