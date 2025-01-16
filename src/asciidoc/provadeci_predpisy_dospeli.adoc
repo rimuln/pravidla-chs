@@ -34,7 +34,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
          | *zahraniční*         ^| *předem na účet* ^| 1000 Kč nebo 40€
 |===
 
-. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí zpravidla v úterý 8.00 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U19 a U21 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí v neděli 23:59:59 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U19 a U21 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
 . Startovné musí být uhrazeno do 5. dnů do půlnoci od objednání, neuhrazené objednávky jsou po 5. dni zrušeny. Platba ale musí být připsána na účet svazu nejpozději do 2 dnů po konci registrace.
 
 . Zástupce oddílu může zrušit ještě neuhrazenou předregistraci. Po zaplacení předregistrace do půlnoci 7. dne po ukončení závodu pak může podat žádost o vrácení startovného.
