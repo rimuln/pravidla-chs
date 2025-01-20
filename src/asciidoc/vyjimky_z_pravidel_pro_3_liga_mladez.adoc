@@ -86,8 +86,8 @@ Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pok
 +
 Neplatí pro ně <<pravidla_sl.adoc#podminky-izolace,podminky izolace>>
 
-Kategorie U8, U10 a U12:: musí lézt s horním jištěním (top-rope)
-Kategorie U14, U16, U18 a U20:: může lézt s horním jištěním nebo se spodním jištěním. 
+Kategorie U9, U11 a U13:: musí lézt s horním jištěním (top-rope)
+Kategorie U15, U17, U19 a U21:: může lézt s horním jištěním nebo se spodním jištěním. 
 
 +
 Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního rozhodčího tak, aby byla zajištěna bezpečnost závodníků. Pro zvýšení bezpečnosti lze lézt se zapnutou první expreskou v případě lezení se spodním jištěním.
@@ -96,8 +96,8 @@ Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního ro
 + 
 Musí se lézt za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
 
-Kategorie U8, U10 a U12:: musí lézt s horním jištěním (top-rope)
-Kategorie U14, U16, U18 a U20:: musí lézt se spodním jištěním
+Kategorie U9, U11 a U13:: musí lézt s horním jištěním (top-rope)
+Kategorie U15, U17, U19 a U21:: musí lézt se spodním jištěním
 
 . Při lezení s horním jištěním (top-rope) je přípustné navázání závodníka dle bodu <<pravidla_sl.adoc#6.2.5.c.ii,6.2.5.c.ii>>.
 

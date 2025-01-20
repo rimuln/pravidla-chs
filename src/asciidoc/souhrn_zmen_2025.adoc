@@ -23,4 +23,6 @@ Upraveny kategorie ze sudých let na liché roky. V návaznosti na to ČP U14 p�
 
 Na základě změny pravidel IFSC pro rok 2025 sjednocen způsob počítání pořadí v Boulderu
 
-Ukončení registrace u 1. a 2. ligy v neděli 23:59:59
+Ukončení registrace u 1. a 2. ligy v neděli 23:59
+
+Sjednocení startovného u všech lig

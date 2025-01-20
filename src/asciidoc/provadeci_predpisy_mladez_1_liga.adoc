@@ -29,11 +29,11 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [.center]
 |===
          |                   ^| *Platba*           ^| *Startovné* 
-         | *držitel licence* ^| *předem na účet*   ^| 400 Kč
-         | *zahraniční*      ^| *předem na účet*   ^| 800 Kč nebo 30€
+         | *držitel licence* ^| *předem na účet*   ^| 500 Kč
+         | *zahraniční*      ^| *předem na účet*   ^| 1000 Kč nebo 40€
 |===
 
-. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí v neděli 23:59:59 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U18 a U20 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí v neděli 23:59 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U19 a U21 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
 
 . Startovné musí být uhrazeno do 5. dnů do půlnoci od objednání, neuhrazené objednávky jsou po 5. dni zrušeny. Platba ale musí být připsána na účet svazu nejpozději do 2 dnů po konci registrace.
 
@@ -98,10 +98,10 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>>.
 
-Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u14_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 15 let ve sportovním lezení pro rok 2025“>>, který je přílohou Pravidel sportovního lezení ČHS.
+Výjimky ze soutěžních pravidel pro závody kategorií U15 jsou uvedeny v samostatném dokumentu <<vyjimky_pravidla_pro_u15_mcr_1_liga.adoc#,„Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 15 let ve sportovním lezení pro rok 2025“>>, který je přílohou Pravidel sportovního lezení ČHS.
 
 === Obtížnost
-. Závody nejvyšších soutěží kategorií U16, U18, U20 se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>).  V případě že závod je zároveň i nominačním závodem, pak je možné tento závod uspořádat i bez semifinále v jednom dni.
+. Závody nejvyšších soutěží kategorií U17, U19, U21 se uskuteční ve dvou dnech: 1. den chlapci kvalifikace (2 cesty) + dívky kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den chlapci finále, dívky finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>).  V případě že závod je zároveň i nominačním závodem, pak je možné tento závod uspořádat i bez semifinále v jednom dni.
 
 === Boulder
 . Pro kvalifikace se doporučuje lézt bez dodržení <<pravidla_sl.adoc#podminky-izolace, podmínek izolace>>, finálový formát je plně na rozhodnutí pořadatele.
@@ -111,8 +111,8 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 
 === Rychlost
 . Závody na rychlost nejvyšších soutěží i 1. ligy se konají v jednom dni. 
-. V případě dohody s KSL lze uspořádat závod ČPM v lezení na rychlost zvlášť pro kategorie U16, U18, U20 na standardní cestě a zvlášť (i v jiném termínu) závod ČP do 15 let pro kategorie U10, U12, U14.
-. Pokud je závod na rychlost kategorií U18 a U20 propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
+. V případě dohody s KSL lze uspořádat závod ČPM v lezení na rychlost zvlášť pro kategorie U17, U19, U21 na standardní cestě a zvlášť (i v jiném termínu) závod ČP do 15 let pro kategorie U11, U13, U15.
+. Pokud je závod na rychlost kategorií U19 a U21 propojený se závody dospělých a uspořádán v jiném než nominačním formátu, pak jsou výsledky mládeže vyhlášeny na základě výsledku v kvalifikaci.
 
 === Závody se zahraniční účastí 
 . V případě, že se závody uskuteční se zahraniční účastí a budou vyhlášeny v <<pravidla_sl.adoc#open-format,Open formátu>>, nesmí zahraniční účastníci ovlivnit počty postupujících českých závodníků. Celkový počet postupujících bude pro každé kolo navýšen o postupující zahraniční účastníky. Toto ustanovení platí pro všechny kategorie a disciplíny s výjimkou závodů na rychlost – zde je počet postupujících dán pravidly a postupovým klíčem.
@@ -192,4 +192,4 @@ Výjimky ze soutěžních pravidel pro závody kategorií U14 jsou uvedeny v sam
 == Ostatní 
 
 . Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů na závodech ČPM bude dotace krácena.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 15 let ve sportovním lezení pro rok 2025>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_u15_mcr_1_liga.adoc#,Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mladeže do 15 let ve sportovním lezení pro rok 2025>>.

@@ -9,7 +9,7 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 14 let ve sportovním lezení pro rok 2025
+= Výjimky ze soutěžních pravidel ČHS pro Nejvyšší soutěže a 1. ligu mládeže do 15 let ve sportovním lezení pro rok 2025
 Český horolezecký svaz
 v1.5, 1.1.2025
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
@@ -83,8 +83,8 @@ Odpočinek závodníka mezi dokončením pokusu na první cestě a nástupem pok
 +
 Neplatí pro ně <<pravidla_sl.adoc#podminky-izolace,podmínky izolace>>
 
-Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
-Kategorie U14:: může lézt s horním jištěním nebo se spodním jištěním.
+Kategorie U11 a U13:: musí lézt s horním jištěním (top-rope)
+Kategorie U15:: může lézt s horním jištěním nebo se spodním jištěním.
 
 +
 Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního rozhodčího tak, aby byla zajištěna bezpečnost závodníků. Pro zvýšení bezpečnosti lze lézt se zapnutou první expreskou v případě lezení se spodním jištěním.
@@ -93,8 +93,8 @@ Vždy záleží na posouzení místních podmínek a na rozhodnutí hlavního ro
 +
 Musí se lézt za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>. Případnou změnu povoluje hlavní rozhodčí.
 
-Kategorie U10 a U12:: musí lézt s horním jištěním (top-rope)
-Kategorie U14:: musí lézt se spodním jištěním 
+Kategorie U11 a U13:: musí lézt s horním jištěním (top-rope)
+Kategorie U15:: musí lézt se spodním jištěním 
 
 . Při lezení s horním jištěním (top-rope) je přípustné navázání závodníka dle bodu <<pravidla_sl.adoc#6.2.5.c.ii,6.2.5.c.ii>>.
 

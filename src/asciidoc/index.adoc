@@ -13,7 +13,7 @@ include::../../locale/_attributes.adoc[]
 
 <<provadeci_predpisy_mladez_1_liga.adoc#,Prováděcí předpisy pro závody mládeže v nejvyšších soutěžích a 1. lize>> [link:provadeci_predpisy_mladez_1_liga.pdf[PDF verze]]
 
-<<vyjimky_z_pravidel_pro_u14_mcr_1_liga.adoc#,Výjimky z pravidel sportovního lezení pro nejvyšší soutěže a 1. ligu mládeže>> [link:vyjimky_z_pravidel_pro_u14_mcr_1_liga.pdf[PDF verze]]
+<<vyjimky_z_pravidel_pro_u15_mcr_1_liga.adoc#,Výjimky z pravidel sportovního lezení pro nejvyšší soutěže a 1. ligu mládeže>> [link:vyjimky_z_pravidel_pro_u15_mcr_1_liga.pdf[PDF verze]]
 
 <<provadeci_predpisy_mladez_2_liga.adoc#,Prováděcí předpisy pro závody mládeže v 2. lize>> [link:provadeci_predpisy_mladez_2_liga.pdf[PDF verze]]
 
