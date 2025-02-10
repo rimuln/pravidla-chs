@@ -14,7 +14,7 @@ může:: představuje volitelnou záležitost
 
 . Následující definice použité v těchto pravidlech znamenají
 
-Akce: je jednodenní či vícedenní sportovní událost, zpravidla závod ve sportovním lezení.
+Akce:: je jednodenní či vícedenní sportovní událost, zpravidla závod ve sportovním lezení.
 
 [[asistencni-pes]]Asistenční pes:: je pes, který poskytuje asistenci zdravotně postižené osobě a je vytrénován aby zmírnil její postižení.
 
@@ -40,7 +40,7 @@ Akce: je jednodenní či vícedenní sportovní událost, zpravidla závod ve sp
 + 
 v každém případě musí být uvedeno v kalendáři závodu publikovaném ČHS.
 
-[[clenove-tymu]]Členové týmu:: společně tvoří soutžění tým tým. Oficiální doprovod týmu jsou členové týmů. Soutěžním týmem by měl být oddíl registrovaný v ČHS.
+[[clenove-tymu]]Členové týmu:: společně tvoří soutěžní tým tým. Oficiální doprovod týmu jsou členové týmů. Soutěžním týmem by měl být oddíl registrovaný v ČHS.
 
 [[disciplina]]Disciplína:: představuje konkrétní formát soutěže v lezení, která odpovídá příslušným pravidlům a standardům
 
@@ -88,7 +88,7 @@ Věkové kategorie pro celý rok jsou dané. Závodník může závodit pouze ve
 
 [[kontrolovat]]Kontrolovat/Držet:: znamená pro potřeby rozhodování a bodování stav, kdy soutěžící použil nějaký objekt/strukturu k dosažení nebo změny stabilní pozice těla.
 
-Koordinátor soutěže ČHS: je osoba pověřená ČHS ke koordinaci Soutěže.
+Koordinátor soutěže ČHS:: je osoba pověřená ČHS ke koordinaci Soutěže.
 
  [[legitimni-pozice]]Legitimní pozice:: znamená pro potřeby soutěží v lezení na obtížnost, že soutěžící během jeho pokusu:
 .. nepoužil <<#nelegalni-pomoc,Nelegální pomoc>>
@@ -152,7 +152,7 @@ a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je oz
 .. v jakémkoliv individuálním rozběhu, boulderu nebo cestě v rámci fáze/kola (tam kde se fáze/kolo skládají z více než jednoho rozběhu, boulderu, cesty) nebudou mít zapsán výsledek z tohoto rozběhu, boulderu nebo cesty
 .. v jakékoliv dokončené fázi/kole nebudou mít určené pořadí v rámci dané fáze/kola (a kde to je relevantní v rámci závodu)
 
-Organizátor: je Český horolezecký svaz
+Organizátor:: je Český horolezecký svaz
 
 [[vrm]]Označení platného výsledku:: znamená dosažení bodovaného hodnocení
 
@@ -175,8 +175,6 @@ Organizátor: je Český horolezecký svaz
 
 [[pouzitelne-standardy]]Použitelné standardy:: mají význam definovaný bodem <<#standardy>> těchto pravidel
 
-Přípravná zóna: je prostor určený hlavním rozhodčím mezi Izolační zónou nebo Tranzitní zónou a Soutěžním prostorem sloužicí k pobytu soutěžících tesně před vstupem do Soutěžního prostoru.
-
 [[prubezne-vysledky]]Průběžné výsledky/Neoficiální výsledky:: jsou výsledky, které jsou publikovány nebo kolují dříve, než je <<#chs-official,Oficiální činovník ČHS>> pro daný závod nebo jakoukoliv cestu či kolo během závodu publikuje
 
 [[puvodni-rozhodnuti]]Původní rozhodnutí:: je takové rozhodnutí, které platilo předtím, než na něj byl podán platný protest dle příslušných stanovení v <<#protesty>>
@@ -191,11 +189,11 @@ Přípravná zóna: je prostor určený hlavním rozhodčím mezi Izolační zó
  .. zahrnuje závody v jedné nebo více disciplínách, které organizuje ČHS a dodržují tato pravidla
  .. je uvedena v kalendáři závodů publikovaném ČHS
 
-Soutěžící: je fyzická osoba oprávněná ke startu v soutěži nebo na akci ČHS.
+Soutěžící:: je fyzická osoba oprávněná ke startu v soutěži nebo na akci ČHS.
 
-Soutěžní činitelé: jsou fyzické osoby zastupující Organizátora na Akci. 
+Soutěžní činitelé:: jsou fyzické osoby zastupující Organizátora na Akci. 
 
-Soutěžní odvolací porota: je skupina fyzických osob oprávněných k rozhodování protestů.
+Soutěžní odvolací porota:: je skupina fyzických osob oprávněných k rozhodování protestů.
 
  [[soutezni-prostor]]Soutěžní prostor:: představuje takovou část v místě konání akce, která je vyhrazená pro sportovní soutěže včetně:
  ..jakékoliv <<#izolacni-zona,Izolační zóny>> nebo <<#rozcvicovaci-zona,Rozcvičovací zóny>>
@@ -213,13 +211,13 @@ Soutěžní odvolací porota: je skupina fyzických osob oprávněných k rozhod
 
 [[svolavaci-zona]]Svolávací zóna:: je vyhrazená oblast, ve které se musí závodníci ohlásit před zahájením jejich pokusu v jakémkoliv kole závodu
 
-Technický ředitel akce: Je fyzická osoba pověřená Pořadatelem zodpověná za technické aspekty realizace akce. Práva a povinnosti Technického ředitele akce vymezuje smlouva Organizátora s Pořadatelem.
+Technický ředitel akce:: Je fyzická osoba pověřená Pořadatelem zodpověná za technické aspekty realizace akce. Práva a povinnosti Technického ředitele akce vymezuje smlouva Organizátora s Pořadatelem.
 
 [[top-chyt]]TOP chyt:: je speciálně označený poslední chyt v cestě lezenou s horním jištěním nebo boulderu.
 
 [[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícím se připravit (nebo si odpočinout po) před/na jejich pokus(y) na boulderu/cestě.
 
-Tým údržby: je skupina osob zajištěná pořadatelem odpovědná za údržbu Soutěžního prostoru.
+Tým údržby:: je skupina osob zajištěná pořadatelem odpovědná za údržbu Soutěžního prostoru.
 
 [[umely-chyt]]Umělý chyt:: představuje vyrobený chyt, který je přichycený k lezeckému povrchu pomocí vrutů nebo šroubů
 

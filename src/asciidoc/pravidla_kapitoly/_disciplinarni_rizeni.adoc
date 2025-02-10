@@ -9,7 +9,7 @@
 . [[dru-2,{counter:dru}]]Hlavní rozhodčí má oprávnění přijmout následující opatření v případě porušení pravidel soutěže, co se týče nekázně kteréhokoliv <<#clenove-tymu,člena týmu>>:
 .. [[drs-a,{counter:drsa:a}]]neoficiální, slovní napomenutí;
 .. [[drs-b,{counter:drsa}]]oficiální napomenutí doprovázené udělením žluté karty;
-.. oficiální diskvalifikace závodníka ze závodu udělením červenéí karty. 
+.. [[drs-c,{counter:drsa}]]oficiální diskvalifikace závodníka ze závodu udělením červené karty. 
 . V nejbližší vhodné chvíli po vydání žluté nebo červené karty musí Hlavní rozhodčí:
 .. předložit písemné vyjádření týkající se provinění <<#manazer-tymu,vedoucímu týmu>> soutěžícího (nebo danému soutěžícímu v případě nepřítomnosti vedoucího týmu) a toho, zdali Hlavní rozhodčí hodlá danou záležitost předat k posouzení Disciplinární komisi ČHS.
 .. pokud bude přestupek dále řešen Disciplinární komisí ČHS musí dále bez zbytečného prodlení předat Disciplinární komisi ČHS: kopii tohoto písemného vyjádření společně s detailní zprávou týkající se daného přestupku proti pravidlům, jakýmkoliv důkazním materiálem a jakýmkoliv návrhem dalšího postupu ohledně zvážení případných dalších postihů. 

@@ -26,7 +26,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Vyhlášení výsledků musí být provedeno důstojným způsobem. 
 . Organizátor má právo vybírat startovné od soutěžících nebo soutěžních týmů. V některých případech může Organizátor přenechat výběr startovného Pořadateli.
 
-Maximální výše strtovného určuje následující tabulka:
+Maximální výši startovného určuje následující tabulka:
 +
 [cols=",,",options="header"]
 [.center]
@@ -79,15 +79,15 @@ Nominační závody musí být pořádány v open formátu.
 
 == Poskytování informací o závodech 
 
-. [[pioz-2,{counter:pioz}]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
+. [[pioz-1,{counter:pioz}]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
-. [[pioz-3,{counter:pioz}]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího. 
+. [[pioz-2,{counter:pioz}]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího. 
 
-. [[pioz-4,{counter:pioz}]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
+. [[pioz-3,{counter:pioz}]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
 
-. [[pioz-5,{counter:pioz}]]Pro všechny závody 3. ligy je povinné využít oficiální aplikaci pro výsledkový servis.
+. [[pioz-4,{counter:pioz}]]Pro všechny závody 3. ligy je povinné využít oficiální aplikaci pro výsledkový servis.
 
-Pro závody Oblastních lig je možné použít neoficiální aplikace pro výsledkový servis a vlastní fotmu přihlašování soutěžících. 
+. [[pioz-5,{counter:pioz}]]Pro závody Oblastních lig je možné použít neoficiální aplikace pro výsledkový servis a vlastní formu přihlašování soutěžících. 
 
 == Průběh závodů 
 
@@ -177,7 +177,7 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 . Stavěči 
 
-* Hlavní stavěč - držitel národní licence 1. nebo 2. úrovně nebo mezinárodní licence IFSC, náklady, způsob hrazení a výše odměny bude určena ve smlouvě mezi Organizátorem a Hlavním stavěřem případně s Pořadatelem.
+* Hlavní stavěč - držitel národní licence 1. nebo 2. úrovně nebo mezinárodní licence IFSC, náklady, způsob hrazení a výše odměny bude určena ve smlouvě mezi Organizátorem a Hlavním stavěčem případně s Pořadatelem.
 * Pomocní stavěči
 . Výsledkový servis
 . Organizátoři
@@ -190,8 +190,8 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů nejvyšších soutěží a 1. ligy schvaluje Oraganizátor. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
+. Výši finanční a případně jiné podpory závodů nejvyšších soutěží a 1. ligy schvaluje Organizátor. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
 
-. Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>>, <<Poskytování informací o závodech>>.<<pioz-2>> a <<Poskytování informací o závodech>>.<<pioz-3>>. 
+. Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>> a <<Poskytování informací o závodech>>.<<pioz-2>>.<<pioz-3>>.
 
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> 
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>>
