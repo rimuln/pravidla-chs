@@ -22,8 +22,8 @@
 === BEZPEČNOST
 . Pořadatel soutěže je zodpovědný za udržování bezpečnosti v <<#soutezni-prostor, soutěžním prostoru>> a ve veřejném prostoru ve vztahu k veškerým aktivitám spojeným s průběhem soutěže.
 . Každý soutěžící bude považován za zcela a jedinečně zodpovědného za vybavení, které použije během soutěžního pokusu a/nebo během soutěže.
-. Hlavní rozhodčí po poradě s Hlavním stavěčem má pravomoc dělat rozhodnutí související s otázkami bezpečnosti v <<#soutezni-prostor,soutěžním prostoru>>, včetně toho, že odmítne povolit start nebo pokračování jakékoliv části soutěže. Jakákoliv osoba, na kterou má Hlavní rozhodčí podezření, že porušila nebo pravděpodobně porušila bezpečnostní postupy, bude zbavena svých povinností a/nebo bude muset opustit závodiště.
-. Jističi jmenovaní pořadatelem musí být vycvičeni pro soutěžní způsob jištění. Hlavní rozhodčí může pořadatelům kdykoliv v průběhu soutěže nařídit výměnu kteréhokoliv jističe. Je-li jistič vyměněn, nesmí mu být dovoleno nadále jistit jakéhokoliv soutěžícího v dané soutěži.
+. Hlavní rozhodčí po poradě s Hlavním stavěčem má pravomoc dělat rozhodnutí související s otázkami bezpečnosti v <<#soutezni-prostor,soutěžním prostoru>>, včetně toho, že odmítne povolit start nebo pokračování jakékoliv části soutěže. Jakákoliv osoba, na kterou má Hlavní rozhodčí podezření, že porušila nebo pravděpodobně porušila bezpečnostní postupy, bude zbavena svých práv a/nebo bude muset opustit závodiště.
+. Jističi jmenovaní pořadatelem musí být vycvičeni pro soutěžní způsob jištění. Hlavní rozhodčí může pořadatelům kdykoliv v průběhu soutěže nařídit výměnu kteréhokoliv jističe. Je-li jistič vyměněn, nesmí mu být dovoleno nadále jistit jakéhokoliv soutěžícího v závodě ve kterém byl vyměněn.
 . Každá cesta nebo boulder musí být navržen(a) tak, aby se předešlo nebezpečí zranění soutěžícího při pádu, popřípadě zranění nebo omezení jakéhokoliv jiného soutěžícího nebo třetí osoby.
 . Hlavní rozhodčí a Hlavní stavěč musejí zkontrolovat každou cestu nebo boulder před zahájením každého soutěžního kola, aby se zajistilo zachování bezpečnostních norem.
 
@@ -33,7 +33,7 @@
 
 [#standardy]
 === VYBAVENÍ
-. Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími ČSN EN normami nebo srovnatelnými mezinárodními ekvivalenty pokud není ČHS uvedeno jinak a ve výjimečných případech hlavním rozhodčím. Aplikované normy v tuto chvíli jsou:
+. Veškeré vybavení používané v soutěži – jak organizátorem, tak soutěžícími - musí být v souladu s odpovídajícími ČSN EN normami nebo srovnatelnými mezinárodními ekvivalenty pokud není ČHS uvedeno jinak. Ve výjimečných případech může být vybavení schváleno hlavním rozhodčím. Aplikované normy v tuto chvíli jsou:
 +
 [cols="2*",options="header",width="75%"]
 [.center]
@@ -70,7 +70,7 @@ Jestliže si po výsledcích tohoto vyšetření zdravotnický personál myslí,
 === STARTOVNÍ LISTINY
 . Oficiální startovní listina kvalifikačního kola musí být sestavena neprodleně po ukončení registrace soutěžících v den závodu.
 +
-Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabuli a v izolaci a budou k dispozici členům soutěžní poroty, vedoucím týmů, komentátorovi a zástupcům médií.
+Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabuli a v izolaci. Startovní listiny lze považovat za oficiální jejich zveřejněním v elektronické podobě na veřejně dostupné platformě (např. mobilní aplikace). Startovní listiny musí být k dispozici členům soutěžní poroty, vedoucím týmů, komentátorovi a zástupcům médií.
 . Startovní listiny pro každé nadcházející kolo soutěže budou sestaveny a vydány ve shodě s výše napsaným, a to poté, co budou vypsány oficiální výsledky a po uzavření veškerých protestů.
 . Startovní listiny musejí obsahovat následující informace:
 .. Startovní pořadí;
@@ -80,14 +80,14 @@ Startovní listiny budou zveřejněny na oficiální soutěžní vývěsní tabu
 .. Časy otevření a uzavření izolace, je-li to relevantní;
 .. Čas startu kola;
 .. Jakoukoliv jinou informaci schválenou Hlavním rozhodčím.
-. Startovní listiny nesmí obsahovat jména sponzorů nebo partnerů. Je povoleno uvádět pouze oddíl ČHS závodníka, členství v resortním centru (např. Victoria, Olymp apod.),  individuální členství v ČHS nebo nic.
+. Startovní listiny nesmí obsahovat jména sponzorů nebo partnerů soutěžících. Je povoleno uvádět pouze oddíl ČHS závodníka, členství v resortním centru (např. Victoria, Olymp apod.),  individuální členství v ČHS nebo nic. Startovní listiny mohou obsahovat jména či loga smluvních sponzorů nebo partnerů ČHS. 
 . Způsob přípravy startovních listin pro jednotlivé disciplíny je uveden v odstavci <<#startovni-listiny-obtiznost>> pro obtížnost, odstavci <<#startovni-listiny-boulder>> pro boulder a odstavcích <<#kvalifikace-kf-rychlost>>, <<#kvalifikace-sf-rychlost>>, <<#finale-kf-sf-rychlost>> pro rychlost.
 
 [#registrace]
 === REGISTRACE
 . Všichni soutěžící účastnící se nejvyšších soutěží, závodů 1. a 2. ligy musí mít platnou <<#zavodni-registrace,závodní registraci>> dle https://www.horosvaz.cz/res/archive/423/070396.pdf?seek=1637244137[Směrnice o registraci závodníků]
 . Všichni soutěžící účastnící se nejvyšších soutěží, závodů 1. a 2. ligy se musí do závodu registrovat předem. Dodatečná registrace na místě nebude možná.
-. Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaprezentovat v registračním oddělení, a to v časovém limitu určeném pořadateli.
+. Všichni soutěžící způsobilí soutěžit v některém kole soutěže se musejí zaprezentovat v registračním oddělení, a to v časovém limitu určeném pořadatelem.
 
 [#soutezni-prostor-p]
 === SOUTĚŽNÍ PROSTOR
@@ -227,7 +227,7 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 
 . Pro potřeby rozhodčích je třeba zajistit monitor připojitelný k záznamu. Monitor je třeba umístit tak, aby rozhodčí mohli sledovat záznamový materiál a probírat jakoukoliv událost bez toho, aby záznam mohla zahlédnout nepovolaná osoba a bez toho, aby mohl rozhodčí při těchto debatách někdo poslouchat nebo vyrušovat, avšak dostatečně blízko ke stolu, za kterým rozhodčí sedí.
 
-. Pro posuzování se smí používat pouze oficiální záznam a oficiální vysílání ČHS, pokud je k dispozici. Záznam si smí prohlížet pouze Hlavní rozhodčí, pomocní rozhodčí, Hlavní stavěč a Delegát ČHS, případně ředitel závodu, pokud je členem odvolací poroty.
+. Pro posuzování se smí používat pouze oficiální záznam a oficiální vysílání ČHS, pokud je k dispozici. Záznam si smí prohlížet pouze Hlavní rozhodčí, pomocní rozhodčí, Hlavní stavěč a Delegát ČHS.
 
 . Na konci každého kola musí být záznam předán Hlavnímu rozhodčímu, pokud si ho vyžádá.
 
@@ -236,9 +236,9 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 
 . Na konci každého soutěžního kola je na základě práce rozhodčích sestavena a oficiálně písemně schválena Hlavním rozhodčím výsledková listina. Tento oficiální dokument je třeba neprodleně zveřejnit.
 
-. Na konci soutěže je třeba připravit a vydat oficiální výsledkovou listinu, ukazující konečné umístění soutěžících, stejně tak jako jejich výsledky z dílčích kol soutěže. Listinu musí podepsat Hlavní rozhodčí.
+. Na konci soutěže je třeba připravit a vydat oficiální výsledkovou listinu, ukazující konečné umístění soutěžících, stejně tak jako jejich výsledky z dílčích kol soutěže. Listinu musí podepsat Hlavní rozhodčí. Oficiální výsledkové listiny musí obsahovat čas vydání.
 
-. Veškeré oficiální výsledkové listiny je třeba vydávat ve formátu stanoveném ČHS, na oficiální soutěžní tabuli a kopie je třeba dát k dispozici oficiální soutěžním činitelům, komentátorovi a zástupcům médií. Oficiální výsledkové listiny musí obsahovat čas vydání.
+. Veškeré oficiální výsledkové listiny se vydávají ve formátu stanoveném ČHS, na oficiální soutěžní tabuli. Výskladovou listinu lze zveřejnit i elektronicky ve veřejně dostupném prostoru (např. mobilní aplikace). Kopie výsledkových listin je vhodné poskytnout oficiálním soutěžním činitelům, komentátorovi a zástupcům médií. 
 
 [#hodnoceni-a-zebricky]
 === HODNOCENÍ A ŽEBŘÍČKY
@@ -246,11 +246,15 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 . Postupy pro individuální hodnocení soutěžících v průběhu soutěže jsou popsány v příslušných částech věnujících se lezení na obtížnost, boulderu a rychlosti.
 
 . ČHS vydává následující společné žebříčky hodnocení:
-.. Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
-.. Průběžný ranking.
+.. Hodnocení závodů
+... Český pohár, včetně Českého poháru mládeže a Českého poháru do 15 let
+... 2. liga
+.. Průběžný ranking seriálů
+.. Žebříček závodníků ČHS
+... Společný žebříček závodníků pro soutěže Český pohár, 2. liga, 3. liga ve věkových kategoriích
 
 +
-Podrobný popis způsobu sestavení žebříčku Českého poháru a průběžného rankingu je možné najít na webových stránkách ČHS v prováděcích předpisech pro daný rok.
+Podrobný popis způsobu sestavení žebříčku Českého poháru, průběžného rankingu a žebříčku závodníků ČHS je možné najít na webových stránkách ČHS a v prováděcích předpisech pro daný rok.
 
 [#antidopingove-testy]
 === ANTIDOPINGOVÉ TESTY
