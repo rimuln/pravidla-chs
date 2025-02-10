@@ -5,7 +5,7 @@
 === OBECNĚ
 
 . [[op-1,{counter:op}.]]Všechny písemné a ústní protesty a oficiální reakce se musejí odehrávat v češtině.
-. [[op-2,{counter:op}.]]Písemný protest musí být na https://www.horosvaz.cz/res/archive/309/052084.pdf?seek=1577116013[formuláři ČHS] nebo na papíru obsahující stejné informace.
+. [[op-2,{counter:op}.]]Písemný protest musí být na https://www.horosvaz.cz/res/archive/309/052084.pdf?seek=1577116013[formuláři ČHS] nebo na listině obsahující stejné informace.
 . [[op-3,{counter:op}.]]Protest může být uznán pouze v případě, pokud jiné body těchto pravidel neurčují jinak:
 .. je-li spojen se zaplacením oficiálního protestného.
 .. je podepsaný zástupcem soutěžícího (vedoucí týmu) nebo soutěžícím, pokud vedoucí týmu není přítomen
@@ -22,7 +22,7 @@
 === SOUTĚŽNÍ ODVOLACÍ POROTA
 
 . V případě písemného nebo ústního protestu v souladu s článkem <<#protesty>> musí Hlavní rozhodčí shromáždit Odvolací porotu.
-. Členy Odvolací poroty budou Hlavní rozhodčí, Delegát ČHS a Hlavní stavěč. V případě, že byl Hlavní rozhodčí původcem rozhodnutí, které protest vyvolalo, nastoupí na jeho místo v Odvolací porotě Ředitel závodu (pozn. pokud na závod není jmenován delegát ČHS, zůstává Hlavní rozhodčí členem Odvolací poroty na základě odstavce <<#oficialni-soutezni-cinitele>>.<<#td,1.b.>>.
+. Členy Odvolací poroty budou Hlavní rozhodčí, Delegát ČHS a Hlavní stavěč. V případě, že byl Hlavní rozhodčí původcem rozhodnutí, které protest vyvolalo, rozhoduje Odvolací porota bez přítomnosti Hlavního rozhodčího (pozn. pokud na závod není jmenován delegát ČHS, zůstává Hlavní rozhodčí členem Odvolací poroty na základě odstavce <<#oficialni-soutezni-cinitele>>.<<#td,1.b.>>.
 . Pokud jsou dostupné důkazy a materiály neprůkazné nebo nemůže-li se Odvolací porota jednohlasně shodnout na posouzení protestu, pak platí původní rozhodnutí. Protest v tomto případě bude označen  „*nerozhodnutelný*“ a neplatí se poplatek za protest.
 . Rozhodnout je třeba tak rychle, jak to okolnosti dovolí. V případě písemných protestů musí být písemné rozhodnutí Odvolací poroty předáno Hlavním rozhodčím osobě, která oficiálně protest podala nebo, v případě protestu podle níže zmíněného článku <<#protest-proti-vysledkum>>.<<#ppv-3b,3.b.>>, je třeba informovat vedoucího týmu a/nebo soutěžícího.
 
@@ -39,7 +39,7 @@ a odvolací porota musí bez odkladu rozhodnout a aplikovat opatření vedoucí 
 === PROTESTY PROTI ROZHODNUTÍ, KTERÉ SE TÝKÁ UKONČENÍ POKUSU SOUTĚŽÍCÍHO
 
 . Jedná-li se o protest týkající se pokusu soutěžícího, je třeba protest podat Hlavnímu rozhodčímu, který okamžitě zahájí potřebné kroky v souladu s výše zmíněným postupem.
-. Postižený soutěžící může tento protest podat slovně a neplatí poplatek. Pokud takový protest podává zástupce daného soutěžícího, pak jej musí podat písemně. Protest musí být podán do zahájení pokusu dalšího soutěžícího. 
+. Postižený soutěžící může tento protest podat slovně a neplatí poplatek. Pokud takový protest podává oficiální doprovod soutěžícího, pak jej musí podat písemně. Protest musí být podán do zahájení pokusu dalšího soutěžícího. 
 . V boulderu musí být podán protest:
 .. v případě kola lezeného za dodržení <<#podminky-izolace,podmínek izolace>> <<#boulder-klasicky-format,klasickým formátem>> do konce následující rotace.
 .. v případě finálového kola lezeného <<#boulder-format-sp,formátem SP>>, před zahájením pokusů následujícího závodníka.
@@ -52,9 +52,9 @@ V každém případě se soutěžící, kterého se protest týká, řídí poky
 [#protest-proti-vysledkum]
 === PROTESTY PROTI UVEŘEJNĚNÝM VÝSLEDKŮM
 
-. [[ppv-1]]Protest proti umístění soutěžícího po skončení jakéhokoliv kola soutěže poté, co byly vyhlášeny oficiální výsledky umístění, je nutné provést nejpozději v čase 5 minut od vyhlášení umístění. Protest je možné vznést pouze po vyhlášení oficiálních výsledků po každém kole soutěže. Vedoucí týmu musí protest podat písemně Hlavnímu rozhodčímu, v případě nepřítomnosti vedoucího týmu tak učiní soutěžící. Odvolací porota musí zajistit, že všichni soutěžící, jejichž výsledek je zhoršen v důsledku protestu, jsou informováni.
+. [[ppv-1]]Protest proti umístění soutěžícího po skončení jakéhokoliv kola soutěže poté, co byly vyhlášeny oficiální výsledky umístění, je nutné provést nejpozději v čase 5 minut od vyhlášení umístění. Protest je možné vznést pouze po vyhlášení oficiálních výsledků po každém kole soutěže. Vedoucí týmu musí protest podat písemně Hlavnímu rozhodčímu, v případě nepřítomnosti vedoucího týmu tak učiní soutěžící. Odvolací porota musí zajistit, že všichni soutěžící, jejichž výsledek je zhoršen v důsledku uznání protestu, jsou informováni.
 . Soutěže v lezení na obtížnost
-.. pokud se protest týká výkonu soutěžícího na konkrétním chytu, pak odvolací porota shlédne výkon jen tohoto soutěžícího.
+.. pokud se protest týká výkonu soutěžícího na konkrétním chytu, pak odvolací porota shlédne výkon jen tohoto soutěžícího na oficiálním videozáznamu (pokud je k dispozici).
 . Soutěže v lezení na rychlost:
 .. V případě protestu proti uveřejněným výsledkům soutěžícího je třeba protest podat v souladu s výše zmíněným článkem <<#protest-proti-vysledkum>>.<<#ppv-1,1>>.
 .. [[ppv-3b]]V případě protestu v průběhu vyřazovacího kola, je třeba protest podat ihned po ohlášení výsledku soutěžícího v daném vyřazovacím kole. Další vyřazovací kolo soutěže nesmí začít, dokud hlavní rozhodčí o protestu nerozhodne. Pokud jde o tyto protesty, neplatí se žádný poplatek.
@@ -63,7 +63,7 @@ V každém případě se soutěžící, kterého se protest týká, řídí poky
 [#dusledky-protestu]
 === DŮSLEDKY PROTESTU
 
-. Jakékoliv formální rozhodnutí odvolací poroty je konečné a nepodléhá dalšímu protestu.
+. Jakékoliv formální rozhodnutí odvolací poroty je konečné a nelze se proti němu opětovně odvolat.
 
 [#poplatky-za-protesty]
 === POPLATKY ZA PROTESTY
