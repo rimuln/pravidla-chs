@@ -213,6 +213,8 @@ Soutěžní odvolací porota: je skupina fyzických osob oprávněných k rozhod
 
 [[svolavaci-zona]]Svolávací zóna:: je vyhrazená oblast, ve které se musí závodníci ohlásit před zahájením jejich pokusu v jakémkoliv kole závodu
 
+Technický ředitel akce: Je fyzická osoba pověřená Pořadatelem zodpověná za technické aspekty realizace akce. Práva a povinnosti Technického ředitele akce vymezuje smlouva Organizátora s Pořadatelem.
+
 [[top-chyt]]TOP chyt:: je speciálně označený poslední chyt v cestě lezenou s horním jištěním nebo boulderu.
 
 [[tranzitni-zona]]Tranzitní zóna/Přechodná izolace:: je konkrétní část v rámci <<#soutezni-prostor, Soutěžního prostoru>>, která je upravena tak, aby umožňovala soutěžícím se připravit (nebo si odpočinout po) před/na jejich pokus(y) na boulderu/cestě.
