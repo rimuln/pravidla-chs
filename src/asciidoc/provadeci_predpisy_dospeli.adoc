@@ -21,8 +21,8 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 . Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen "ČHS") nebo právnická či fyzická osoba s příslušným oprávněním má právo požádat ČHS o pořadatelství závodů: Mistrovství České republiky, závodů Českého poháru a rankingových závodů v lezení na obtížnost, boulderu a v lezení na rychlost (disciplíny). 
 . ČHS prostřednictvím sekretariátu uzavře s pořadatelem písemnou smlouvu o pořádání závodu, ve které jsou stanoveny podmínky uspořádání závodu. Uzavření smlouvy není nutné v případě rankingového závodu. 
-. ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky atd.). Pravidla pro získání dotace budou definována ve smlouvě mezi ČHS a pořadatelem.
-. ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje technický delegát a upravuje smlouva mezi ČHS a pořadatelem. 
+. ČHS může poskytnout pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, občerstvení pro závodníky atd.). Pravidla pro získání dotace budou definována ve smlouvě mezi ČHS a pořadatelem.
+. ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje technický delegát a Technický ředitel akce a upravuje smlouva mezi ČHS a pořadatelem. 
 . Vyhlášení výsledků musí být provedeno důstojným způsobem. 
 . Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
 +
