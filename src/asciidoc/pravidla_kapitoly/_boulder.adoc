@@ -29,7 +29,7 @@ Počet boulderů v kvalifikačním kole a finále může být upraven Hlavním r
 .. Počet lezeckých kroků na každém boulderu může být nejvýše 12 a průměrný počet lezeckých kroků na bouldery v jednom kole má být mezi 4 až 8.
 .. [[ob-9]]Každý boulder má jednoznačně označené následující pozice
 ... startovní pozici (nástup), odkud se pokus hodnotí jako úspěšně započatý. Nástup se skládá z chytu/chytů pro obě ruce a pro obě nohy. Jako startovní chyt nesmí být označeno prázdné místo nebo neohraničená plocha stěny.
-... [[ob-10]]Jedním bonusovým bodem (tzv. zóna) bude hodnoceno držení určitého chytu na boulderu. Umístění tohoto chytu záleží na uvážení Hlavního stavěče. Tento chyt musí být zřetelně označen. Bonusový bod bude započítán i v případě, že soutěžící úspěšně přeleze boulder bez toho, aby bonusový chyt použil. Pro uznání zóny by měly být splněny následující podmínky: kontrolované držení označeného chytu, které bude uznáno při využití tohoto chytu k dosažení stabilní nebo kontrolované pozice.
+... [[ob-10]] Deseti body (tzv. zóna) bude hodnoceno držení určitého chytu na boulderu. Umístění tohoto chytu záleží na uvážení Hlavního stavěče. Tento chyt musí být zřetelně označen. Bonusový bod bude započítán i v případě, že soutěžící úspěšně přeleze boulder bez toho, aby bonusový chyt použil. Pro uznání zóny by měly být splněny následující podmínky: kontrolované držení označeného chytu, které bude uznáno při využití tohoto chytu k dosažení stabilní nebo kontrolované pozice.
 ... [[ob-11]]Konec boulderu (top) může být určen jako:
 .... kontrolované držení posledního chytu oběma rukama. Takový chyt musí být jasně označen;
 .... postavení soutěžícího na vrcholu stěny (pozor jen na omezení v odstavci <<#obecne-boulder>>.<<#ob-7b,7b>>)
@@ -57,7 +57,7 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 . Při kvalifikaci lezené bez dodržení <<#podminky-izolace,podmínek izolace>> nastupují soutěžící na bouldery v libovolném pořadí podle vlastního výběru, viz odstavec <<#prubeh-lezeni-kvalifikace-flash-boulder>>.
 . Startovní pořadí ve finále a semifinále musí být opakem umístění v předchozím kole, v okamžiku, kdy jsou výsledky pro předchozí kolo oficiální a jsou vypořádány všechny protesty, tedy nejlépe hodnocený soutěžící leze jako poslední. V případě shodného umístění soutěžících v kvalifikaci (případně i semifinále) bude jejich startovní pořadí v dalších kolech (finále, semifinále) následující:
 .. pokud jsou soutěžící uvedeni v průběžném rankingu, lezou v obráceném pořadí, než jak jsou v něm seřazeni;
-.. pokud někteří soutěžící jsou a někteří nejsou v aktuálním průběžném rankingu, lezou nejprve ti, kteří v žebříčku nejsou;
+.. pokud někteří soutěžící jsou a někteří nejsou v aktuálním průběžném rankingu, lezou nejprve ti, kteří v rankingu nejsou;
 .. pokud soutěžící v aktuálním průběžném rankingu nejsou uvedeni, startují v náhodném pořadí. Losování pořadí se provede pro každé kolo nově.
 
 [#prohlidka-boulder]
@@ -79,7 +79,7 @@ Skupina chytů může být hodnocena a označena jako jeden chyt.
 .. očistit si jakoukoliv část boulderu na kterou dosáhnout bez použití jiného chytu
 .. požadovat očištění jakékoliv části boulderu
 +
-Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadateli.
+Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadatelem.
 
 . [[pl-kv-flash-boulder-5]]Rozdělení závodníků do kvalifikačních skupin je definováno následující tabulkou. Hlavní rozhodčí může navýšit minimální čas. Hlavní rozhodčí může navýšit i počet závodníků ve skupině, ale v tomto případě použije minimální čas platný pro tento navýšený počet.
 +
@@ -126,7 +126,7 @@ Závodníci, kteří nejsou uvedení v aktuálním průběžném rankingu, budou
 .. očistit si jakoukoliv část boulderu na kterou dosáhnout bez použití jiného chytu
 .. požadovat očištění jakékoliv části boulderu
 +
-Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadateli.
+Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadatelem.
 
 [#prubeh-lezeni-finale-sp-boulder]
 === PRŮBĚH LEZENÍ – FINÁLE SYSTÉMEM SP
@@ -138,7 +138,7 @@ Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořa
 .. očistit si jakoukoliv část boulderu na kterou dosáhnout bez použití jiného chytu
 .. požadovat očištění jakékoliv části boulderu
 +
-Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadateli.
+Pro tyto účely se smí používat pouze kartáče a pomůcky poskytnuté pořadatelem.
 
 [#zacatek-a-konec-pokusu-boulder]
 === ZAČÁTEK A KONEC POKUSU
