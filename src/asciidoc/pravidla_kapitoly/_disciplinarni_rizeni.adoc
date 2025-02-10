@@ -8,8 +8,8 @@
 
 . [[dru-2,{counter:dru}]]Hlavní rozhodčí má oprávnění přijmout následující opatření v případě porušení pravidel soutěže, co se týče nekázně kteréhokoliv <<#clenove-tymu,člena týmu>>:
 .. [[drs-a,{counter:drsa:a}]]neoficiální, slovní napomenutí;
-.. [[drs-b,{counter:drsa}]]oficiální napomenutí doprovázené ukázáním žluté karty.
-
+.. [[drs-b,{counter:drsa}]]oficiální napomenutí doprovázené udělením žluté karty;
+.. oficiální diskvalifikace závodníka ze závodu udělením červenéí karty. 
 . V nejbližší vhodné chvíli po vydání žluté nebo červené karty musí Hlavní rozhodčí:
 .. předložit písemné vyjádření týkající se provinění <<#manazer-tymu,vedoucímu týmu>> soutěžícího (nebo danému soutěžícímu v případě nepřítomnosti vedoucího týmu) a toho, zdali Hlavní rozhodčí hodlá danou záležitost předat k posouzení Disciplinární komisi ČHS.
 .. pokud bude přestupek dále řešen Disciplinární komisí ČHS musí dále bez zbytečného prodlení předat Disciplinární komisi ČHS: kopii tohoto písemného vyjádření společně s detailní zprávou týkající se daného přestupku proti pravidlům, jakýmkoliv důkazním materiálem a jakýmkoliv návrhem dalšího postupu ohledně zvážení případných dalších postihů. 
@@ -46,18 +46,18 @@
 ... od libovolné osoby, která již absolvovala příslušnou cestu/boulder
 
 +
-Aby se předešlo pochybnostem, v soutěžních kolech, kde se <<#podminky-izolace,podmínky izolace>> neaplikují, mohou soutěžící získávat informace od jiných členů týmu, kteří jsou mimo soutěžní prostor. a to jak před pokusem, tak i během jejich pokusu.
+Aby se předešlo pochybnostem, v soutěžních kolech, kde se <<#podminky-izolace,podmínky izolace>> neaplikují, mohou soutěžící získávat informace od jiných členů týmu, kteří jsou mimo soutěžní prostor a to jak před pokusem, tak i během jejich pokusu.
 
 === DISKVALIFIKACE ZA CHOVÁNÍ (DQB)
-. Hlavní rozhodčí je oprávněný diskvalifikovat za chování libovolného <<#clenove-tymu,člena týmu>>. Jakákoliv diskvalifikace za chování bude potrestána udělením červené karty a bude postoupena Disciplinární komisi ČHS. A dále okamžitou diskvalifikací dané osoby ze všech soutěží dané <<#soutez,Soutěže>>. 
+. Hlavní rozhodčí je oprávněný diskvalifikovat za chování libovolného <<#clenove-tymu,člena týmu>>. Jakákoliv diskvalifikace za chování bude potrestána udělením červené karty a bude postoupena Disciplinární komisi ČHS. A dále okamžitou diskvalifikací dané osoby ze všech akcí dané <<#soutez,Soutěže>>. 
 
 . Následující záležitosti budou mít za následek okamžitou diskvalifikaci za chování:
 .. nepodvolení se pokynům rozhodčích, pořadatelů nebo soutěžních činitelů ČHS, pokud se tak děje v soutěžním prostoru
 .. odmítnutí se podrobit soutěžnímu testu link:https://cs.wikipedia.org/wiki/Index_t%C4%9Blesn%C3%A9_hmotnosti[Indexu tělesné hmotnosti (BMI)] na pokyn Hlavního rozhodčího
 .. rozptylování jakéhokoliv sportovce nebo překážení sportovci, který se připravuje nebo již leze svůj pokus na cestě;
 .. odmítnutí podřídit se nařízením o reklamě platným pro oblečení a vybavení;
-.. získání dvou žlutých karet stejnou osobou během jedné soutěže
-.. Nesportovní chování nebo jiná vážná výtržnost v průběhu soutěže;
+.. získání dvou žlutých karet stejnou osobou během jedné akce
+.. Nesportovní chování nebo jiná vážná výtržnost v průběhu akce;
 .. Hrubé, výhružné nebo násilné chování ve vztahu k soutěžním činitelům ČHS, pořadatelům, členům týmů (včetně sportovců) nebo jakékoliv jiné osobě.
 
 . Přestupky spáchané libovolným členem týmu mimo soutěžní prostor, ale ve veřejné aréně, v dějišti soutěže nebo v ubytovacích nebo jiných zařízeních se soutěží spjatých:
@@ -67,7 +67,7 @@ Aby se předešlo pochybnostem, v soutěžních kolech, kde se <<#podminky-izola
 . Kroky, které následují v případě postoupení přestupku Disciplinární komisi ČHS, jsou stanoveny Disciplinárním řádem ČHS.
 
 === DŮSLEDKY DISCIPLINÁRNÍHO POSTIHU
-. Soutěžící, který je diskvalifikován nebo je diskvalifikován pro chování nebude hodnocen na žádné soutěži, která tvoří společnou jednu soutěž.
+. Soutěžící, který je diskvalifikován nebo je diskvalifikován pro chování nebude hodnocen na žádné akci, která tvoří společnou jednu soutěž.
 . Udělení třetí žluté karty v jedné sezóně bude mít za následek jeden z následujících postihů:
 .. [[ddp-1,{counter:ddp:a}.]]V případě, že je soutěžící již přihlášen pro nadcházející soutěž ČHS započítávající se do průběžného rankingu, nebude soutěžící způsobilý se této soutěže zúčastnit;
 .. [[ddp-2,{counter:ddp}.]]Není-li použitelná možnost <<#ddp-1>>, pak soutěžící nebude způsobilý zúčastnit se další soutěže ČHS započítávající se do průběžného rankingu ve stejné disciplíně, jako v té, kde soutěžící obdržel třetí žlutou kartu.
