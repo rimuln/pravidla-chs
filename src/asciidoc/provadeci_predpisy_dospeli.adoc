@@ -24,7 +24,9 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . ČHS může poskytnout pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, občerstvení pro závodníky atd.). Pravidla pro získání dotace budou definována ve smlouvě mezi ČHS a pořadatelem.
 . ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje technický delegát a Technický ředitel akce a upravuje smlouva mezi ČHS a pořadatelem. 
 . Vyhlášení výsledků musí být provedeno důstojným způsobem. 
-. Pořadatel má právo vybírat startovné od všech závodníků v max. výši dle následující tabulky:
+. Organizátor má právo vybírat startovné od soutěžících nebo soutěžních týmů. V některých případech může Organizátor přenechat výběr startovného Pořadateli.
+
+Maximální výše strtovného určuje následující tabulka:
 +
 [cols=",,",options="header"]
 [.center]
@@ -34,16 +36,16 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
          | *zahraniční*         ^| *předem na účet* ^| 1000 Kč nebo 40€
 |===
 
-. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí v neděli 23:59 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U19 a U21 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
-. Startovné musí být uhrazeno do 5. dnů do půlnoci od objednání, neuhrazené objednávky jsou po 5. dni zrušeny. Platba ale musí být připsána na účet svazu nejpozději do 2 dnů po konci registrace.
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí vždy 6 dní před dnem zahájení závodu nejpozději ve 23:59 posledního dne.  V případě spojeného závodu mládeže s dospělými platí kategorie U19 a U21 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+. Startovné musí být uhrazeno do 6 hodin po uzavření předregistrace. Neuhrazené objednávky jsou po 6 hodinách zrušeny.
 
 . Zástupce oddílu může zrušit ještě neuhrazenou předregistraci. Po zaplacení předregistrace do půlnoci 7. dne po ukončení závodu pak může podat žádost o vrácení startovného.
 V žádosti uvede důvod a vybere závodníky, u kterých žádá vrácení startovného. Při pozdějším zrušení předregistrace se startovné nevrací.
 
 . Dodatečná registrace v den závodu není možná.
 
-. Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. minerální voda, banán, tatranka, jablko apod.). 
-. V izolační zóně musí být k dispozici další minerální voda. 
+. Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. banán, tatranka, jablko, přístup k pitné vodě apod.). 
+. V izolační zóně musí být k dispozici pitná voda. 
 . V izolační zóně před finále musí být na závodech možnost rozcvičení, rozlezení a přístup k toaletám.
 
 == Kategorie závodů 
@@ -71,15 +73,11 @@ Nominační závody musí být pořádány v open formátu.
 
 == Rozhodčí a stavěč cest 
 
-. KSL deleguje pro závody nejvyšších soutěží a 1. ligy delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Hlavním rozhodčím smí být pouze držitel licence Hlavní rozhodčí ČHS.
+. Organizátor deleguje pro akce nejvyšších soutěží a 1. ligy delegáta ČHS, hlavního rozhodčího, hlavního stavěče a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Hlavním rozhodčím smí být pouze držitel licence Hlavní rozhodčí ČHS.
 
-. Hlavního stavěče závodu v lezení na obtížnost a boulderu navrhuje KSL na základě seznamu držitelů příslušných stavěčských licencí. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) případně mezinárodní licence IFSC. Pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. 
-
-. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem.
+. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi Organizátorem a Pořadatelem.
 
 == Poskytování informací o závodech 
-
-. [[pioz-1,{counter:pioz}]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/307/052327.docx?seek=1579254231[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 
 . [[pioz-2,{counter:pioz}]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
@@ -87,7 +85,9 @@ Nominační závody musí být pořádány v open formátu.
 
 . [[pioz-4,{counter:pioz}]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
 
-. [[pioz-5,{counter:pioz}]]Pro všechny závody 3. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a je doporučeno používat oficiální aplikaci pro výsledkový servis, pokud pravidla závodu odpovídají pravidlům ČHS pro danou disciplínu.
+. [[pioz-5,{counter:pioz}]]Pro všechny závody 3. ligy je povinné využít oficiální aplikaci pro výsledkový servis.
+
+Pro závody Oblastních lig je možné použít neoficiální aplikace pro výsledkový servis a vlastní fotmu přihlašování soutěžících. 
 
 == Průběh závodů 
 
@@ -107,9 +107,10 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 === 3. liga
 . Závody 3. ligy ve všech disciplínách se konají v jednom dni. 
 
-=== Závody se zahraniční účastí 
+=== Oblastní ligy
+. Závody oblastních lig se konají zpravidla v jednom dni.
 
-. V případě, že se závody v lezení na obtížnost a v boulderu uskuteční se zahraniční účastí a budou nominační, nesmí zahraniční účastníci ovlivnit počty postupujících českých závodníků. Celkový počet postupujících bude pro každé kolo navýšen o postupující zahraniční účastníky. Toto ustanovení neplatí pro soutěže na rychlost, protože vzhledem k systému závodu (vyřazovací kola) jej nelze uplatnit. 
+=== Závody se zahraniční účastí 
 
 . Pořadatel závodu s ohledem na kapacitní a časové možnosti může stanovit maximální kvótu počtu účastí cizinců v soutěži. Tato informace musí být zveřejněna v propozicích závodu a v předregistračním systému pro zahraniční závodníky.
 
@@ -119,7 +120,7 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 . Vyhlášení výsledků musí být provedeno důstojným způsobem. Vyhlášení výsledků musí být nejdéle do 30 minut po ukončení posledního kola závodu poslední kategorie. Jednotlivé kategorie mohou být vyhlašovány i v průběhu závodu. 
 
-. Při vyhlášení výsledků musí být dodrženy podmínky stanovené ČHS ve smlouvě s pořadatelem podle smluv s partnery ČHS. 
+. Při vyhlášení výsledků musí být dodrženy podmínky stanovené Organizátorem ve smlouvě s Pořadatelem podle smluv s partnery ČHS. 
 
 . Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem nebo medailí a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků. 
 
@@ -154,13 +155,13 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 |10. |34 |20. |12 |30. |1 |40.|0.50
 |===
 +
-. Závodníci na prvních třech místech celkového pořadí Českého poháru v každé kategorii obdrží po ukončení posledního pohárového závodu diplomy a poháry. Prize money za celkové pořadí seriálu jsou doporučeny. Vyhlášení celkového pořadí Českého poháru zabezpečí předseda KSL nebo jeho zástupce pro Český pohár. V případě, že je na základě smlouvy s ČHS pořadatelem seriálu samostatný subjekt, odpovídá tento subjekt i za vyhlášení celkového pořadí ČP. 
+. Závodníci na prvních třech místech celkového pořadí Českého poháru v každé kategorii obdrží po ukončení posledního pohárového závodu diplomy a poháry. Prize money za celkové pořadí seriálu jsou doporučeny. Vyhlášení celkového pořadí Českého poháru zabezpečí Organizátor nebo jím pověřený zástupce. V případě, že je na základě smlouvy s ČHS pořadatelem seriálu samostatný subjekt, odpovídá tento subjekt i za vyhlášení celkového pořadí ČP. 
 
 == Lezecká stěna a izolace 
 
 . Pro závody ČP v lezení na obtížnost jsou parametry stěny tyto: Min. výška 10 m a možnost stavby lezecké cesty o délce min. 12 m. Pro boulder 4 m minimální výška a možnost stavby min. čtyř boulderů o minimálním počtu 6 kroků, tak aby si závodníci nepřekáželi. 
 
-. V případě, že stěna nesplňuje výškové požadavky, požádá pořadatel KSL o posouzení stěny. Pokud stěna nesplňuje minimální výšku, ale umožňuje postavit plnohodnotné cesty v uvedené délce, může KSL udělit výjimku. 
+. V případě, že stěna nesplňuje výškové požadavky, požádá pořadatel Organizátora o posouzení stěny. Pokud stěna nesplňuje minimální výšku, ale umožňuje postavit plnohodnotné cesty v uvedené délce, může Organizátor udělit výjimku. 
 
 . Rozlézací stěna v izolaci musí mít velikost min. 9 m2. Do izolace by měl být oddělený vstup. Izolace musí být hlídaná pořadatelem! 
 
@@ -171,16 +172,16 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 . Jury
 
 * Delegát ČHS (TD) - náklady na jeho činnost placeny ČHS 
-* Hlavní rozhodčí (HR) - náklady na jeho činnost placeny ČHS, u závodů 3. ligy je možno sloučit funkci TD+HR 
+* Hlavní rozhodčí (HR) - náklady na jeho činnost placeny ČHS, u závodů 3. ligy je možno sloučit funkce Technického delegáta a Hlavního rozhodčího.
 * Pomocní rozhodčí - pro každou kategorii (obtížnost – dva traťoví rozhodčí na každou závodní cestu, boulder – minimálně jeden na každý boulder, doporučeni 2 rozhodčí, z nichž jeden může působit zároveň jako čistič chytů, rychlost - startér) – z řad pořadatelů, zkušení, se znalostí pravidel, nezávislí 
 
 . Stavěči 
 
-* Hlavní stavěč - držitel národní licence 1. nebo 2. úrovně nebo mezinárodní licence IFSC, náklady, způsob hrazení a výše odměny bude určena ve smlouvě mezi ČHS a pořadatelem.
+* Hlavní stavěč - držitel národní licence 1. nebo 2. úrovně nebo mezinárodní licence IFSC, náklady, způsob hrazení a výše odměny bude určena ve smlouvě mezi Organizátorem a Hlavním stavěřem případně s Pořadatelem.
 * Pomocní stavěči
 . Výsledkový servis
 . Organizátoři
-* Ředitel závodu
+* Technický ředitel závodu
 * Asistenti - izolace atd., bezpečnost a zdravotnický personál, výsledkový servis 
 * Jističi
 * Čističi lezeckých cest (pomocníci stavěče) 
@@ -189,7 +190,7 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů nejvyšších soutěží a 1. ligy schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
+. Výši finanční a případně jiné podpory závodů nejvyšších soutěží a 1. ligy schvaluje Oraganizátor. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
 
 . Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>>, <<Poskytování informací o závodech>>.<<pioz-2>> a <<Poskytování informací o závodech>>.<<pioz-3>>. 
 
