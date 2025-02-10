@@ -233,7 +233,7 @@ NOTE: rozhodnutí o předčasném startu dle bodu <<plr-8b,b.>> lze uplatnit pou
 .. Zlomený nebo uvolněný chyt;
 .. Napnuté lano, které soutěžícímu pomáhá;
 .. Příliš povolené lano, které soutěžícímu překáží;
-.. Zjevná nebo systematická porucha systému časomíry;
+.. Zjevná nebo systémová porucha časomíry;
 .. Jakákoliv jiná událost, která pro soutěžícího vyústí ve znevýhodnění nebo v nespravedlivé zvýhodnění a kterou soutěžící svým počínáním nezpůsobil.
 . Pokud účastnící se závodník, nebo jeho <<#oficialni-doprovod,oficiální doprovod>> si myslí, že nastal technický incident, musí o něm okamžitě informovat hlavního rozhodčího před startem dalšího rozběhu.
 . Za účelem rozhodnutí o technickém incidentu může hlavní rozhodčí dle potřeby využít oficiální video záznam, požadovat otestování systému nebo požádat stavěče nebo jinou osobu z řad pořadatelů o vylezení cesty a zmáčknutí horního tlačítka.
