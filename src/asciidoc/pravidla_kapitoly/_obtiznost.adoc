@@ -80,7 +80,7 @@ Při 21 soutěžících v dané kategorii, pak ten, který lezl jako 11. na prvn
 
 .. pokud jsou soutěžící uvedeni v aktuálním průběžném rankingu, lezou v obráceném pořadí, než jsou v něm uvedeni;
 
-.. pokud někteří soutěžící jsou a někteří nejsou v aktuálním průběžném rankingu, lezou nejprve ti, kteří v žebříčku nejsou;
+.. pokud někteří soutěžící jsou a někteří nejsou v aktuálním průběžném rankingu, lezou nejprve ti, kteří v rankingu nejsou;
 
 .. pokud soutěžící v aktuálním průběžném rankingu nejsou uvedeni, startují v náhodném pořadí. Losování pořadí se provede pro každé kolo nově.
 +
@@ -91,7 +91,7 @@ Při 21 soutěžících v dané kategorii, pak ten, který lezl jako 11. na prvn
 . Semifinálové a finálová kola v lezení na obtížnost se musí konat za dodržení <<#podminky-izolace,podmínek izolace>>. Soutěžící, kteří v těchto kolech startují se musí ohlásit v izolační zóně během kontroly docházky po oficiálním uzavření izolace. Soutěžící, kteří tak neučiní, nemohou v daném kole soutěžit.
 . Musí se dodržet následující minimální časové mezery:
 .. Odpočinek mezi dokončením pokusu na první cestě a nástupem pokusu na druhé cestě musí být minimálně 30 minut.  
-.. Konají-li se dvě návazná kola po sobě (kvalifikace – semifinále, semifinále – finále u závodů nejvyšších soutěží, kvalifikace – finále u závodů 1. ligy), musí být minimálně 2 hodiny mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další. V nezbytných případech může Hlavní rozhodčí rozhodnout o zkrácení této doby, doba mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další nesmí klesnout pod 1 hodinu a informace o tomto zkrácení pak musí být veřejně vyhlášena a vyvěšena na oficiální tabuli nejpozději 15 minut před startem prvního závodníka v poslední cestě 1. kola.
+.. Konají-li se dvě návazná kola po sobě (kvalifikace – semifinále, semifinále – finále u závodů nejvyšších soutěží, kvalifikace – finále u závodů 1. ligy), musí být minimálně 2 hodiny mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další. V nezbytných případech může Hlavní rozhodčí rozhodnout o zkrácení této doby, doba mezi dokončením 1. kola posledním závodníkem dané kategorie a uzavřením izolace této kategorie pro kolo další nesmí klesnout pod 1 hodinu a informace o tomto zkrácení pak musí být veřejně vyhlášena a vyvěšena na oficiální tabuli a komunikována elektronickými kanály (např. mobilní aplikace) nejpozději 15 minut před startem prvního závodníka v poslední cestě 1. kola.
 .. Izolace by neměla být uzavřena dříve, než 1 hodinu před startem prvního závodníka. V případě více kategorií závodících na stejné cestě je myšlen první závodník první kategorie.
 . Každý soutěžící musí zahájit pokus na jakékoliv cestě v pořadí definovaném oficiální startovní listinou. Start se nesmí přeplánovat, pokud soutěžící nemůže v daném čase odstartovat.
 . Chyty na cestě je třeba čistit. Četnost čistění chytů určí Hlavní rozhodčí po poradě s Hlavním stavěčem. Maximální počet pokusů před každým čištěním je standardně 20 a nikdy nesmí překročit 22. Čistící úkony je v průběhu kola třeba rovnoměrně rozvrhnout. Četnost čištění je nutné soutěžícím oznámit v rámci technické instruktáže v izolaci a je třeba o něm informovat i na všech vydaných startovních listinách. 
@@ -159,7 +159,7 @@ ale nesmí používat žádné nahrávací zařízení
 === HODNOCENÍ
 
 . Nákres cesty musí být připravený Hlavním stavěčem za konzultace s Hlavním rozhodčím před startem každého kola soutěže. Bodování chytů bude uvedené v nákresu cestu a po dobu konání kola je neměnné. Každý nákres cesty:
-.. měl by být vyvěšený na oficiální nástěnce včetně bodování po skončení společné prohlídky a před zahájením daného kola.
+.. měl by být vyvěšený na oficiální nástěnce a elektronikcy dostupný ve veřejném prostoru (např. mobilní aplikace) včetně bodování po skončení společné prohlídky a před zahájením daného kola.
 .. měl by být vyvěšený bez bodování ve <<#svolavaci-zona,svolávací zóně>>
 
 . Každá cesta je posuzována alespoň jedním rozhodčím, kterému může asistovat osoba, která zapisuje každému soutěžícímu
@@ -237,7 +237,7 @@ V případě, že by byl nějaký nový pokus zařazen v jakémkoliv kole soutě
 
 [#protesty-obtiznost]
 === PROTESTY
-. Soutěžící nebo jeho trenér může proti rozhodnutí o ukončení pokusu podat okamžitý protest. Je-li takový protest podán, bude soutěžící odveden do speciální izolace. Protest je třeba podrobit postupu popsanému v části <<#protesty,protesty>> a odvolací komise se protestu musí věnovat, co nejdříve to okolnosti dovolí. Je-li protest uznán, má soutěžící právo na nový pokus. Soutěžícímu je třeba umožnit odpočinek za podobných podmínek jako v článku <<#technicke-incidenty-obtiznost>>.<<#ti-obtiznost-3>> hovořícím o zotavení se soutěžících po technickém incidentu. Po dokončení nového pokusu na cestě se soutěžícímu započítává nejlepší z jeho pokusů.
+. Soutěžící nebo vedoucí týmu může proti rozhodnutí o ukončení pokusu podat okamžitý protest. Je-li takový protest podán, bude soutěžící odveden do speciální izolace. Protest je třeba podrobit postupu popsanému v části <<#protesty,protesty>> a odvolací komise se protestu musí věnovat, co nejdříve to okolnosti dovolí. Je-li protest uznán, má soutěžící právo na nový pokus. Soutěžícímu je třeba umožnit odpočinek za podobných podmínek jako v článku <<#technicke-incidenty-obtiznost>>.<<#ti-obtiznost-3>> hovořícím o zotavení se soutěžících po technickém incidentu. Po dokončení nového pokusu na cestě se soutěžícímu započítává nejlepší z jeho pokusů.
 
 [#pouziti-videozaznamu-obtiznost]
 === POUŽITÍ VIDEOZÁZNAMU
