@@ -192,6 +192,9 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 . Výši finanční a případně jiné podpory závodů nejvyšších soutěží a 1. ligy schvaluje Organizátor. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
 
-. Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>> a <<Poskytování informací o závodech>>.<<pioz-2>>.<<pioz-3>>.
+. Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>> a <<Poskytování informací o závodech>>.<<pioz-2>>.<<pioz-4>>.
+
+. Pro závody Oblastních lig mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>> a <<Poskytování informací o závodech>>.<<pioz-2>>.<<pioz-5>>.
+
 
 . Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>>

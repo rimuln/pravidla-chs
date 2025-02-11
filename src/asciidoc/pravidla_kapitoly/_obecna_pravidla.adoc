@@ -246,12 +246,10 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 . Postupy pro individuální hodnocení soutěžících v průběhu soutěže jsou popsány v příslušných částech věnujících se lezení na obtížnost, boulderu a rychlosti.
 
 . ČHS vydává následující společné žebříčky hodnocení:
-.. Hodnocení závodů
-... Český pohár, včetně Českého poháru mládeže a Českého poháru do 15 let
-... 2. liga
-.. Průběžný ranking seriálů
-.. Žebříček závodníků ČHS
-... Společný žebříček závodníků pro soutěže Český pohár, 2. liga, 3. liga ve věkových kategoriích
+.. Český pohár, včetně Českého poháru mládeže a Českého poháru do 15 let
+.. 2. liga
+.. Průběžný ranking
+.. Žebříček závodníků ČHS - společný žebříček závodníků pro soutěže Český pohár, 2. liga, 3. liga ve věkových kategoriích
 
 +
 Podrobný popis způsobu sestavení žebříčku Českého poháru, průběžného rankingu a žebříčku závodníků ČHS je možné najít na webových stránkách ČHS a v prováděcích předpisech pro daný rok.

@@ -159,7 +159,7 @@ ale nesmí používat žádné nahrávací zařízení
 === HODNOCENÍ
 
 . Nákres cesty musí být připravený Hlavním stavěčem za konzultace s Hlavním rozhodčím před startem každého kola soutěže. Bodování chytů bude uvedené v nákresu cestu a po dobu konání kola je neměnné. Každý nákres cesty:
-.. měl by být vyvěšený na oficiální nástěnce a elektronikcy dostupný ve veřejném prostoru (např. mobilní aplikace) včetně bodování po skončení společné prohlídky a před zahájením daného kola.
+.. měl by být vyvěšený na oficiální nástěnce a elektronicky dostupný ve veřejném prostoru (např. mobilní aplikace) včetně bodování po skončení společné prohlídky a před zahájením daného kola.
 .. měl by být vyvěšený bez bodování ve <<#svolavaci-zona,svolávací zóně>>
 
 . Každá cesta je posuzována alespoň jedním rozhodčím, kterému může asistovat osoba, která zapisuje každému soutěžícímu

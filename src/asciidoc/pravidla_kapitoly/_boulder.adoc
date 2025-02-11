@@ -29,7 +29,7 @@ Počet boulderů v kvalifikačním kole a finále může být upraven Hlavním r
 .. Počet lezeckých kroků na každém boulderu může být nejvýše 12 a průměrný počet lezeckých kroků na bouldery v jednom kole má být mezi 4 až 8.
 .. [[ob-9]]Každý boulder má jednoznačně označené následující pozice
 ... startovní pozici (nástup), odkud se pokus hodnotí jako úspěšně započatý. Nástup se skládá z chytu/chytů pro obě ruce a pro obě nohy. Jako startovní chyt nesmí být označeno prázdné místo nebo neohraničená plocha stěny.
-... [[ob-10]] Deseti body (tzv. zóna) bude hodnoceno držení určitého chytu na boulderu. Umístění tohoto chytu záleží na uvážení Hlavního stavěče. Tento chyt musí být zřetelně označen. Bonusový bod bude započítán i v případě, že soutěžící úspěšně přeleze boulder bez toho, aby bonusový chyt použil. Pro uznání zóny by měly být splněny následující podmínky: kontrolované držení označeného chytu, které bude uznáno při využití tohoto chytu k dosažení stabilní nebo kontrolované pozice.
+... [[ob-10]] Jako zóna bude hodnoceno držení určitého chytu nebo struktury na boulderu (zónový chyt). Umístění tohoto chytu záleží na uvážení Hlavního stavěče. Tento chyt musí být zřetelně označen. Zóna bude započítána i v případě, že soutěžící úspěšně přeleze boulder bez toho, aby zónový chyt použil. Pro uznání zóny by měly být splněny následující podmínky: kontrolované držení označeného chytu, které bude uznáno při využití tohoto chytu k dosažení stabilní nebo kontrolované pozice.
 ... [[ob-11]]Konec boulderu (top) může být určen jako:
 .... kontrolované držení posledního chytu oběma rukama. Takový chyt musí být jasně označen;
 .... postavení soutěžícího na vrcholu stěny (pozor jen na omezení v odstavci <<#obecne-boulder>>.<<#ob-7b,7b>>)
@@ -188,9 +188,10 @@ a v každém případě bouldrový rozhodčí zvedne ruku a oznámí „TOP“
 === POŘADÍ PO KAŽDÉM KOLE
 . Soutěžící který selhal nebo nemohl odstartovat, nebude hodnocený v příslušném kole a jeho výkon bude označen příslušným <<#irm,označením neplatného výsledku>>
 . Za každý boulder budou uděleny body:
-.. za získanou zónu dostane soutěžící 10 bodů, přičemž za každý pokus, před získáním zóny, se odečítá 0,1 bodu
-.. za úspěšně dokončený boulder dostane soutěžící 25 bodů, přičemž za každý neúspěšný pokus se odečítá 0,1 bodu
-. Finální body za boulder je větší hodnota z předchozích. Hodnota nemůže být záporná.
+.. [[ppkkb-a]]za získanou zónu dostane soutěžící 10 bodů, přičemž za každý pokus, před získáním zóny, se odečítá 0,1 bodu.
+.. [[ppkkb-b]]za úspěšně dokončený boulder dostane soutěžící 25 bodů, přičemž za každý neúspěšný pokus se odečítá 0,1 bodu.
++
+Finální body za boulder je větší hodnota z <<ppkkb-a,a.>> nebo <<ppkkb-b,b.>> a 0. Hodnota nemůže být záporná.
 . Celkové body soutěžícího v kole jsou součet bodů z jednotlivých boulderů.
 . Soutěžící jsou následně setříděni od největší hodnoty po nejmenší.
 . Nastane-li na nějaké pozici remíza, vezmou se v úvahu výsledky soutěžících z předchozího kola.

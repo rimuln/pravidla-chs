@@ -5,7 +5,7 @@
 === OBECNĚ
 
 . [[op-1,{counter:op}.]]Všechny písemné a ústní protesty a oficiální reakce se musejí odehrávat v češtině.
-. [[op-2,{counter:op}.]]Písemný protest musí být na https://www.horosvaz.cz/res/archive/309/052084.pdf?seek=1577116013[formuláři ČHS] nebo na listině obsahující stejné informace.
+. [[op-2,{counter:op}.]]Písemný protest musí být na https://www.horosvaz.cz/res/archive/309/052084.pdf?seek=1577116013[formuláři ČHS] nebo na papíru obsahující stejné informace.
 . [[op-3,{counter:op}.]]Protest může být uznán pouze v případě, pokud jiné body těchto pravidel neurčují jinak:
 .. je-li spojen se zaplacením oficiálního protestného.
 .. je podepsaný zástupcem soutěžícího (vedoucí týmu) nebo soutěžícím, pokud vedoucí týmu není přítomen
@@ -63,7 +63,7 @@ V každém případě se soutěžící, kterého se protest týká, řídí poky
 [#dusledky-protestu]
 === DŮSLEDKY PROTESTU
 
-. Jakékoliv formální rozhodnutí odvolací poroty je konečné a nelze se proti němu opětovně odvolat.
+. Jakékoliv formální rozhodnutí odvolací poroty je konečné a nepodléhá dalšímu protestu.
 
 [#poplatky-za-protesty]
 === POPLATKY ZA PROTESTY
