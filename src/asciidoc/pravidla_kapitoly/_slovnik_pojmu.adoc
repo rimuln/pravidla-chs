@@ -185,7 +185,7 @@ Organizátor:: je Český horolezecký svaz
 
 [[rukavice]]Rukavice:: se rozumí ručně nebo průmyslově vyrobená rukavice, ať už navržená nebo ne a prodávána pro účely lezení. Aby se předešlo pochybnostem, páska nalepená na ruce sportovcem se nepovažuje za rukavice.
 
-[[soutez]]Soutěž:: je soutěž, která
+[[soutez]]Soutěž/Akce:: je soutěž, která
  .. zahrnuje závody v jedné nebo více disciplínách, které organizuje ČHS a dodržují tato pravidla
  .. je uvedena v kalendáři závodů publikovaném ČHS
 
