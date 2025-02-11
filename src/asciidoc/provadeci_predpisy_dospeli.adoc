@@ -58,6 +58,8 @@ Nejvyšší soutěže:: Mezinárodní Mistrovství České republiky
 
 3. liga:: rankingové závody
 
+Oblastní liga:: oblastní závody
+
 Všechny kategorie závodů kromě nominačních budou pořádány v mezinárodním formátu.
 
 Nominační závody musí být pořádány v open formátu.

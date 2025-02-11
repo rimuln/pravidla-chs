@@ -28,22 +28,21 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 [cols=",,",options="header",]
 [.center]
 |===
-         |                   ^| *Platba*           ^| *Startovné* 
-         | *držitel licence* ^| *předem na účet*   ^| 500 Kč
-         | *zahraniční*      ^| *předem na účet*   ^| 1000 Kč nebo 40€
+         |                      ^| *Platba*           ^| *Startovné* 
+         | *držitel registrace* ^| *předem na účet*   ^| 500 Kč
+         | *zahraniční*         ^| *předem na účet*   ^| 1000 Kč nebo 40€
 |===
 
-. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí v neděli 23:59 před závodem. V případě spojeného závodu mládeže s dospělými platí kategorie U19 a U21 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
-
-. Startovné musí být uhrazeno do 5. dnů do půlnoci od objednání, neuhrazené objednávky jsou po 5. dni zrušeny. Platba ale musí být připsána na účet svazu nejpozději do 2 dnů po konci registrace.
+. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí vždy 6 dní před dnem zahájení závodu nejpozději ve 23:59 posledního dne.  V případě spojeného závodu mládeže s dospělými platí kategorie U19 a U21 pouze jedno startovné a to podle prováděcích předpisů závodů dospělých.
+. Startovné musí být uhrazeno do 6 hodin po uzavření předregistrace. Neuhrazené objednávky jsou po 6 hodinách zrušeny.
 
 . Zástupce oddílu může zrušit ještě neuhrazenou předregistraci. Po zaplacení předregistrace do půlnoci 7. dne po ukončení závodu pak může podat žádost o vrácení startovného.
 V žádosti uvede důvod a vybere závodníky, u kterých žádá vrácení startovného. Při pozdějším zrušení předregistrace se startovné nevrací.
 
 . Dodatečná registrace v den závodu není možná.
 
-. Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. minerální voda, banán, tatranka, jablko apod.). 
-. V izolační zóně musí být k dispozici další minerální voda. 
+. Každý pořadatel musí zabezpečit pro závodníky a rozhodčí základní občerstvení (např. banán, tatranka, jablko, přístup k pitné vodě apod.). 
+. V izolační zóně musí být k dispozici pitná voda. 
 . V izolační zóně před finále musí být na závodech možnost rozcvičení, rozlezení a přístup k toaletám.
 
 == Typy závodů mládeže pro rok 2025 
@@ -78,21 +77,20 @@ Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 == Rozhodčí a stavěč cest 
 
-. KSL deleguje pro závody nejvyšších soutěží a 1. ligy delegáta ČHS, hlavního rozhodčího soutěže a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Hlavním rozhodčím smí být pouze držitel licence Hlavní rozhodčí ČHS.
+. Organizátor deleguje pro akce nejvyšších soutěží a 1. ligy delegáta ČHS, hlavního rozhodčího, hlavního stavěče a obsluhu výsledkového servisu a uhradí náklady spojené s jejich účastí. Pořadatel zajistí traťové rozhodčí pro jednotlivé kategorie. Hlavním rozhodčím smí být pouze držitel licence Hlavní rozhodčí ČHS.
 
-. Hlavního stavěče závodu v lezení na obtížnost a boulderu navrhuje KSL na základě seznamu držitelů příslušných stavěčských licencí. Hlavní stavěč závodu nejvyšších soutěží a 1. ligy musí být držitelem národní stavěčské licence úrovně 1. (Hlavní stavěč ČHS) případně mezinárodní licence IFSC. Pokud chce pořadatel využít jako hlavního stavěče osobu bez licence, musí za ni převzít garanci držitel licence úrovně 1. (Hlavní stavěč ČHS) nebo držitel mezinárodní stavěčské licence IFSC, tuto garanci musí schválit KSL. Pro ČP do 15 let je využití stavěče s národní nebo mezinárodní licencí doporučené.
-
-. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi ČHS a pořadatelem. 
+. Práce a náklady spojené se stavěním závodních cest v lezení na obtížnost a v boulderu  jsou upraveny ve smlouvě mezi Organizátorem a Pořadatelem.
 
 == Poskytování informací o závodech 
 
-. [[pioz-1,{counter:pioz}]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (zavody@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
+. [[pioz-1,{counter:pioz}]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
-. [[pioz-2,{counter:pioz}]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
+. [[pioz-2,{counter:pioz}]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího.
 
-. [[pioz-3,{counter:pioz}]]Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této výsledkové listiny a podpis hlavního rozhodčího.
+. [[pioz-3,{counter:pioz}]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
+. [[pioz-4,{counter:pioz}]]Pro všechny závody 2. a 3. ligy je povinné využít oficiální aplikaci pro výsledkový servis.
+. [[pioz-5,{counter:pioz}]]Pro závody Oblastních lig je možné použít neoficiální aplikace pro výsledkový servis a vlastní formu přihlašování soutěžících. 
 
-. [[pioz-4,{counter:pioz}]]Pro všechny závody nejvyšší soutěží a 1. ligy je povinné využít systému elektronické předregistrace v kalendáři závodů na webu ČHS a použít oficiální aplikaci pro výsledkový servis.
 
 == Průběh závodů 
 
@@ -173,7 +171,7 @@ Výjimky ze soutěžních pravidel pro závody kategorií U15 jsou uvedeny v sam
 . Jury
 
 * Delegát ČHS (TD) - náklady na jeho činnost placeny ČHS 
-* Hlavní rozhodčí (HR) - náklady na jeho činnost placeny ČHS, u závodů 3. ligy je možno sloučit funkci TD+HR 
+* Hlavní rozhodčí (HR) - náklady na jeho činnost placeny ČHS, u závodů 2. a 3. ligy je možno sloučit funkce Technického delegáta a Hlavního rozhodčího.
 * Pomocní rozhodčí - pro každou kategorii (obtížnost – dva traťoví rozhodčí na každou závodní cestu, boulder – minimálně jeden na každý boulder, doporučeni 2 rozhodčí, z nichž jeden může působit zároveň jako čistič chytů, rychlost - startér) – z řad pořadatelů, zkušení, se znalostí pravidel, nezávislí 
 
 . Stavěči 
@@ -182,7 +180,7 @@ Výjimky ze soutěžních pravidel pro závody kategorií U15 jsou uvedeny v sam
 * Pomocní stavěči
 . Výsledkový servis
 . Organizátoři
-* Ředitel závodu
+* Technický ředitel závodu
 * Asistenti - izolace atd., bezpečnost a zdravotnický personál, výsledkový servis 
 * Jističi
 * Čističi lezeckých cest (pomocníci stavěče) 

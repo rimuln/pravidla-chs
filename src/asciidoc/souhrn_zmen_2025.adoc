@@ -19,6 +19,10 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 - *Změny v1.5.SNAPSHOT*
 
+Zavedeny registrace vedoucích týmů
+
+Zavedeny Oblastní ligy a zpřísnění podmínek pro 3. ligu.
+
 Upraveny kategorie ze sudých let na liché roky. V návaznosti na to ČP U14 přejmenován na ČP U15
 
 Na základě změny pravidel IFSC pro rok 2025 sjednocen způsob počítání pořadí v Boulderu
