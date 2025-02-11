@@ -45,7 +45,7 @@ a odvolací porota musí bez odkladu rozhodnout a aplikovat opatření vedoucí 
 .. v případě finálového kola lezeného <<#boulder-format-sp,formátem SP>>, před zahájením pokusů následujícího závodníka.
 
 +
-V každém případě se soutěžící, kterého se protest týká, řídí pokyny hlavního rozhodčího. Aby se předešlo pochybnostem, kterýkoliv soutěžící, který opustí <<#soutezni-prostor,soutěžní prostor>> před rozhodnutím o protestu nebude mít možnost vykonat případné další pokusy.
+V každém případě se soutěžící, kterého se protest týká, řídí pokyny hlavního rozhodčího. Aby se předešlo pochybnostem, kterýkoliv soutěžící, který opustí <<#soutezni-prostor,soutěžní prostor>> před rozhodnutím o protestu, nebude mít možnost vykonat případné další pokusy.
 
 . Na soutěžícího se do posouzení protestu nahlíží jako na závodníka postiženého technickým incidentem. 
 
