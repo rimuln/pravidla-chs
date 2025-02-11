@@ -16,7 +16,7 @@ může:: představuje volitelnou záležitost
 
 Akce:: je jednodenní či vícedenní sportovní událost, zpravidla závod ve sportovním lezení.
 
-[[asistencni-pes]]Asistenční pes:: je pes, který poskytuje asistenci zdravotně postižené osobě a je vytrénován aby zmírnil její postižení.
+[[asistencni-pes]]Asistenční pes:: je pes, který poskytuje asistenci zdravotně postižené osobě a je vytrénován, aby zmírnil její postižení.
 
 [[bezpecnostni-chyt]]Bezpečnostní chyt:: je takový chyt, který hlavní stavěč určil, z důvodu bezpečnosti, jako poslední možný, ze kterého se musí zapnout příslušný <<#jistici-bod, Jistící bod>>. Jistící bod i chyt musí být označeny modrým křížkem a závodníci na něj musí být během prohlídky upozorněni.
 
@@ -26,7 +26,7 @@ Akce:: je jednodenní či vícedenní sportovní událost, zpravidla závod ve s
 
 [[cas-pokus]]Časový interval na pokus:: je celkový časový interval, který umožňuje závodníkovi vykonat pokus na cestě nebo boulderu. Obsahuje  jakýkoliv časový interval pro přípravu na jeho pokus a to buď ve <<#svolavaci-zona,Svolávací zóně>>/<<#tranzitni-zona,Transitní zóně>> nebo v soutěžní zóně. A dále jakýkoliv časový interval na jeho pokusy.
 
-[[cas-priprava]]Časový interval na přípravu:: je časový interval během kterého se závodník finálně připravuje před zahájením jeho pokusů na cestě nebo boulderu.
+[[cas-priprava]]Časový interval na přípravu:: je časový interval, během kterého se závodník finálně připravuje před zahájením jeho pokusů na cestě nebo boulderu.
 
 [[cerna-paska]]Černá páska:: je páska černé barvy. V případě nutnosti lze využít jinou, kontrastní barvu, pak ale musí být tato barva jasně specifikována při prohlídce cesty
 
@@ -40,7 +40,7 @@ Akce:: je jednodenní či vícedenní sportovní událost, zpravidla závod ve s
 + 
 v každém případě musí být uvedeno v kalendáři závodu publikovaném ČHS.
 
-[[clenove-tymu]]Členové týmu:: společně tvoří soutěžní tým tým. Oficiální doprovod týmu jsou členové týmů. Soutěžním týmem by měl být oddíl registrovaný v ČHS.
+[[clenove-tymu]]Členové týmu:: společně tvoří soutěžní tým. Oficiální doprovod týmu jsou členové týmu. Soutěžním týmem by měl být oddíl registrovaný v ČHS.
 
 [[disciplina]]Disciplína:: představuje konkrétní formát soutěže v lezení, která odpovídá příslušným pravidlům a standardům
 
@@ -102,7 +102,7 @@ Koordinátor soutěže ČHS:: je osoba pověřená ČHS ke koordinaci Soutěže.
 .. [[ls-2,{counter:ls}]]Je-li potřeba ohraničit chyty, části stěny nebo struktury, které nejsou k lezení povoleny, je k tomuto vymezení třeba použít  <<#cerna-paska,černou pásku>>. 
 
 [[lezecky-povrch]]Lezecký povrch:: představuje použitelnou plochu lezecké stěny:
- .. zahrnující jakoukoliv nepravidelnost nebo texturovaný prvek tvořící součast lezecké plochy, nebo jakákoliv uzavřená hrana lezecké plochy ale
+ .. zahrnující jakoukoliv nepravidelnost nebo texturovaný prvek tvořící součast lezecké plochy, nebo jakákoliv uzavřená hrana lezecké plochy, ale
  .. vylučující jakýkoliv <<#umely-chyt, Umělý chyt>>, strukturu nebo jinou dočasnou <<#struktura,Strukturu>> uchycenou na použitelnou plochu
 
  [[manualni-jistitka]]Manuální jistící zařízení:: jsou zařízení, která splňují normu link:https://www.nlfnorm.cz/terminologicky-slovnik/82171[ČSN EN 15151-2]
@@ -137,14 +137,14 @@ v každém případě musí být uvedeno v kalendáři závodu publikovaném ČH
  .. v kontextu jakéhokoliv kola nebo fáze závodu, když závodník:
   ... v kole závodu, které splňuje <<#podminky-izolace,podmínky izolace>>, se neohlásil v <<#izolacni-zona,Izolační zóně>> nebo v této zóně nebyl přítomen v čase uzavření izolace uvedené na startovní listině daného kola.
   ... neohlásil se ve <<#svolavaci-zona,Svolávací zóně>> po vyvolání v daném kole nebo fázi soutěže, nebo
-  ... byl jiným způsobem ohodnocen značkou <<#irm,Označení neplatného výsledku>> s ohledem na příslušné ustanovení těchto pravidel
+  ... byl jiným způsobem ohodnocen značkou <<#irm,Označení neplatného výsledku>> s ohledem na příslušné ustanovení těchto pravidel,
 --
 +
 a jako takové se to zaznamená do výsledků jako DNS. Závodník, který je označen jako DNS v jakémkoliv kole nebo fázi závodu se nebude způsobilý se účastnit žádného následujícího kola nebo fáze stejného závodu.
 
 [[chs-official]]Oficiální činitel ČHS:: znamená jakéhokoliv a každého z činovníků vyjmenovaných v bodě <<#oficialni-soutezni-cinitele>>, který je jmenován pro danou <<#soutez,Soutěž>>.
 
-[[oficialni-doprovod]]Oficiální doprovod týmu:: představuje v rámci společné skupiny závodníku jejich vedoucího, trenéry a zdravotnický doprovod v rámci soutěže. Všichni příslušnívi oficiálního doprovodu musí být registrováni spolu se závodníkem/ky do závodu.
+[[oficialni-doprovod]]Oficiální doprovod týmu:: představuje v rámci společné skupiny závodníků, jejich vedoucího, trenéry a zdravotnický doprovod v rámci soutěže. Všichni příslušníci oficiálního doprovodu musí být registrováni spolu se závodníkem/ky do závodu.
 
 [[oficialni-vysledky]]Oficiální výsledky:: jsou výsledky zveřejněné na konci soutěže nebo jakéhokoliv kola soutěže na oficiální nástěnce a jsou podepsané příslušným <<#chs-official,Oficiálním činovník ČHS>>
 
@@ -181,7 +181,7 @@ Organizátor:: je Český horolezecký svaz
 
 [[reakcni-cas]]Reakční čas:: je rozdíl mezi časem, kdy soutěžící opustil startovní desku a začátkem startovního signálu. Měří se minimálně na 0,01 sekundy a může být 0, kladný nebo záporný
 
-[[rozcvicovaci-zona]]Rozcvičovací zóna:: znamená jakoukoliv část <<#soutezni-prostor,Soutěžního prostoru>> která je určená a vybavená pro potřeby přípravy závodníků
+[[rozcvicovaci-zona]]Rozcvičovací zóna:: znamená jakoukoliv část <<#soutezni-prostor,Soutěžního prostoru>>, která je určená a vybavená pro potřeby přípravy závodníků
 
 [[rukavice]]Rukavice:: se rozumí ručně nebo průmyslově vyrobená rukavice, ať už navržená nebo ne a prodávána pro účely lezení. Aby se předešlo pochybnostem, páska nalepená na ruce sportovcem se nepovažuje za rukavice.
 
@@ -221,7 +221,7 @@ Tým údržby:: je skupina osob zajištěná pořadatelem odpovědná za údržb
 
 [[umely-chyt]]Umělý chyt:: představuje vyrobený chyt, který je přichycený k lezeckému povrchu pomocí vrutů nebo šroubů
 
-[[manazer-tymu]]Vedoucí soutěžního týmu:: je závodníkem zvolená osoba, která je zodpovědná za chování <<#clenove-tymu,členů>> v rámci jejich týmu během celé soutěže. Pro různé disciplíny může být zvolen jiný vedoucí týmu. Každý závodník může mít svého vedoucího týmu. Pokud je soutěžní tým tvořen oddílem je doporučeno aby oddílový soutěžní tým zastupovala jedna osoba pro všechny závodníky týmu.
+[[manazer-tymu]]Vedoucí soutěžního týmu:: je závodníkem zvolená osoba, která je zodpovědná za chování <<#clenove-tymu,členů>> v rámci jejich týmu během celé soutěže. Pro různé disciplíny může být zvolen jiný vedoucí týmu. Každý závodník může mít svého vedoucího týmu. Pokud je soutěžní tým tvořen oddílem je doporučeno, aby oddílový soutěžní tým zastupovala jedna osoba pro všechny závodníky týmu.
 
 [[zavodni-registrace]]Závodní registrace:: je upravena ve https://www.horosvaz.cz/res/archive/423/070396.pdf?seek=1637244137[Směrnici Českého horolezeckého svazu o registraci sportovců pro závody ve sportovním lezení] a je povinná pro všechny závodníky nejvyšších soutěží, 1. ligy a 2. ligy.
 
