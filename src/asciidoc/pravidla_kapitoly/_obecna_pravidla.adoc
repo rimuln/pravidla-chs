@@ -238,7 +238,7 @@ Je-li soutěžící v nepovolené poloze v důsledku technického incidentu, je 
 
 . Na konci soutěže je třeba připravit a vydat oficiální výsledkovou listinu, ukazující konečné umístění soutěžících, stejně tak jako jejich výsledky z dílčích kol soutěže. Listinu musí podepsat Hlavní rozhodčí. Oficiální výsledkové listiny musí obsahovat čas vydání.
 
-. Veškeré oficiální výsledkové listiny se vydávají ve formátu stanoveném ČHS, na oficiální soutěžní tabuli. Výskladovou listinu lze zveřejnit i elektronicky ve veřejně dostupném prostoru (např. mobilní aplikace). Kopie výsledkových listin je vhodné poskytnout oficiálním soutěžním činitelům, komentátorovi a zástupcům médií. 
+. Veškeré oficiální výsledkové listiny se vydávají ve formátu stanoveném ČHS, na oficiální soutěžní tabuli. Výsledkovou listinu lze zveřejnit i elektronicky ve veřejně dostupném prostoru (např. mobilní aplikace). Kopie výsledkových listin je vhodné poskytnout oficiálním soutěžním činitelům, komentátorovi a zástupcům médií. 
 
 [#hodnoceni-a-zebricky]
 === HODNOCENÍ A ŽEBŘÍČKY
