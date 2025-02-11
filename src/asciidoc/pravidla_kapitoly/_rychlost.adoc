@@ -29,8 +29,8 @@
 .. Lezecké lano musí být připevněné k úvazku každého soutěžícího buď:
 ... za pomoci osmičkového uzlu, zajištěného dalším uzlem, nebo
 ... [[6.2.5.c.ii]]za pomoci karabiny se šroubovací pojistkou západky takového typu, který minimalizuje nebezpečí příčného zatížení a vycvaknutí lana z karabiny, nebo použitím dvou karabin se šroubovací pojistkou západky proti sobě. Lezecké lano musí být spojeno s karabinou/karabinami osmičkovým uzlem, zajištěným další uzlem.
-.. Každé lano je ovládáno dvěma jističi. Jističi musejí stát na takovém místě pod stěnou, aby se vyhnuli nebezpečí úrazu zaviněného pádem soutěžícího, padajícími chyty či jiným vybavením, které může nastat v průběhu lezení.
-.. Po celou dobu lezeckého pokusu soutěžícího na cestě musejí jističi dávat neustále dobrý pozor na jeho postup, aby zajistili, že:
+.. Každé lano je ovládáno dvěma jističi. Jističi musí stát na takovém místě pod stěnou, aby se vyhnuli nebezpečí úrazu zaviněného pádem soutěžícího, padajícími chyty či jiným vybavením, které mohou nastat v průběhu lezení.
+.. Po celou dobu lezeckého pokusu soutěžícího na cestě musí jističi dávat neustále dobrý pozor na jeho postup, aby zajistili, že:
 .. Pohyb soutěžícího nebude nijak omezován příliš napjatým lanem;
 .. Všechny pády budou zastaveny bezpečným způsobem;
 .. Soutěžící nebude vystaven žádným nepřiměřeným pádům;
@@ -86,7 +86,7 @@
 === KVALIFIKACE – SVĚTOVÝ FORMÁT
 
 . Obě cesty jsou lezeny zároveň a soutěžící lezou ve dvojicích. Soutěžící jsou rozděleni do dvou stejně (popř. téměř stejně) početných skupin.
-. Každý závodník muže udělat jeden pokus na každé cestě, kromě:
+. Každý závodník může udělat jeden pokus na každé cestě, kromě:
 .. pokud je vyžadován opakovaný pokus po předčasném startu nebo technickém incidentu, pak musí být povolen další pokus
 .. pokud se závodník neohlásí po vyvolání, pak pokus proběhne bez něho.
 . Každý závodník musí zůstat v soutěžním prostoru dle pokynu hlavního rozhodčího, dokud nedokončí své pokusy na obou cestách
@@ -106,7 +106,7 @@ Při 21ti soutěžících v dané kategorii, pak ten, který lezl jako 11. na pr
 
 . Minimální pauza mezi 1. a 2. cestou je 5 minut. Toto neplatí v opakovaném pokusu po předčasném startu.
 . [[ksr-6]]Soutěžící budou hodnoceni následovně:
-.. [[ksr-a,{counter:ksr:a}.]]závodníci, kteří nebyli schopni zahájit oba své kvalifikační pokusy nebudou v kole hodnoceni a jejich výsledek bude označen jako DNS
+.. [[ksr-a,{counter:ksr:a}.]]závodníci, kteří nebyli schopni zahájit oba své kvalifikační pokusy, nebudou v kole hodnoceni a jejich výsledek bude označen jako DNS
 .. [[ksr-b,{counter:ksr}.]]závodníci s předčasným startem v prvním nebo druhém pokusu budou hodnoceni na stejné pozici, a to poslední v daném kole
 .. [[ksr-c,{counter:ksr}.]]v závislosti na bodech <<#ksr-a>>, <<#ksr-b>>: závodníci, jejichž pokus nebo oba pokusy byly hodnoceny jako neúspěšné, budou hodnoceni na stejné pozici, a to před závodníky s předčasným startem
 .. v závislosti na bodech <<#ksr-a>>, <<#ksr-b>>, <<#ksr-c>>: závodníci s alespoň jedním platným časem budou seřazeni sestupně, přičemž závodník s rychlejším časem je umístěn lépe
@@ -162,7 +162,7 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 . [[fksfr-4]]Pořadí v jakémkoliv finálovém kole bude určeno následovně:
 .. Pokud oba závodníci mají úspěšný pokus, pak vyhrává závodník s rychlejším časem
 .. Pokud závodník předčasně odstartoval, pak vyhrává druhý závodník. V případě předčasného startu na prvním rozběhu v klasickém formátu, musí postupující závodník absolvovat i druhou cestu sám.
-.. Pokud oba závodníci dosáhnou stejného času nebo nemají platný čas z jiného důvodu než předčasný start potom se příslušný rozběh opakuje. Pokud i po tomto rozběhu závodníci nebyli rozřazeni, pak budou porovnáni podle předchozích časů dosažených v závodě (tréninkové kolo se nepočítá). Aby se předešlo pochybnostem rozběh se neopakuje jestliže oba soutěžící nemohou odstartovat.
+.. Pokud oba závodníci dosáhnou stejného času nebo nemají platný čas z jiného důvodu než předčasný start, potom se příslušný rozběh opakuje. Pokud i po tomto rozběhu závodníci nebyli rozřazeni, pak budou porovnáni podle předchozích časů dosažených v závodě (tréninkové kolo se nepočítá). Aby se předešlo pochybnostem rozběh se neopakuje, jestliže oba soutěžící nemohou odstartovat.
 .. Pokud se závodník neohlásí po vyvolání, pak vyhrává druhý závodník
 . Vždy musí proběhnout rozřazovací kolo o třetí a čtvrté místo (malé finále), a to dříve, než proběhne finále o 1. na 2. místo.
 . V případě předčasného startu v souboji o 1. místo musí vítěz absolvovat další pokus pro získání platného času.
@@ -193,7 +193,7 @@ Soutěžící uvedený ve vyšším rámečku schématu začne na cestě číslo
 [#oficialni-trenink-rychlost]
 === OFICIÁLNÍ TRÉNINK
 
-. Pokud je to možné, závodníci by měli mít vyhrazen čas na oficiální trénink v závodních cestách před zahájením kvalifikačních kol. Čas zahájení tréninku oznámí hlavní rozhodčí při technickém meetingu (v případě nutnosti oznámí důvody, proč není oficiální trénink možný).
+. Pokud je to možné, závodníci by měli mít vyhrazený čas na oficiální trénink v závodních cestách před zahájením kvalifikačních kol. Čas zahájení tréninku oznámí hlavní rozhodčí při technickém meetingu (v případě nutnosti oznámí důvody, proč není oficiální trénink možný).
 . Každý závodník má nárok na 1 tréninkový pokus v každé kvalifikační cestě. V případě předčasného startu závodník nebude zastaven.
 . Trénink by měl obsahovat ukázku signálů startovacího zařízení včetně signálu pro předčasný start.
 . Závodníci nastupují k tréninkovým pokusům ve stejném pořadí, jako je jejich startovní pořadí pro kvalifikace.
