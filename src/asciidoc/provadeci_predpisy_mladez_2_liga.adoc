@@ -18,12 +18,12 @@ v1.5, 1.1.2025
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Závody 2. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku do 19 let.
+. Závody 2. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku do 21 let.
 
 == Pořadatel 
 
 . Každý oddíl registrovaný v Českém horolezeckém svazu (dále jen ČHS), nebo právnická či fyzická osoba s příslušným oprávněním, má právo požádat ČHS o pořadatelství závodů 2. ligy.
-. Pořadatel přihlásí závod vyplněním link:https://forms.gle/9mhR2dJGtvzKcVYaA[formuláře s žádosti] o pořadatelství závodů 2. ligy. Žádost schvaluje KSL a v případě schválení této žádosti je závod zapsán do kalendáře závodů pro daný rok. 
+. Pořadatel přihlásí závod vyplněním link:https://forms.gle/9mhR2dJGtvzKcVYaA[formuláře s žádosti] o pořadatelství závodů 2. ligy. Žádost schvaluje pověřený pracovník Sekce domácích soutěží ČHS. Po schválení žádosti je závod zapsán do kalendáře závodů pro daný rok. 
 . S každým pořadatelem uzavře ČHS prostřednictvím sekretariátu ČHS písemnou smlouvu o pořádání závodu.
 . ČHS poskytne pořadateli závodu dotaci, která musí být použita na uspořádání závodů (pronájmy, materiálně technické zabezpečení, odměny stavěčům, občerstvení pro závodníky, ceny pro vítěze atd.). Výše dotace je určena následující tabulkou:
 +
@@ -43,9 +43,9 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
                                ^| *na místě*        ^|  800 Kč
 |===
 
-. Předběžná registrace je možná pouze ve vazbě na software pro zpracování výsledků a končí v neděli 23:59 před závodem.
+. Předběžná registrace je možná pouze elektronicky a končí 6 dní, v neděli 23:59, před dnem konání závodu.
 
-. Dodatečná registrace v den závodu není možná.
+. Dodatečná registrace v den závodu je možná pouze se souhlaem pořadatele a pouze v režimu startu mimo soutěž.
 
 . V případě zrušení předběžné registrace do závodu provedené do termínu ukončení předregistrací, má právo registrující zažádat o vrácení platby ředitele závodu do půlnoci 7. dne po ukončení závodu. Předem provedená platba se vrací na účet plátce do pěti dnů od této žádosti. Při pozdějším zrušení předregistrace se startovné nevrací.
 
@@ -73,13 +73,13 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 == Závodníci 
 
 . Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a cizince kteří mají v České republice trvalý nebo dlouhodobý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
-. Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky včetně možnosti umístění v žebříčcích.
+. Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky včetně možnosti umístění v žebříčcích. 
 
-. Závodů se nesmí účastnit závodníci, kteří: 
-.. TODO
-
+. Závodníci, kteří jsou uvedeni na seznamu závodníků s omezením práva startu v nižších soutěžích vydaným Skecí domácích soutěží ČHS, nemohou být hodnoceni v oficiálních výsledcích závodů 2. ligy. 
 +
-Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodobé nemoci). Žádost musí obsahovat lékařskou zprávu a podává se elektronicky emailem na zavody@horosvaz.cz.
+Omezení závodníci se mohou závodu 2. ligy účastnit v režimu mimo soutěž a to pouze se souhlasem Organizátora a Pořadatele.
++
+Sekce domácích soutěží může udělit výjimku (např. návrat po dlouhodobé nemoci) pro závodníka s omezením práva startu v nižších soutěžích. Žádost musí zpravidla obsahovat lékařskou zprávu a podává se elektronicky emailem na zavody@horosvaz.cz. Sekce domácích soutěží vydá k žádosti o výjimku písemné stanovisko, které bude věřejně dostupné pro členy ČHS.
 
 . Pořadatel může omezit maximální počet závodníků, za předpokladu, že tento počet v dané kategorii a pohlaví nesmí klesnout pod 24. Tento počet pak musí být uveden v propozicích závodu.
 
@@ -88,30 +88,36 @@ Komise sportovního lezení může udělit výjimku (např. návrat po dlouhodob
 . Závodníci jsou povinni se na závodech pořádaných ČHS prokazovat platným průkazem ČHS. 
 
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností a které nemají v České republice trvalý nebo dlouhodobý pobyt.
++
+Zahraniční závodníci s trvalým nebo dlouhodobým pobytem v České republice se prokazují platným občasnkým průkazem nebo dokumentem s českým rodným číslem.
 
 . Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 15 let je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda v systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
 +
 Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 == Oficiální činovníci
-. Delegát ČHS není jmenován
+. Delegát ČHS není podmníkou ale může být jmenován Organizátorem.
 . Hlavní rozhodčí musí mít licenci
-.. Hlavní rozhodčí ČHS
-.. Rozhodčí ČHS
+.. Hlavní rozhodčí ČHS (licence A)
+.. Rozhodčí ČHS (licence B)
 . Hlavní stavěč musí mít licenci
-.. Hlavní stavěč ČHS
-.. Stavěč ČHS
+.. Hlavní stavěč ČHS (licence A)
+.. Stavěč ČHS (licence B)
 +
 Rozhodčí ČHS je absolvent samostatného školení rozhodčích ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/362/061702.pdf[seznamu rozhodčích] na webu ČHS.
 +
 Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které pořádá Český horolezecký svaz a je uveden v https://www.horosvaz.cz/res/archive/362/061697.pdf[seznamu stavěčů] na webu ČHS.
 
 . Pořadatel zajistí hlavního rozhodčího, hlavního stavěče a traťové rozhodčí pro jednotlivé kategorie. Pro řádný průběh závodu musí být dostatečný počet traťových rozhodčích.
-. Práci a náklady spojené s rozhodčími a se stavěním závodních cest hradí pořadatel.
++
+Práci a náklady spojené s rozhodčími a se stavěním závodních cest hradí pořadatel.
+. Pořadatel zajistí vyškolenou osobu pro obsluhu výsledkového servisu.
++
+Práci a náklady spojené se zpracováním výsledků hradí pořadatel.
 
 == Poskytování informací o závodě 
 
-. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je sekretariátu ČHS (adela.zapletalova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice]  by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby KSL měla dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
+. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je pověřenému pracovníkovi Sekce domácích soutěžé ČHS (michal.milek@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice]  by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a pověřeného pracovníka Sekce domácích soutěží ČHS o časovém programu závodu tak, aby ČHS mělo dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní média.
 
 . [[pioz-2]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
@@ -157,10 +163,10 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
   * Nad 15 závodníků - koeficient 1
   * Do 15 závodníků včetně - koeficient 0,85
 
-. Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy a poháry pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí předseda KSL nebo jeho zástupce pro 2. ligu.
+. Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy a poháry pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí pověřený pracovník Sekce domácíh soutěží ČHS.
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje KSL. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů na závodech 2. ligy bude dotace krácena.
-. KSL si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti, regulérnosti závodu a plnění marketingových práv.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje manažer Sekce domácích soutěží ČHS. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů na závodech 2. ligy je možné dotaci krátit.
+. Sekce domácích soutěží ČHS si vyhrazuje právo vyslat na závod pověřenou osobu, která provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti, regulérnosti závodu a plnění marketingových práv.
 . Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2025>>.
