@@ -18,7 +18,7 @@ v1.5, 1.1.2025
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-. Závody 2. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku do 21 let.
+. Závody 2. ligy v lezení dětí a mládeže jsou organizovány Českým horolezeckým svazem a jsou primárně určené pro začínající a středně pokročilé závodníky ve věku od 9 do 21 let.
 
 == Pořadatel 
 
