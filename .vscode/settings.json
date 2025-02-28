@@ -8,12 +8,19 @@
         "plaintext",
         "asciidoc"
     ],
+    "cSpell.language": ["cs","en"],
+	"cSpell.dictionaries": [
+	    "czech",
+	    "cs-cz",
+	    "en-us"
+	],
     "cSpell.words": [
         "borhák",
         "boulder",
         "boulderu",
         "boulderů",
-        "osmifinále"
+        "osmifinále",
+        "rozehřívací"
     ],
     "java.configuration.updateBuildConfiguration": "interactive",
     "asciidoc.antora.enableAntoraSupport": true

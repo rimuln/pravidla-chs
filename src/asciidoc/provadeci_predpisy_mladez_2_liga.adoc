@@ -45,7 +45,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 . Předběžná registrace je možná pouze elektronicky a končí 6 dní, v neděli 23:59, před dnem konání závodu.
 
-. Dodatečná registrace v den závodu je možná pouze se souhlaem pořadatele a pouze v režimu startu mimo soutěž.
+. Dodatečná registrace v den závodu je možná pouze se souhlasem pořadatele a pouze v režimu startu mimo soutěž.
 
 . V případě zrušení předběžné registrace do závodu provedené do termínu ukončení předregistrací, má právo registrující zažádat o vrácení platby ředitele závodu do půlnoci 7. dne po ukončení závodu. Předem provedená platba se vrací na účet plátce do pěti dnů od této žádosti. Při pozdějším zrušení předregistrace se startovné nevrací.
 
@@ -75,7 +75,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Všechny závody mládeže ve všech disciplínách jsou otevřené pouze pro české účastníky a cizince kteří mají v České republice trvalý nebo dlouhodobý pobyt. Závody probíhají v <<pravidla_sl.adoc#mezinarodni-format,mezinárodním formátu>>.
 . Na zahraniční závodníky, kteří mají trvalý nebo dlouhodobý pobyt v České republice platí stejné podmínky jako pro české závodníky včetně možnosti umístění v žebříčcích. 
 
-. Závodníci, kteří jsou uvedeni na seznamu závodníků s omezením práva startu v nižších soutěžích vydaným Skecí domácích soutěží ČHS, nemohou být hodnoceni v oficiálních výsledcích závodů 2. ligy. 
+. Závodníci, kteří jsou uvedeni na seznamu závodníků s omezením práva startu v nižších soutěžích vydaným Sekcí domácích soutěží ČHS, nemohou být hodnoceni v oficiálních výsledcích závodů 2. ligy. 
 +
 Omezení závodníci se mohou závodu 2. ligy účastnit v režimu mimo soutěž a to pouze se souhlasem Organizátora a Pořadatele.
 +
@@ -89,14 +89,14 @@ Sekce domácích soutěží může udělit výjimku (např. návrat po dlouhodob
 
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností a které nemají v České republice trvalý nebo dlouhodobý pobyt.
 +
-Zahraniční závodníci s trvalým nebo dlouhodobým pobytem v České republice se prokazují platným občasnkým průkazem nebo dokumentem s českým rodným číslem.
+Zahraniční závodníci s trvalým nebo dlouhodobým pobytem v České republice se prokazují platným občanským průkazem nebo dokumentem s českým rodným číslem.
 
 . Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění a to pro výkonnostní sport. Pro závody ČPM a závody do 15 let je na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor]. Potvrzení dětem vydává dětský lékař a toto potvrzení má platnost 1 rok. Informace o platné zdravotní prohlídce se zadává v modulu Předseda v systému ČHS a dále je použitá v systému pro zpracování výsledků jako součást systému předregistrací.
 +
 Zdravotní prohlídka bude požadována i po zahraničních závodnících.
 
 == Oficiální činovníci
-. Delegát ČHS není podmníkou ale může být jmenován Organizátorem.
+. Delegát ČHS není podmínkou ale může být jmenován Organizátorem.
 . Hlavní rozhodčí musí mít licenci
 .. Hlavní rozhodčí ČHS (licence A)
 .. Rozhodčí ČHS (licence B)
@@ -117,7 +117,7 @@ Práci a náklady spojené se zpracováním výsledků hradí pořadatel.
 
 == Poskytování informací o závodě 
 
-. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je pověřenému pracovníkovi Sekce domácích soutěžé ČHS (michal.milek@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice]  by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a pověřeného pracovníka Sekce domácích soutěží ČHS o časovém programu závodu tak, aby ČHS mělo dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní média.
+. [[pioz-1]]Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu a zaslat je pověřenému pracovníkovi Sekce domácích soutěží ČHS (michal.milek@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061735.docx[Propozice]  by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele. Pořadatel je povinen informovat lezeckou veřejnost a pověřeného pracovníka Sekce domácích soutěží ČHS o časovém programu závodu tak, aby ČHS mělo dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní média.
 
 . [[pioz-2]]Pořadatel je povinen nahrát výsledky na web ČHS do 24 hodin po skončení závodu a dále je zaslat emailem správci rankingu (lezeni@navrat.name).
 
@@ -157,13 +157,13 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 |8. |9 |16. |1
 |===
 +
-. Dosáhnou-li závodníci shodného výsledku, bude jim přidělen podíl součtu příslušných bodů. Příklad: tři závodníci připadají na 7. -9. místo; stem:[(11 + 9 + 8) \div 3 = 9,3] bodů.
+. Dosáhnou-li závodníci shodného výsledku, bude jim přidělen podíl součtu příslušných bodů. Příklad: tři závodníci připadají na 7. –9. místo; stem:[(11 + 9 + 8) \div 3 = 9,3] bodů.
 . Pro každý závod 2. ligy se použije koeficient podle počtu závodníků následovně:
 
-  * Nad 15 závodníků - koeficient 1
-  * Do 15 závodníků včetně - koeficient 0,85
+  * Nad 15 závodníků – koeficient 1
+  * Do 15 závodníků včetně – koeficient 0,85
 
-. Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy a poháry pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí pověřený pracovník Sekce domácíh soutěží ČHS.
+. Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy a poháry pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí pověřený pracovník Sekce domácích soutěží ČHS.
 
 == Ostatní 
 

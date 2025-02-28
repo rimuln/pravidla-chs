@@ -173,18 +173,18 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 . Jury
 
-* Delegát ČHS (TD) - náklady na jeho činnost placeny ČHS 
-* Hlavní rozhodčí (HR) - náklady na jeho činnost placeny ČHS, u závodů 3. ligy je možno sloučit funkce Technického delegáta a Hlavního rozhodčího.
-* Pomocní rozhodčí - pro každou kategorii (obtížnost – dva traťoví rozhodčí na každou závodní cestu, boulder – minimálně jeden na každý boulder, doporučeni 2 rozhodčí, z nichž jeden může působit zároveň jako čistič chytů, rychlost - startér) – z řad pořadatelů, zkušení, se znalostí pravidel, nezávislí 
+* Delegát ČHS (TD) – náklady na jeho činnost placeny ČHS 
+* Hlavní rozhodčí (HR) – náklady na jeho činnost placeny ČHS, u závodů 3. ligy je možno sloučit funkce Technického delegáta a Hlavního rozhodčího.
+* Pomocní rozhodčí – pro každou kategorii (obtížnost – dva traťoví rozhodčí na každou závodní cestu, boulder – minimálně jeden na každý boulder, doporučeni 2 rozhodčí, z nichž jeden může působit zároveň jako čistič chytů, rychlost – startér) – z řad pořadatelů, zkušení, se znalostí pravidel, nezávislí 
 
 . Stavěči 
 
-* Hlavní stavěč - držitel národní licence 1. nebo 2. úrovně nebo mezinárodní licence IFSC, náklady, způsob hrazení a výše odměny bude určena ve smlouvě mezi Organizátorem a Hlavním stavěčem případně s Pořadatelem.
+* Hlavní stavěč – držitel národní licence 1. nebo 2. úrovně nebo mezinárodní licence IFSC, náklady, způsob hrazení a výše odměny bude určena ve smlouvě mezi Organizátorem a Hlavním stavěčem případně s Pořadatelem.
 * Pomocní stavěči
 . Výsledkový servis
 . Organizátoři
 * Technický ředitel závodu
-* Asistenti - izolace atd., bezpečnost a zdravotnický personál, výsledkový servis 
+* Asistenti – izolace atd., bezpečnost a zdravotnický personál, výsledkový servis 
 * Jističi
 * Čističi lezeckých cest (pomocníci stavěče) 
 * Obsluha videa a časomíry 

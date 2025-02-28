@@ -30,7 +30,7 @@ Pro Mistrovství republiky a závody 1. ligy v kategoriích do 15 let platí <<p
 U závodů nejvyšší kategorie a 1. ligy v kategoriích do 15 let, lze kromě ustanovení pravidel sportovního lezení využít i tyto možnosti:
 
 . Rozšířený klasický formát – tj. 3 – 6 kvalifikačních cest + finále.
-. Volný formát – tj. 3 - 10 cest bez finále. Při tomto formátu závodů se výsledné pořadí každého závodníka určí geometrickým průměrem pořadí v jednotlivých cestách.
+. Volný formát – tj. 3 – 10 cest bez finále. Při tomto formátu závodů se výsledné pořadí každého závodníka určí geometrickým průměrem pořadí v jednotlivých cestách.
 
 +
 Geometrický průměr se používá také pro výpočet pořadí pro postup do finále na základě výsledků z kvalifikačních cest. Geometrický průměr je definován jako n-tá odmocnina ze součinu pořadí v jednotlivých cestách: 
