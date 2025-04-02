@@ -1,0 +1,89 @@
+:lang: cs
+include::../../locale/_attributes.adoc[]
+:title-page:
+:imagesdir: ./images
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:stem: latexmath
+:xrefstyle: short
+:toc: left
+:toclevels: 2
+= Prováděcí předpisy ČHS pro závody oblastních lig ve sportovním lezení dětí a mládeže pro rok 2025
+Český horolezecký svaz
+v1.5, 1.1.2025
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
+
+ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
+
+== Obecně
+. Závody oblastních lig v lezení dětí a mládeže jsou organizovány členy Českého horolezeckého svazu a jsou zařazeny do systému soutěží Českého horolezeckého svazu ve sportovním lezení. 
+ 
+. Závody oblastních lig jsou primárně určené pro začínající závodníky kteří v roce 2025 dosáhnou věku 7 až 19 let. Pořadatel může uspořádat závod oblastní ligy i pro mladší či starší závodníky než je doporučené věkové rozpětí.
+
+
+== Pořadatel 
+
+. Každá právnická i fyzická osoba registrovaná v Českém horolezeckém svazu (dále jen ČHS), má právo uspořádat závod(y) oblastní ligy.
+. Vzájemné vztahy pořadatele a ČHS včetně jejich práv a povinností upravuje tento dokument.
+. Pořadatel má právo vybírat startovné od všech závodníků
+. Předregistrace do závodu probíhá takovou formou kterou zvolí pořadatel. Pořadatel může využít elektronické nástroje na webu ČHS pro předregistraci závodníků po dohodě s koordinátorem oblastních lig.
+. Registrace v den závodu na místě je možná v jen se souhlasem pořadatele.
+
+== Typy závodů mládeže pro rok 2025 
+
+. Závody oblastních lig netvoří ucelený seriál závodů a probíhají v následujících disciplínách:
+.. Obtížnost
+.. Rychlost
+.. Boulder
+.. kombinace výše uvedených disciplín
+
+. Závody oblastních lig nejsou považovány za výkonnostní sportovní kategorii.
+
+== Závodníci 
+
+. Závody oblastních lig jsou otevřené pouze pro české účastníky i cizince. 
+
+. Závody oblastních lig mohou být organizovány pro registrované členy ČHS i pro neregistrovanou veřejnost. 
+
+. Pro účast na závodech mládeže organizovaných ČHS jsou vyžadovány zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění pro organizovaný i neorganizovaný sport. Možné je použít na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] zveřejněný platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor zdravotní prohlídky] nebo https://www.horosvaz.cz/res/archive/555/094066.pdf?seek=1731945032[vzor čestného prohlášení]. Potvrzení vydává praktický nebo sportovní lékař (dle charakteru zdravotní prohlíkdy) a toto potvrzení má platnost 1 rok. Za absolvování zdravotní prohlídky odpovídá závodník a jeho zákonný zástupce. Za kontrolu platnosti zdravotní prohlídky zodpovídá oddíl, jehož je závodník členem. ČHS má právo kontrolovat, zda člen ČHS a oddíl plní povinnosti spojené s vyhláškou 391/2013 Sb., v platném znění.
+
+== Oficiální činovníci
+. Delegát ČHS není jmenován
+. Pořadatel zajistí hlavního rozhodčího a traťové rozhodčí pro jednotlivé kategorie. Pro řádný průběh závodu musí být dostatečný počet traťových rozhodčích.
+. Pokud pořadatel rozhodne o využití stavěče nebo rozhodčích ČHS informuje o této skutečnosti před vydáním propozic sekci domácích soutěží ČHS zasláním emailu na adresu zavody@horosvaz.cz
+
+== Poskytování informací o závodě 
+
+. Každý pořadatel z důvodů plánování ostatních soutěží zažádá koodinátora soutěže Lucii Kalašovou (lucie.kalasova@horosvaz.cz) o zařazení závodu do kalendáře závodů minimálně 20 dní před prvním dnem konání závodu.
+
+. Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu včetně pravidel závodu a zaslat je koordinátorovi soutěže (lucie.kalasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. Propozice by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele a pravidla závodu. 
+
+. Pořadatel je povinen zaslat výsledky ve formátu XLS koordinátoroci soutěže nejpozději do 72 hodin po skončení závodu.
+
+. Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka (pokud je registrován) a jeho konečné umístění v závodě v jeho kategorii. 
+
+. Zpracování výsledků zajišťuje pořadatel. Pořadatel může využít výsledkové aplikace dodané svazem. 
+. Předregistraci závodníků zajišťuje pořadatel. Pořadatel může využít svazový systém předregistrace závodníků.
+
+== Průběh závodů a bezpečnost závodů
+
+Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2025>>.
+
+== Vyhlášení výsledků 
+
+. Vyhlášení výsledků musí být provedeno důstojným způsobem. Vyhlášení výsledků musí být nejdéle do 30 minut po ukončení posledního kola závodu poslední kategorie. Jednotlivé kategorie mohou být vyhlašovány i v průběhu závodu.
+
+. Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků.
+
+. V kategoriích do U13 včetně je doporučeno ocenit každého účastníka závodu drobnou cenou nebo upomínkovým předmětem.
+
+== Žebříček ČHS
+
+. Závody oblastních lig se nezapočítávají do žebříčku ČHS.
+
+== Ostatní 
+
+. ČHS si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti a regulérnosti závodu.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2025>>, které jsou pro oblastní ligy doporučující.

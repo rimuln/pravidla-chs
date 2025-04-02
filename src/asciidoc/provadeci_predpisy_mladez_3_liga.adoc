@@ -62,7 +62,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 . Za české závodníky jsou považovány osoby s českou státní příslušností, za zahraniční závodníky jsou považovány osoby s jinou než českou státní příslušností a které nemají v České republice trvalý nebo dlouhodobý pobyt.
 
-. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění pro organizovaný sport. Možné je použít na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] zveřejněný platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor zdravotní prohlídky] nebo https://www.horosvaz.cz/res/archive/555/094066.pdf?seek=1731945032[vzor čestného prohlášení]. Potvrzení vydává sportovní lékař a toto potvrzení má platnost 1 rok. Za absolvování zdravotní prohlídky odpovídá závodník a jeho zákonný zástupce. Za kontrolu platnosti zdravotní prohlídky zodpovídá oddíl, jehož je závodník členem. ČHS má právo kontrolovat, zda člen ČHS a oddíl plní povinnosti spojené s vyhláškou 391/2013 Sb., v platném znění.
+. Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění pro organizovaný sport. Možné je použít na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] zveřejněný platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor zdravotní prohlídky] nebo https://www.horosvaz.cz/res/archive/555/094066.pdf?seek=1731945032[vzor čestného prohlášení]. Potvrzení vydává prakticný nebo sportovní lékař (dle charakteru sportovní prohlídky) a toto potvrzení má platnost 1 rok. Za absolvování zdravotní prohlídky odpovídá závodník a jeho zákonný zástupce. Za kontrolu platnosti zdravotní prohlídky zodpovídá oddíl, jehož je závodník členem. ČHS má právo kontrolovat, zda člen ČHS a oddíl plní povinnosti spojené s vyhláškou 391/2013 Sb., v platném znění.
 
 == Oficiální činovníci
 . Delegát ČHS není jmenován
@@ -83,11 +83,11 @@ Stavěč ČHS je absolvent samostatného školení stavěčů ČHS, které poř�
 
 == Poskytování informací o závodě 
 
-. Každý pořadatel z důvodů plánování ostatních soutěží zažádá koodinátora soutěže Lucii Kalašovou(lucie.kalasova@horosvaz.cz) o zařazení závodu do kalendáře závodů minimálně 20 dní před prvním dnem konání závodu.
+. Každý pořadatel z důvodů plánování ostatních soutěží zažádá koodinátora soutěže Lucii Kalašovou (lucie.kalasova@horosvaz.cz) o zařazení závodu do kalendáře závodů minimálně 20 dní před prvním dnem konání závodu.
 
 . Každý pořadatel je povinen nejméně 20 dní před závody vydat propozice závodu včetně pravidel závodu a zaslat je koordinátorovi soutěže (lucie.kalasova@horosvaz.cz) ke zveřejnění v kalendáři závodů ČHS. link:https://www.horosvaz.cz/res/archive/363/061734.docx[Propozice] by měly obsahovat minimálně místo konání, časový harmonogram závodu, formát závodu, jméno hlavního rozhodčího, hlavního stavěče a ředitele závodu, kontakt na pořadatele a pravidla závodu. Pořadatel je povinen informovat lezeckou veřejnost a komisi o časovém programu závodu tak, aby ČHS měl dostatečný prostor poskytnout informace o závodech dalším médiím. Je doporučeno využít k propagaci i místní media.
 
-. Pořadatel je povinen nahrát výsledky ve formátu PDF na web ČHS do 72 hodin po skončení závodu.
+. Pořadatel je povinen nahrát výsledky ve formátu PDF na web ČHS nejpozději do 72 hodin po skončení závodu.
 
 . Konečná výsledková listina musí obsahovat jméno, příjmení, rok narození, oddílovou příslušnost závodníka, státní příslušnost závodníka (u zahraničních účastníků) a jeho výkony dosažené ve všech kolech (pokud možno v jedné tabulce). Na všech výsledkových listinách musí být uveden čas vydání této listiny a podpis hlavního rozhodčího.
 
@@ -104,6 +104,10 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné 
 
 . Musí být vyhlášeni nejméně první tři závodníci a oceněni alespoň diplomem a cenami dodanými eventuálním partnerem závodu. Další ocenění je na pořadatelích. Nepřihlíží se k národnosti závodníků.
 . V kategoriích do U13 včetně je doporučeno ocenit každého účastníka závodu drobnou cenou nebo upomínkovým předmětem.
+
+== Žebříček ČHS
+
+. Závody 3. ligy se započítávají do žebříčku ČHS.
 
 == Ostatní 
 

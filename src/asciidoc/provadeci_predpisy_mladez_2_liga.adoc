@@ -165,6 +165,10 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 . Závodníci na prvních třech místech celkového pořadí seriálů dané oblasti v každé kategorii obdrží po ukončení posledního závodu diplomy a poháry pro celkové vyhodnocení seriálu. Vyhlášení celkového pořadí zajistí pověřený pracovník Sekce domácích soutěží ČHS.
 
+== Žebříček ČHS
+
+. Závody seriálu 2. ligy se započítávají do žebříčku ČHS.
+
 == Ostatní 
 
 . Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje manažer Sekce domácích soutěží ČHS. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů na závodech 2. ligy je možné dotaci krátit.
