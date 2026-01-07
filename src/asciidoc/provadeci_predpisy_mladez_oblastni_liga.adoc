@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody oblastních lig ve sportovním lezení dětí a mládeže pro rok 2025
+= Prováděcí předpisy ČHS pro závody oblastních lig ve sportovním lezení dětí a mládeže pro rok 2026
 Český horolezecký svaz
-v1.5, 1.1.2025
+v1.6, 1.1.2026
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -20,7 +20,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 == Obecně
 . Závody oblastních lig v lezení dětí a mládeže jsou organizovány členy Českého horolezeckého svazu a jsou zařazeny do systému soutěží Českého horolezeckého svazu ve sportovním lezení. 
  
-. Závody oblastních lig jsou primárně určené pro začínající závodníky kteří v roce 2025 dosáhnou věku 7 až 19 let. Pořadatel může uspořádat závod oblastní ligy i pro mladší či starší závodníky než je doporučené věkové rozpětí.
+. Závody oblastních lig jsou primárně určené pro začínající závodníky kteří v roce 2026 dosáhnou věku 7 až 19 let. Pořadatel může uspořádat závod oblastní ligy i pro mladší či starší závodníky než je doporučené věkové rozpětí.
 
 
 == Pořadatel 
@@ -31,7 +31,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Předregistrace do závodu probíhá takovou formou kterou zvolí pořadatel. Pořadatel může využít elektronické nástroje na webu ČHS pro předregistraci závodníků po dohodě s koordinátorem oblastních lig.
 . Registrace v den závodu na místě je možná v jen se souhlasem pořadatele.
 
-== Typy závodů mládeže pro rok 2025 
+== Typy závodů mládeže pro rok 2026 
 
 . Závody oblastních lig netvoří ucelený seriál závodů a probíhají v následujících disciplínách:
 .. Obtížnost
@@ -69,7 +69,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Průběh závodů a bezpečnost závodů
 
-Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2025>>.
+Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné v propozicích. Bezpečnost závodu musí splňovat příslušné ustanovení <<pravidla_sl.adoc#,Pravidel sportovního lezení ČHS 2026>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimek ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2026>>.
 
 == Vyhlášení výsledků 
 
@@ -86,4 +86,4 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné 
 == Ostatní 
 
 . ČHS si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti a regulérnosti závodu.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2025>>, které jsou pro oblastní ligy doporučující.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2026>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2026>>, které jsou pro oblastní ligy doporučující.

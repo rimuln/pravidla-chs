@@ -1,0 +1,21 @@
+:lang: cs
+include::../../locale/_attributes.adoc[]
+:title-page:
+:imagesdir: ./images
+:!chapter-label:
+:!section-refsig:
+:!chapter-refsig:
+:stem: latexmath
+:xrefstyle: short
+:toc: left
+:toclevels: 2
+= Souhrn změn v pravidlech a prováděcích předpisech pro rok 2026
+Český horolezecký svaz
+v1.6, 1.1.2026
+:title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
+:sectnums:
+
+ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
+
+- *Změny v1.6.SNAPSHOT*
+

@@ -11,13 +11,13 @@ include::../../locale/_attributes.adoc[]
 :toclevels: 2
 = Souhrn změn v pravidlech a prováděcích předpisech pro rok 2025
 Český horolezecký svaz
-v1.5, 1.1.2025
+v1.6, 1.1.2025
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
-- *Změny v1.5.SNAPSHOT*
+- *Změny v1.5.160*
 
 Zavedeny registrace vedoucích týmů
 

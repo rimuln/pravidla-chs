@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy ČHS pro závody 2. ligy ve sportovním lezení dětí a mládeže pro rok 2025
+= Prováděcí předpisy ČHS pro závody 2. ligy ve sportovním lezení dětí a mládeže pro rok 2026
 Český horolezecký svaz
-v1.5, 1.1.2025
+v1.6, 1.1.2026
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -53,19 +53,19 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 . Česko
 
-== Typy závodů mládeže pro rok 2025 
+== Typy závodů mládeže pro rok 2026 
 
 . Závody musí být vypsané pro kategorie U11, U13, U15, U17 a U21. Kde kategorie U21 zahrnuje i kategorii U19.
-. Oblastní mistrovství se pro rok 2025 nevyhlašuje.
+. Oblastní mistrovství se pro rok 2026 nevyhlašuje.
 
 . Obtížnost
-.. seriál závodů 2. ligy v lezení na obtížnost 2025
+.. seriál závodů 2. ligy v lezení na obtížnost 2026
 ... Doporučené formáty jsou:
 .... Standardní formát tj. 2 kvalifikační cesty + 1 finálová
-.... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2025>>)
+.... Volný formát tj. 3. kvalifikační cesty a v případě shody na 1. až 3. místě superfinále s měřením času. (viz <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2026>>)
 
 . Rychlost
-.. v roce 2025 závody v této disciplíně neprobíhají
+.. v roce 2026 závody v této disciplíně neprobíhají
 
 . Boulder
 .. seriál závodů 2. ligy v boulderu
@@ -127,7 +127,7 @@ Práci a náklady spojené se zpracováním výsledků hradí pořadatel.
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy mládeže  ve sportovním lezení pro rok 2025>>.
+Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2026>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody 2. ligy mládeže  ve sportovním lezení pro rok 2026>>.
 
 == Vyhlášení výsledků 
 
@@ -171,6 +171,6 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje manažer Sekce domácích soutěží ČHS. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů na závodech 2. ligy je možné dotaci krátit.
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje manažer Sekce domácích soutěží ČHS. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2026 či ustanovení prováděcích předpisů na závodech 2. ligy je možné dotaci krátit.
 . Sekce domácích soutěží ČHS si vyhrazuje právo vyslat na závod pověřenou osobu, která provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti, regulérnosti závodu a plnění marketingových práv.
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2025>>.
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2026>> a <<vyjimky_z_pravidel_pro_2_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 2. ligy ve sportovním lezení pro rok 2026>>.

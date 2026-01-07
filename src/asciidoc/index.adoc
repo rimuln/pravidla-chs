@@ -5,7 +5,7 @@ include::../../locale/_attributes.adoc[]
 
 == Aktuální rok
 
-<<souhrn_zmen_2025.adoc#,Souhrn změn v pravidlech a prováděcích předpisech pro rok 2025>> [link:souhrn_zmen_2025.pdf[PDF verze]]
+<<souhrn_zmen_2026.adoc#,Souhrn změn v pravidlech a prováděcích předpisech pro rok 2026>> [link:souhrn_zmen_2026.pdf[PDF verze]]
 
 <<pravidla_sl.adoc#,Pravidla sportovního lezení>> [link:pravidla_sl.pdf[PDF verze]]
 
@@ -29,6 +29,7 @@ Stáhnout vše: link:pravidla-pdf.zip[PDF], link:pravidla-html.zip[HTML]
 
 == Předchozí roky
 
+- link:2025[Pravidla a prováděcí předpisy pro rok 2025]
 - link:2024[Pravidla a prováděcí předpisy pro rok 2024]
 - link:2023[Pravidla a prováděcí předpisy pro rok 2023]
 - link:2022[Pravidla a prováděcí předpisy pro rok 2022]

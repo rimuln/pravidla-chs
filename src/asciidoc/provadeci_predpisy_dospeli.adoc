@@ -9,9 +9,9 @@ include::../../locale/_attributes.adoc[]
 :xrefstyle: short
 :toc: left
 :toclevels: 2
-= Prováděcí předpisy sportovního lezení dospělých pro rok 2025
+= Prováděcí předpisy sportovního lezení dospělých pro rok 2026
 Český horolezecký svaz
-v1.5, 1.1.2025
+v1.6, 1.1.2026
 :title-logo-image: image:logo_chs.jpg[image,width=313,height=164,align="center"]
 :sectnums:
 
@@ -25,7 +25,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . ČHS si vyhrazuje právo na umístění banneru s logem ČHS a bannerů s logy partnerů ČHS v prostoru závodu. Umístění bannerů koordinuje technický delegát a Technický ředitel akce a upravuje smlouva mezi ČHS a pořadatelem. 
 . Vyhlášení výsledků musí být provedeno důstojným způsobem. 
 . Organizátor má právo vybírat startovné od soutěžících nebo soutěžních týmů. V některých případech může Organizátor přenechat výběr startovného Pořadateli.
-
++
 Maximální výši startovného určuje následující tabulka:
 +
 [cols=",,",options="header"]
@@ -93,7 +93,7 @@ Nominační závody musí být pořádány v open formátu.
 
 == Průběh závodů 
 
-Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>>.
+Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2026>>.
 
 === Obtížnost
 . Závody nejvyšších soutěží se uskuteční ve dvou dnech: 1. den muži kvalifikace (2 cesty) + ženy kvalifikace (2 cesty), které se lezou bez dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>, 2. den muži semifinále + finále, ženy semifinále + finále (vše za dodržení <<pravidla_sl.adoc#podminky-izolace,podmínek izolace>>) /. V případě že závod je zároveň i nominačním závodem, pak je možné tento závod uspořádat i bez semifinále v jednom dni.
@@ -130,7 +130,7 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 == Hodnocení seriálu závodů ČP 
 
-. Z každého závodu získává český účastník body do průběžného rankingu ve sportovním lezení na obtížnost, v boulderu a lezení na rychlost. Body jsou přidělovány na základě automaticky generovaného vzorce zohledňujícího počet závodníků a kvalitu startovního pole, který je k dispozici u správce rankingu. Do průběžného rankingu se započítávají všechny závody plovoucího roku (za posledních 730 dní) v dané soutěžní disciplíně. Zahraniční účastníci se do rankingu nezapočítávají. 
+. Z každého ligového závodu a Mezinárodního Mistrovství ČR získává český účastník body do průběžného rankingu ve sportovním lezení na obtížnost, v boulderu a lezení na rychlost. Body jsou přidělovány na základě automaticky generovaného vzorce zohledňujícího počet závodníků a kvalitu startovního pole, který je k dispozici u správce rankingu. Do průběžného rankingu se započítávají všechny závody plovoucího roku (za posledních 730 dní) v dané soutěžní disciplíně. Zahraniční účastníci se do rankingu nezapočítávají. 
 
 . Celkové hodnocení v poháru
 .. Celkové výsledky poháru se vyhlašují, pokud se uskuteční minimální počet závodů.
@@ -192,11 +192,11 @@ Pro všechny typy závodů platí <<pravidla_sl.adoc#,Pravidla sportovního leze
 
 == Ostatní 
 
-. Výši finanční a případně jiné podpory závodů nejvyšších soutěží a 1. ligy schvaluje Organizátor. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2025 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
+. Výši finanční a případně jiné podpory závodů nejvyšších soutěží a 1. ligy schvaluje Organizátor. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2026 či ustanovení prováděcích předpisů včetně personálního zajištění bude dotace krácena. 
 
 . Pro závody 3. ligy mají výše uvedené předpisy doporučující charakter. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>> a <<Poskytování informací o závodech>>.<<pioz-2>>.<<pioz-4>>.
 
 . Pro závody Oblastních lig mají výše uvedené předpisy doporučující charakter. Pořadatelé mohou pravidla přizpůsobit svým možnostem a místním zvyklostem. Zcela závazné jsou pro pořadatele pouze body <<Poskytování informací o závodech>>.<<pioz-1>> a <<Poskytování informací o závodech>>.<<pioz-2>>.<<pioz-5>>.
 
 
-. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2025>>
+. Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2026>>
