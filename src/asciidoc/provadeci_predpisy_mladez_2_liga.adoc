@@ -79,7 +79,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 +
 Omezení závodníci se mohou závodu 2. ligy účastnit v režimu mimo soutěž a to pouze se souhlasem Organizátora a Pořadatele.
 +
-Sekce domácích soutěží může udělit výjimku (např. návrat po dlouhodobé nemoci) pro závodníka s omezením práva startu v nižších soutěžích. Žádost musí zpravidla obsahovat lékařskou zprávu a podává se elektronicky emailem na zavody@horosvaz.cz. Sekce domácích soutěží vydá k žádosti o výjimku písemné stanovisko, které bude věřejně dostupné pro členy ČHS.
+Sekce domácích soutěží může udělit výjimku (např. návrat po dlouhodobé nemoci) pro závodníka s omezením práva startu v nižších soutěžích. Žádost musí zpravidla obsahovat lékařskou zprávu a podává se elektronicky emailem na zavody@horosvaz.cz. Sekce domácích soutěží vydá k žádosti o výjimku písemné stanovisko, které bude veřejně dostupné pro členy ČHS.
 
 . Pořadatel může omezit maximální počet závodníků, za předpokladu, že tento počet v dané kategorii a pohlaví nesmí klesnout pod 24. Tento počet pak musí být uveden v propozicích závodu.
 

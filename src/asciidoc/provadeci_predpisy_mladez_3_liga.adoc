@@ -74,7 +74,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 . Pro účast na závodech mládeže organizovaných ČHS jsou povinné zdravotní prohlídky dle vyhlášky 391/2013 Sb. v platném znění pro organizovaný sport. Možné je použít na https://www.horosvaz.cz/soutezni-lezeni/[stránkách ČHS] zveřejněný platný https://www.horosvaz.cz/res/archive/246/034466.pdf[vzor zdravotní prohlídky] nebo https://www.horosvaz.cz/res/archive/555/094066.pdf?seek=1731945032[vzor čestného prohlášení]. Potvrzení vydává prakticný nebo sportovní lékař (dle charakteru sportovní prohlídky) a toto potvrzení má platnost 1 rok. Za absolvování zdravotní prohlídky odpovídá závodník a jeho zákonný zástupce. Za kontrolu platnosti zdravotní prohlídky zodpovídá oddíl, jehož je závodník členem. ČHS má právo kontrolovat, zda člen ČHS a oddíl plní povinnosti spojené s vyhláškou 391/2013 Sb., v platném znění.
 
 == Oficiální činovníci
-. Delegát ČHS není jmenován
+. Delegát ČHS může být na závodech jmenován organizátorem podle potřeby
 . Hlavní rozhodčí může mít licenci
 .. Hlavní rozhodčí ČHS
 .. Rozhodčí ČHS
@@ -119,6 +119,6 @@ Pro všechny typy závodů platí pravidla pro průběh soutěže zveřejněné 
 . Závody 3. ligy se započítávají do žebříčku ČHS.
 
 == Ostatní 
-
+. Výši finanční a případně jiné podpory závodů všech typů podporovaných ČHS schvaluje manažer Sekce domácích soutěží ČHS. V případě nedodržení Pravidel sportovního lezení ČHS platných pro rok 2026 či ustanovení prováděcích předpisů na závodech 3. ligy je možné dotaci krátit.
 . ČHS si vyhrazuje právo vyslat svého člena komise, který provede kontrolu závodu se záměrem zhodnocení dodržování stanovených pravidel, a to zejména týkajících se bezpečnosti a regulérnosti závodu.
 . Nedílnou součástí těchto předpisů jsou <<pravidla_sl.adoc#,Pravidla sportovního lezení ČHS 2026>> a <<vyjimky_z_pravidel_pro_3_liga_mladez.adoc#,Výjimky ze soutěžních pravidel ČHS pro závody mládeže 3. ligy ve sportovním lezení pro rok 2026>>, které jsou pro 3. ligu doporučující.

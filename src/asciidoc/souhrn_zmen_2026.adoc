@@ -19,3 +19,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 - *Změny v1.6.SNAPSHOT*
 
+Povinný delegát na závodech 2. ligy
+
+Finanční podpora závodů 3. ligy
+
