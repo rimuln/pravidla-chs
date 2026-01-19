@@ -18,7 +18,7 @@ v1.6, 1.1.2026
 ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 == Obecně
-Pro Mistrovství republiky a závody 1. ligy v kategoriích do 15 let platí <<provadeci_predpisy_mladez_1_liga.adoc#,„Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy mládeže ve sportovním lezení pro rok 2023“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2023“>> s výjimkami v těchto bodech:
+Pro Mistrovství republiky a závody 1. ligy v kategoriích do 15 let platí <<provadeci_predpisy_mladez_1_liga.adoc#,„Prováděcí předpisy ČHS pro závody nejvyšších soutěží a 1. ligy mládeže ve sportovním lezení pro rok 2026“>> a <<pravidla_sl.adoc#,„Pravidla sportovního lezení ČHS 2026“>> s výjimkami v těchto bodech:
 
 == Lezecká stěna
 
