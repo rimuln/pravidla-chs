@@ -7,8 +7,8 @@
 +
 Český horolezecký svaz hájí zájmy horolezectví směrem k organizacím v ČR i k mezinárodní federaci IFSC (International Federation of Sport Climbing). ČHS vlastní veškerá marketingová, obchodní, mediální a další práva k oficiálním soutěžím ve sportovním lezení na území ČR. Převod těchto práv na další subjekt je plně v kompetenci ČHS.
 . ČHS plní funkci nejvyšší autority pro všechny významné národní lezecké soutěže, jak jsou uvedeny níže v části <<#souteze>>. Jako takový je oprávněn:
-.. Kontrolovat všechy technické a jiné aspekty doržování pravidel sportovního lezení a vnitřních předpisů ČHS;
-.. Příjímat přihlášky pořadatelů národních lezeckých soutěží;
+.. Kontrolovat všechny technické a jiné aspekty dodržování pravidel sportovního lezení a vnitřních předpisů ČHS;
+.. Přijímat přihlášky pořadatelů národních lezeckých soutěží;
 .. Schvalovat přihlášky pořadatelů, které posuzuje v zájmu rozvoje sportovního lezení a které vyhodnotí ve shodě s pravidly a nařízeními ČHS platnými pro soutěže ČHS v sportovním lezení.
 
 . Všechny soutěže schválené ČHS musí být za všech okolností připravovány, pořádány a vykonány v přísné shodě s pravidly a nařízeními, které se s těmito soutěžemi pojí.
@@ -58,7 +58,7 @@ Oddíly ČHS, organizátoři akcí a osoby spojené s jakoukoliv akcí v kalend�
 .. 1. liga – Český pohár, včetně Českého poháru mládeže a Českého poháru do 14 let
 .. 2. liga – oblastní závody pořádané jako oficiální soutěže ČHS
 .. 3. liga – závody nižší úrovně pořádané jako oficiální soutěže ČHS
-.. Oblastní ligy - reginonální závody pořádané jako oficiální soutěže ČHS
+.. Oblastní ligy - regionální závody pořádané jako oficiální soutěže ČHS
 .. Školní Boulder pohár mládeže – náborové závody pro členy i nečleny ČHS 
 
 [#oficialni-soutezni-cinitele]
@@ -74,7 +74,7 @@ Hlavní rozhodčí je zodpovědný za vydání výsledkové listiny, přijímán
 +
 Hlavnímu rozhodčímu v jeho výkonu asistují pomocní rozhodčí (traťový rozhodčí, boulderový rozhodčí), navržení pořadatelem závodu a schválení Koordinátorem soutěže. Hlavní rolí pomocných rozhodčí je posuzovat výkony soutěžících na cestách a na boulderech. Pomocní rozhodčí musejí být plně obeznámeni se všemi technickými pravidly a nařízeními platnými pro soutěže ČHS a v rámci svých povinností přijímají pokyny a pracují pod vedením Hlavního rozhodčího. Hlavní rozhodčí je zodpovědný za informování všech pomocných rozhodčích ohledně aplikace pravidel ČHS ještě před začátkem soutěže.
 +
-ČHS může také jmenovat dodatečné rozhodčí, případně rozhodčího-aspiranta, který prochází mentoringovýcm programem pro zisk licence Hlavního rozhodčího ČHS.
+ČHS může také jmenovat dodatečné rozhodčí, případně rozhodčího-aspiranta, který prochází mentoringovým programem pro zisk licence Hlavního rozhodčího ČHS.
 +
 Hlavní rozhodčí musí předložit ČHS podrobnou zprávu o dané soutěži a o každém uchazeči na rozhodčího, který je účastníkem mentoringového programu rozhodčích a na závodě působil.
 +
