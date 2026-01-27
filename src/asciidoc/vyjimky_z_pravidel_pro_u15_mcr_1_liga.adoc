@@ -127,8 +127,3 @@ Pro závody v klasickém formátu a světovém formátu není závodník při p�
 === Cesty u nominačního formátu
 
 Nominační formát může proběhnout na jedné nebo dvou identických cestách.
-
-
-== Protesty
-
-Poplatek je stanoven na 200 Kč.
