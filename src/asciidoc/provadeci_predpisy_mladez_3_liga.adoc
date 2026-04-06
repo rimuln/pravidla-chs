@@ -46,6 +46,7 @@ ifdef::backend-html5[<<index.adoc#,Zpět na seznam dokumentů>>]
 
 . Předregistrace do závodu probíhá přes online systém v kalendáři závodů na stránkách ČHS.
 . Dodatečná registrace v den závodu na místě je možná jen se souhlasem pořadatele a při splnění podmínek registrace  závodníka u ČHS a platné zdravotní prohlídky.
+. Podrobnější informace pro pořadatele lze najít v link:https://www.horosvaz.cz/res/archive/599/102450.pdf[Manuálu pořadatele pro 3. ligu]
 
 == Typy závodů mládeže pro rok 2026 
 
